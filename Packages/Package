@@ -1,0 +1,6 @@
+#
+unsetenv LANG
+foreach a (`grep -v \# List`)
+	cd /usr/pkgsrc/*/$a
+	make install
+end
