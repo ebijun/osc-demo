@@ -1,0 +1,36 @@
+kterm-6.2.0nb23     Multi-lingual terminal emulator for X
+sqlite3-3.7.17      SQL Database Engine in a C Library
+tcsh-6.18.01nb4     Extended C-shell with many useful features
+libevent-2.0.21nb2  Asynchronous event notification library
+libffi-3.0.13       Foreign function interface
+nspr-4.9.6          Platform-neutral API for system level and libc like functions
+nss-3.14.3nb1       Libraries to support development of security-enabled applications
+png-1.6.2           Library for manipulating PNG images
+cairo-1.12.14nb1    Vector graphics library with cross-device output support
+libvpx-1.1.0nb2     On2 VP8 library from Google
+perl-5.16.3         Practical Extraction and Report Language
+libelf-0.8.13       ELF object file access library
+pcre-8.32           Perl Compatible Regular Expressions library
+glib2-2.36.1        Some useful routines for C programming (glib2)
+libIDL-0.8.14nb4    CORBA Interface Definition Language parser
+hunspell-1.3.2nb1   Improved spellchecker
+python27-2.7.4      Interpreted, interactive, object-oriented programming language
+py27-expat-2.7.4    Python interface to expat
+xmlcatmgr-2.2nb1    XML and SGML catalog manager
+libxml2-2.9.0nb3    XML parser library from the GNOME project
+shared-mime-info-1.1 Core database of common types
+atk-2.8.0           Set of interfaces for accessibility
+jpeg-9              IJG's jpeg compression utilities
+tiff-4.0.3nb3       Library and tools for reading and writing TIFF data files
+gdk-pixbuf2-2.28.1  Image loaders for gtk2
+harfbuzz-0.9.16     OpenType text shaping engine
+cairo-gobject-1.12.14nb2 Vector graphics library with cross-device output support
+pango-1.32.5nb1     Library for layout and rendering of text
+gtk2+-2.24.17       GIMP Toolkit v2 - libraries for building X11 user interfaces
+desktop-file-utils-0.21 Utilities to manage desktop entries
+firefox-21.0        Web browser with support for extensions
+icewm-1.2.35nb1     Small, fast and light-weight window manager
+ttmkfdir2-20021109nb4 Tool that creates a fonts.scale file
+vlgothic-ttf-20121230 Free Japanese TrueType fonts named 'VLGothic'
+xli-1.17.0nb12      X11 Image Loading Utility
+kochi-ttf-20030809nb5 Free Japanese TrueType font by Yasuyuki Furukawa
