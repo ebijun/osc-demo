@@ -1,0 +1,60 @@
+digest-20121220     Message digest wrapper utility
+xdg-utils-1.1.0rc1  Tools to assist applications with various desktop integration tasks
+f2c-20100903        Fortran to C compiler including a script to emulate f77
+libtool-base-2.2.6bnb8 Generic shared library support script (the script itself)
+libyaml-0.1.4       YAML 1.1 parser and emitter written in C
+ruby193-base-1.9.3p429 Ruby 1.9.3 release minimum base package
+ruby193-hmac-0.4.0  Common interface to HMAC functionality
+ruby193-setup-3.4.1 Common installer script for ruby packages
+ruby193-pkg-config-1.1.4 pkg-config implemented by pure Ruby
+osabi-NetBSD-6.99.21 Operating System version dummy-package
+x11-links-0.73      Shadow tree of links to native X11 headers and libraries
+gmake-3.82nb5       GNU version of 'make' utility
+pkg-config-0.28     System for managing library compile/link flags
+perl-5.16.2nb4      Practical Extraction and Report Language
+p5-gettext-1.05nb8  Perl5 module interface to C I18N functions
+help2man-1.40.13    Generate simple manual pages from program output
+m4-1.4.16nb3        GNU version of UNIX m4 macro language processor
+autoconf-2.69nb1    Generates automatic source code configuration scripts
+libelf-0.8.13       ELF object file access library
+pcre-8.32           Perl Compatible Regular Expressions library
+libffi-3.0.12       Foreign function interface
+glib2-2.34.3        Some useful routines for C programming (glib2)
+ruby193-gnome2-glib-1.2.3 Ruby binding of GLib-2.x
+bison-2.7           GNU yacc(1) replacement
+readline-6.2        GNU library that can recall and edit previous input
+python27-2.7.3nb3   Interpreted, interactive, object-oriented programming language
+py27-cElementTree-0nb1 C implementation of Python ElementTree API
+gobject-introspection-1.34.2nb1 GObject Introspection
+atk-2.6.0           Set of interfaces for accessibility
+ruby193-gnome2-atk-1.2.3 Ruby binding of ATK-1.0.x or later
+jpeg-9              IJG's jpeg compression utilities
+tiff-4.0.3nb2       Library and tools for reading and writing TIFF data files
+png-1.6.1beta05     Library for manipulating PNG images
+gdk-pixbuf2-2.26.5nb2 Image loaders for gtk2
+ruby193-gnome2-gdkpixbuf-1.2.3 Ruby binding of GdkPixbuf-2.x
+dbus-1.6.8          Message bus system
+harfbuzz-0.9.13     OpenType text shaping engine
+cairo-1.12.14nb1    Vector graphics library with cross-device output support
+cairo-gobject-1.12.14nb1 Vector graphics library with cross-device output support
+pango-1.32.5nb1     Library for layout and rendering of text
+ruby193-rcairo-1.12.4 Ruby bindings for cairo
+ruby193-gnome2-pango-1.2.3 Ruby binding of pango-1.x
+py27-expat-0nb6     Python interface to expat
+p5-XML-Parser-2.41nb1 Perl extension interface to James Clark's XML parser, expat
+intltool-0.50.2nb1  Internationalization Tool Collection
+xmlcatmgr-2.2nb1    XML and SGML catalog manager
+libxml2-2.9.0nb3    XML parser library from the GNOME project
+shared-mime-info-1.1 Core database of common types
+gtk2+-2.24.17       GIMP Toolkit v2 - libraries for building X11 user interfaces
+ruby193-gnome2-gtk-1.2.3 Ruby binding of GTK+-2.x
+ruby193-oauth-0.4.7 OAuth Core Ruby implementation
+ruby193-memoize-1.3.1 Speeds up methods at the cost of memory (or disk space)
+ruby193-rdtool-0.6.38 RD (Ruby Document) converter to HTML/man/etc
+ruby193-bsearch-1.5nb2 Binary search library for Ruby
+ruby193-httpclient-2.3.3 HTTP accessing library for Ruby
+ruby193-addressable-2.3.3 Replacement for the URI Implementation of standard librrary
+ruby193-typed-array-0.1.2 Provides methods for creating type-enforced Arrays
+dbus-glib-0.100.2   GLib bindings for the D-BUS message bus system
+libnotify-0.4.5nb14 Desktop notification framework
+ruby193-mikutter-0.2.1.1141 Simply, powerfully, and moefully twitter client
