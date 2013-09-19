@@ -8,6 +8,7 @@ Demonstaration setting for NetBSD Booth
 
 総集編：
   AsiaBSDCon2013　http://www.soum.co.jp/~jun/asiabsdcon2013.pdf
+  JNUG2013 http://www.soum.co.jp/~jun/JNUG2013.pdf
 
 作り方：
  毎回セブンイレブンで両面カラーコピー1部＋両面白黒コピー15部印刷してます。
