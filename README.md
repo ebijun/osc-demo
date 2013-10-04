@@ -15,6 +15,7 @@ Demonstaration setting for NetBSD Booth
  表紙はイラストレータ、本文はscribus、インストールのはfossilのwikiからSphinxに
  乗り換えました。
 
+ 48.   OSC2013広島 http://www.soum.co.jp/~jun/OSC2013hiroshima.pdf
  47.   OSC2013北海道 http://www.soum.co.jp/~jun/OSC2013hokkaido.pdf
  46.   OSC2013島根 http://www.soum.co.jp/~jun/OSC2013shimane.pdf
  45.5  OSUS2013川越 http://www.soum.co.jp/~jun/OSUC2013kawagoe.pdf
