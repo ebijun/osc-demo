@@ -12,9 +12,12 @@ Demonstaration setting for NetBSD Booth
 
 作り方：
  毎回セブンイレブンで両面カラーコピー1部＋両面白黒コピー15部印刷してます。
- 表紙はイラストレータ、本文はscribus、インストールのはfossilのwikiからSphinxに
- 乗り換えました。
+ 表紙はイラストレータ、裏表紙はscribus、本文はSphinxを使っています。
 
+ 52.   OSC2013大分
+ 51.   OSC2013福岡
+ 50.   KOF2013
+ 49.   OSC2013東京秋 http://www.soum.co.jp/~jun/OSC2013tokyofall.pdf
  48.   OSC2013広島 http://www.soum.co.jp/~jun/OSC2013hiroshima.pdf
  47.   OSC2013北海道 http://www.soum.co.jp/~jun/OSC2013hokkaido.pdf
  46.   OSC2013島根 http://www.soum.co.jp/~jun/OSC2013shimane.pdf
