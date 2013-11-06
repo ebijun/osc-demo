@@ -16,7 +16,7 @@ Demonstaration setting for NetBSD Booth
 
  52.   OSC2013大分
  51.   OSC2013福岡
- 50.   KOF2013
+ 50.   KOF2013 http://www.soum.co.jp/~jun/KOF2013.pdf
  49.   OSC2013東京秋 http://www.soum.co.jp/~jun/OSC2013tokyofall.pdf
  48.   OSC2013広島 http://www.soum.co.jp/~jun/OSC2013hiroshima.pdf
  47.   OSC2013北海道 http://www.soum.co.jp/~jun/OSC2013hokkaido.pdf
