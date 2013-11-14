@@ -15,7 +15,7 @@ Demonstaration setting for NetBSD Booth
  表紙はイラストレータ、裏表紙はscribus、本文はSphinxを使っています。
 
  52.   OSC2013大分
- 51.   OSC2013福岡
+ 51.   OSC2013福岡 http://www.soum.co.jp/~jun/OSC2013fukuoka.pdf
  50.   KOF2013 http://www.soum.co.jp/~jun/KOF2013.pdf
  49.   OSC2013東京秋 http://www.soum.co.jp/~jun/OSC2013tokyofall.pdf
  48.   OSC2013広島 http://www.soum.co.jp/~jun/OSC2013hiroshima.pdf
