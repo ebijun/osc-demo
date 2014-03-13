@@ -7,13 +7,15 @@ Demonstaration setting for NetBSD Booth
 ~~~~~~~~~~~~~~~~~~
 
 総集編：
-  AsiaBSDCon2013　http://www.soum.co.jp/~jun/asiabsdcon2013.pdf
+  AsiaBSDCon2014　http://www.soum.co.jp/~jun/asiabsdcon2014.pdf
   JNUG2013 http://www.soum.co.jp/~jun/JNUG2013.pdf
 
 作り方：
  毎回セブンイレブンで両面カラーコピー1部＋両面白黒コピー15部印刷してます。
  表紙はイラストレータ、裏表紙はscribus、本文はSphinxを使っています。
 
+ 55.   OSC2014浜名湖 
+ 54.   AsiaBSDCon2014 http://www.soum.co.jp/~jun/asiabsdcon2014.pdf
  53.   OSC2014東京春 http://www.soum.co.jp/~jun/OSC2014tokyospring.pdf
  52.   OSC2013大分 http://www.soum.co.jp/~jun/OSC2013oita.pdf
  51.   OSC2013福岡 http://www.soum.co.jp/~jun/OSC2013fukuoka.pdf
