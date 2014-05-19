@@ -14,6 +14,8 @@ Demonstaration setting for NetBSD Booth
  毎回セブンイレブンで両面カラーコピー1部＋両面白黒コピー15部印刷してます。
  表紙はイラストレータ、裏表紙はscribus、本文はSphinxを使っています。
 
+ 57.   OSC2014沖縄 http://www.soum.co.jp/~jun/OSC2014okinawa.pdf
+ 56.5  OSuC2014川越 http://www.soum.co.jp/~jun/OSuC2014kawagoe.pdf
  56.   OSuC2014香川 http://www.soum.co.jp/~jun/OSuC2014kagawa.pdf
  55.   OSC2014浜名湖 http://www.soum.co.jp/~jun/OSC2014hamanako.pdf
  54.   AsiaBSDCon2014 http://www.soum.co.jp/~jun/asiabsdcon2014.pdf
@@ -28,7 +30,7 @@ Demonstaration setting for NetBSD Booth
  45.5  OSUS2013川越 http://www.soum.co.jp/~jun/OSUC2013kawagoe.pdf
  45.   OSC2013京都 http://www.soum.co.jp/~jun/OSC2013kyoto.pdf
  44.   JNUG2013 http://www.soum.co.jp/~jun/JNUG2013.pdf
- 43.	OSC2013沖縄 http://www.soum.co.jp/~jun/OSC2013okinawa.pdf
+ 43.   OSC2013沖縄 http://www.soum.co.jp/~jun/OSC2013okinawa.pdf
  42.   OSC2013名古屋　http://www.soum.co.jp/~jun/OSC2013nagoya.pdf
  41.   AsiaBSDCon2013　http://www.soum.co.jp/~jun/asiabsdcon2013.pdf
  40.   OSC2013徳島　http://www.soum.co.jp/~jun/OSC2013tokushima.pdf
