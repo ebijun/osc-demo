@@ -14,6 +14,7 @@ Demonstaration setting for NetBSD Booth
  毎回セブンイレブンで両面カラーコピー1部＋両面白黒コピー15部印刷してます。
  表紙はイラストレータ、裏表紙はscribus、本文はSphinxを使っています。
 
+ 59.   OSC2014名古屋 http://www.soum.co.jp/~jun/OSC2014nagoya.pdf
  58.   OSC2014北海道 http://www.soum.co.jp/~jun/OSC2014hokkaido.pdf
  57.   OSC2014沖縄 http://www.soum.co.jp/~jun/OSC2014okinawa.pdf
  56.5  OSuC2014川越 http://www.soum.co.jp/~jun/OSuC2014kawagoe.pdf
