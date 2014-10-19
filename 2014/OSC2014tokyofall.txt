@@ -1,0 +1,52 @@
+the Japan NetBSD Users' Group members held booth
+at the Open Source Conference 2014 Tokyo/Fall on Oct 20 2014:
+http://www.ospn.jp/osc2014-tokyofall/
+
+
+The NetBSD booth exhibited the following machines:
+ - Raspberry Pi with LCD (as usual)
+ - NetBSD/amd64 Dom0+NetBSD/FreeBSD/OpenBSD/DragonflyBSD/MirOS BSD
+   http://movapic.com/ebijun/pic/5195170
+ - CubieBoard Allwinner A20
+ - Firefly Rockchip RK3288
+   http://movapic.com/ebijun/pic/5195519
+ - Radxa Rock RK3188 
+   http://movapic.com/ebijun/pic/5195152
+ - Armadillo-9 
+ - Armadillo-210
+ - OLinxino Allwinner A20
+   http://movapic.com/ebijun/pic/5195508
+ - APC8750
+ - KOBO
+ - BeagleBone Black
+ - Sharp NetWalker + xnp2
+   http://movapic.com/ebijun/pic/5195044
+ - Sharp W-ZERO3 and W-ZERO3 Advanced[es]
+ - Sharp Zaurus SL-C7x0 and SL-C1000
+   http://movapic.com/ebijun/pic/5195476
+ - NetBSD/x68k on XM6i
+   http://movapic.com/ebijun/pic/5195040
+ - BSD cookie
+   http://movapic.com/ebijun/pic/5195419
+
+BSD BOF
+- http://www.soum.co.jp/~jun/OSC2014tokyofall.pdf @ebijun
+- NetBSD/evbarm on Radxa Rock @tokudahiroshi
+- NetBSD/zaurus on SL-C700 @tristelo 
+- AsiaBSDCon & bsdresearch.org @Hiroki_Sato
+
+Preparing NetBSD booth:
+ http://movapic.com/ebijun/pic/5195038
+
+
+Raspberry Pi running jun@'s updated 2014-10-19-netbsd-raspi.img image:
+http://mail-index.netbsd.org/port-arm/2014/10/18/msg002622.html
+
+More pictures are available on Togetter page:
+ http://togetter.com/li/733588
+ 
+
+We and visitors had a pleasure day at OSC 2014 Fukuoka.
+
+---
+Jun Ebihara
