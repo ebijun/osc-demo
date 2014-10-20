@@ -2,26 +2,26 @@ To: netbsd-advocacy%NetBSD.org@localhost
 Subject: NetBSD machines at Open Source Conference 2014 Tokyo/Fall
 
 the Japan NetBSD Users' Group members held booth
-at the Open Source Conference 2014 Tokyo/Fall on Oct 20 2014:
+at the Open Source Conference 2014 Tokyo/Fall on Oct 18-19 2014:
 http://www.ospn.jp/osc2014-fall/
 
 
 The NetBSD booth exhibited the following machines:
  - Raspberry Pi with LCD (as usual)
- - NetBSD/amd64 Dom0+NetBSD/FreeBSD/OpenBSD/DragonflyBSD/MirOS BSD
+ - NetBSD/amd64 Dom0+NetBSD/FreeBSD/OpenBSD/DragonflyBSD/MirOS BSD @tisihara
    http://movapic.com/ebijun/pic/5195170
- - CubieBoard2 Allwinner A20
- - Firefly Rockchip RK3288
+ - CubieBoard2 Allwinner A20 @naobsd
+ - Firefly Rockchip RK3288 
    http://movapic.com/ebijun/pic/5195519
- - Radxa Rock RK3188 
+ - Radxa Rock RK3188   @tokudahiroshi
    http://movapic.com/ebijun/pic/5195152
- - Armadillo-9 
- - Armadillo-210
- - OlimexのA20-OLinuXino-LIME Allwinner A20
+ - Armadillo-9   
+ - Armadillo-210 
+ - Olimex A20-OLinuXino-LIME Allwinner A20 
    http://movapic.com/ebijun/pic/5195508
    https://www.olimex.com/Products/OLinuXino/A20/A20-OLinuXino-LIME/open-source-hardware
- - APC8750
- - KOBO
+ - APC8750 
+ - KOBO 
  - BeagleBone Black
  - Sharp NetWalker + xnp2
    http://movapic.com/ebijun/pic/5195044
@@ -30,6 +30,8 @@ The NetBSD booth exhibited the following machines:
    http://movapic.com/ebijun/pic/5195476
  - NetBSD/x68k on XM6i
    http://movapic.com/ebijun/pic/5195040
+ - sticky stickers @okano_t
+   http://movapic.com/ebijun/pic/5195041
  - BSD cookie
    http://movapic.com/ebijun/pic/5195419
 
@@ -43,7 +45,7 @@ BSD BOF
 Preparing NetBSD booth:
  http://movapic.com/ebijun/pic/5195038
 
-Raspberry Pi running jun@'s updated 2014-10-19-netbsd-raspi.img image:
+Raspberry Pi running updated 2014-10-19-netbsd-raspi.img image:
  http://mail-index.netbsd.org/port-arm/2014/10/17/msg002654.html
 
 More pictures are available on Togetter page:
