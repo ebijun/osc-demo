@@ -1,0 +1,32 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at KANSAI OPEN FORUM 2014
+
+the Japan NetBSD Users' Group members held booth
+at the KANSAI OPEN FORUM 2014 on Nov. 7-8 2014:
+http://k-of.jp/
+
+
+The NetBSD booth exhibited the following machines:
+ - Raspberry Pi with LCD (as usual)
+ - SHARP SL-C1000
+ - NetBSD/x68k on XM6i
+ - sticky stickers @okano_t
+
+BSD BOF
+- http://www.soum.co.jp/~jun/KOF2014.pdf @ebijun
+
+Preparing NetBSD booth:
+ http://mo
+
+Raspberry Pi running updated 2014-11-08-netbsd-raspi.img image:
+ http://mail-index.netbsd.org/port-arm/2014/11/06/msg002721.html
+
+More pictures are available on Togetter page:
+ http://togetter.com/li/742243
+ 
+NEXT:
+ OSC2014 Fukuoka: http://www.ospn.jp/osc2014-fukuoka/ Nov.21-22 FUKUOKA,JAPAN
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
