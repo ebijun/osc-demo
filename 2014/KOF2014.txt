@@ -7,16 +7,22 @@ http://k-of.jp/
 
 
 The NetBSD booth exhibited the following machines:
- - Raspberry Pi with LCD (as usual)
- - SHARP SL-C1000
+ - OMRON LUNAII NetBSD/luna68k with mlterm-fb/libsixel/mikutter.
+   https://twitter.com/inCoChang/status/530616928373452800/photo/1
+ - Raspberry Pi with LCD (LCD hardware trouble)
+   https://twitter.com/tsutsuii/status/530563488708833280/photo/1
+ - SHARP SL-C1000 with xnp2 SuperDepth game.
+   https://twitter.com/tsutsuii/status/530630688270077952/photo/1
  - NetBSD/x68k on XM6i
+   https://twitter.com/tsutsuii/status/530609660785471488/photo/1
  - sticky stickers @okano_t
+   https://twitter.com/tsutsuii/status/530568145220550656/photo/1
 
 BSD BOF
 - http://www.soum.co.jp/~jun/KOF2014.pdf @ebijun
 
 Preparing NetBSD booth:
- http://mo
+   https://twitter.com/tsutsuii/status/530633334439682049/photo/1
 
 Raspberry Pi running updated 2014-11-08-netbsd-raspi.img image:
  http://mail-index.netbsd.org/port-arm/2014/11/06/msg002721.html
