@@ -7,6 +7,7 @@ http://k-of.jp/
 
 
 The NetBSD booth exhibited the following machines:
+ - https://k-of.jp/2014/session/541
  - OMRON LUNAII NetBSD/luna68k with mlterm-fb/libsixel/mikutter.
    https://twitter.com/inCoChang/status/530616928373452800/photo/1
  - Raspberry Pi with LCD (LCD hardware trouble)
@@ -15,14 +16,26 @@ The NetBSD booth exhibited the following machines:
    https://twitter.com/tsutsuii/status/530630688270077952/photo/1
  - NetBSD/x68k on XM6i
    https://twitter.com/tsutsuii/status/530609660785471488/photo/1
+ - NetBSD/evbarm SHARP Netwalker
+   http://movapic.com/ebijun/pic/5201504
  - sticky stickers @okano_t
    https://twitter.com/tsutsuii/status/530568145220550656/photo/1
+ - bash bashing sticker donation
+   http://movapic.com/ebijun/pic/5201510
 
 BSD BOF
+- https://k-of.jp/2014/session/542
+- http://movapic.com/ebijun/pic/5201604
 - http://www.soum.co.jp/~jun/KOF2014.pdf @ebijun
+- https://speakerdeck.com/tsutsui/kof-and-luna-at-netbsd-booth @tsutsuii
+
+Dynabook AZ,Various ARM Linux gadgets,pkgsrc on ARM Linux @kapper1224
+- https://k-of.jp/2014/session/562
+- http://movapic.com/ebijun/pic/5201633
+- http://movapic.com/ebijun/pic/5201637
 
 Preparing NetBSD booth:
-   https://twitter.com/tsutsuii/status/530633334439682049/photo/1
+   https://twitter.com/tsutsuii/status/530633334439682049
 
 Raspberry Pi running updated 2014-11-08-netbsd-raspi.img image:
  http://mail-index.netbsd.org/port-arm/2014/11/06/msg002721.html
