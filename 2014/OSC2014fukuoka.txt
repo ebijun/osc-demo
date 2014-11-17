@@ -1,0 +1,40 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2014 Fukuoka
+
+the Japan NetBSD Users' Group members held booth
+at the Open Source Conference 2014 Fukuoka on Nov 21-22 2014:
+ http://www.ospn.jp/osc2014-fukuoka/
+ https://www.facebook.com/events/1610125189211812/
+ https://www.facebook.com/NetBSD.jp
+ http://www.soum.co.jp/~jun/OSC2014fukuoka.pdf
+
+The NetBSD booth exhibited the following machines:
+ - Raspberry Pi with LCD (as usual)
+ - CubieBoard2 Allwinner A20
+ - KOBO 
+ - BeagleBone Black
+ - Sharp NetWalker + xnp2
+ - Sharp W-ZERO3 and W-ZERO3 Advanced[es]
+ - Sharp Zaurus SL-C7x0 and SL-C1000
+ - NetBSD/x68k on XM6i
+ - sticky stickers @okano_t
+
+
+Preparing NetBSD booth:
+ http:
+
+Raspberry Pi running updated 2014-11-22-netbsd-raspi.img image:
+ http://mail-index.netbsd.org/port-arm/
+
+More pictures are available on Togetter page:
+ http://togetter.com/li/
+
+Thanx for 2014 season playback map:
+  http://www.soum.co.jp/~jun/2014maps.pdf
+
+NEXT:
+ OSC2015 Hamanako: http://www.ospn.jp/osc2015-hamanako/ Feb.11 Shizuoka,JAPAN
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
