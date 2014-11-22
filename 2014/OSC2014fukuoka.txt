@@ -11,30 +11,35 @@ NetBSD Tourist Guide for NetBSD BoF time:
  http://www.soum.co.jp/~jun/OSC2014fukuoka.pdf
 
 The NetBSD booth exhibited the following machines:
- - Raspberry Pi with LCD (as usual)
- - CubieBoard2 Allwinner A20
- - KOBO 
- - BeagleBone Black
+ - CubieBoard2 Allwinner A20 with LCD (as usual)
+   http://movapic.com/ebijun/pic/5205709
+ - Raspberry Pi 
  - Sharp NetWalker + xnp2
- - Sharp W-ZERO3 and W-ZERO3 Advanced[es]
- - Sharp Zaurus SL-C7x0 and SL-C1000
- - NetBSD/x68k on XM6i
+   http://movapic.com/ebijun/pic/5205715
+ - Sharp W-ZERO3
+   http://movapic.com/ebijun/pic/5205752
+ - Sharp Zaurus SL-C7x0 and SL-C8x0
+   http://movapic.com/ebijun/pic/5205717
+ - NetBSD/x68k Sprite demonstration on XM6i by @oshimyja
+   https://twitter.com/oshimyja/status/535976469793501186/photo/1
  - sticky stickers @okano_t
+   http://movapic.com/ebijun/pic/5205725
 
 Preparing NetBSD booth:
- http:
+ http://movapic.com/ebijun/pic/5205696
 
 Raspberry Pi running updated 2014-11-22-netbsd-raspi.img image:
- http://mail-index.netbsd.org/port-arm/
+ http://mail-index.netbsd.org/port-arm/2014/11/20/msg002737.html
 
 CubieBoard2 running updated 2014-11-22-netbsd-allwinner.img image:
- http://mail-index.netbsd.org/port-arm/
+ http://mail-index.netbsd.org/port-arm/2014/11/20/msg002738.html
 
 More pictures are available on Togetter page:
- http://togetter.com/li/
+ http://togetter.com/li/748237
 
 Thanx for this 2014 season tour playback map:
   http://www.soum.co.jp/~jun/2014maps.pdf
+  http://movapic.com/ebijun/pic/5205719
 
 NEXT:
  OSC2015 Oita: http://www.ospn.jp/ Feb.7 Oita,JAPAN
