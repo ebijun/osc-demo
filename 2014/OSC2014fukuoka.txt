@@ -11,8 +11,9 @@ NetBSD Tourist Guide for NetBSD BoF time:
  http://www.soum.co.jp/~jun/OSC2014fukuoka.pdf
 
 The NetBSD booth exhibited the following machines:
- - CubieBoard2 Allwinner A20 with LCD (as usual)
+ - CubieBoard2 Allwinner A20 with LCD 
    http://movapic.com/ebijun/pic/5205709
+   http://blog.netbsd.org/tnf/entry/working_arm_multiprocessor_support
  - Raspberry Pi 
  - Sharp NetWalker + xnp2
    http://movapic.com/ebijun/pic/5205715
