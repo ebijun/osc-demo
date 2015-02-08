@@ -1,0 +1,39 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2015 Oita
+
+The Japan NetBSD Users' Group members held booth
+at the Open Source Conference 2015 Oita on Feb. 7 2015:
+
+ http://www.ospn.jp/osc2015-oita/
+ https://www.facebook.com/events/383442128496493/
+ https://www.facebook.com/NetBSD.jp/
+
+NetBSD Tourist Guide:
+ https://www.soum.co.jp/~jun/OSC2015oita.pdf
+
+The NetBSD booth exhibited the following machines:
+ - CubieBoard2 Allwinner A20 with LCD 
+   http://mail-index.netbsd.org/port-arm/2015/02/04/msg002834.html
+ - Raspberry Pi with omxplayer video output to HDMI 
+   http://mail-index.netbsd.org/port-arm/2015/02/04/msg002833.html
+   omxplayer: 
+     http://movapic.com/ebijun/pic/5227387
+ - BananaPI
+   http://mail-index.netbsd.org/port-arm/2015/01/30/msg002809.html
+   http://movapic.com/ebijun/pic/5227391
+ - Sharp NetWalker 
+     http://movapic.com/ebijun/pic/5227411
+ - Sharp W-ZERO3
+ - Sharp Zaurus SL-C7x0 and SL-C8x0
+ - sticky stickers @okano_t and @tsutsuii
+   http://movapic.com/ebijun/pic/5227405
+
+More pictures are available on Togetter page:
+  http://togetter.com/li/779725
+
+NEXT:
+ OSC2015 Hamanako: http://www.ospn.jp/ Feb.11 Hamamatsu,JAPAN
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
