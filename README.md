@@ -11,10 +11,14 @@ Demonstaration setting for NetBSD Booth
   JNUG2014 http://www.soum.co.jp/~jun/JNUG2014.pdf
 
 作り方：
+ https://github.com/ebijun/NetBSD/blob/master/Guide/Paper/sphinx.rst
+
  毎回セブンイレブンで両面カラーコピー1部＋両面白黒コピー15部印刷してます。
  表紙はイラストレータ、裏表紙はscribus、本文はSphinxを使っています。
  それぞれについて、pdf出力したものをpdfshufflerで組み合わせています。
 
+
+ 69.   OSC2015東京春  http://www.soum.co.jp/~jun/OSC2015tokyospring.pdf
  68.   OSC2015浜名湖  http://www.soum.co.jp/~jun/OSC2015hamanako.pdf
  67.   OSC2015大分    http://www.soum.co.jp/~jun/OSC2015oita.pdf
  66.   OSC2014福岡    http://www.soum.co.jp/~jun/OSC2014fukuoka.pdf
