@@ -1,0 +1,46 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2015 Hamanako
+
+The Japan NetBSD Users' Group members held booth
+at the Open Source Conference 2015 Hamanako on Feb. 11 2015:
+
+ http://www.ospn.jp/osc2015-hamanako/
+ https://www.facebook.com/events/510998999002593/
+ https://www.facebook.com/NetBSD.jp/
+
+Booth:
+ http://movapic.com/ebijun/pic/5228437
+
+NetBSD Tourist Guide:
+ https://www.soum.co.jp/~jun/OSC2015hamanako.pdf
+
+The NetBSD booth exhibited the following machines:
+ - CubieBoard2 Allwinner A20 with LCD 
+   http://mail-index.netbsd.org/port-arm/2015/02/04/msg002834.html
+ - Raspberry Pi with omxplayer video output to HDMI 
+   http://mail-index.netbsd.org/port-arm/2015/02/04/msg002833.html
+   omxplayer: 
+     http://movapic.com/ebijun/pic/5228439
+ - BananaPI
+   http://mail-index.netbsd.org/port-arm/2015/01/30/msg002809.html
+   http://movapic.com/ebijun/pic/5228444
+ - Sharp NetWalker,based on CubieBoard2 image. 
+   http://movapic.com/ebijun/pic/5228442
+ - Sharp W-ZERO3
+   http://mail-index.netbsd.org/port-hpcarm/2015/01/24/msg000192.html
+   http://movapic.com/ebijun/pic/5228481
+ - Sharp Zaurus SL-C7x0 and SL-C8x0
+   http://mail-index.netbsd.org/port-zaurus/2014/12/06/msg000056.html
+ - sticky stickers @okano_t and @tsutsuii
+   http://movapic.com/ebijun/pic/5228443
+
+More pictures are available on Togetter page:
+  http://togetter.com/li/781556
+
+NEXT:
+ OSC2015 Tokyo/Spring:  Feb.27-28 Tokyo,JAPAN
+    http://www.ospn.jp/osc2015-spring/ 
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
