@@ -1,0 +1,84 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at AsiaBSDCon 2015
+
+BSD Research and Japan NetBSD Users' Group members held booth
+at the AsiaBSDCon 2015  on May. 14-15 2015:
+
+ http://2015.asiabsdcon.org/
+ https://www.facebook.com/events/919788151384409/
+ https://www.bsdresearch.org/index.html.en
+ http://www.jp.NetBSD.org/
+ https://www.facebook.com/NetBSD.jp/
+
+NetBSD Related Talk&Event in AsiaBSDCon2015
+- NetBSD Developer Summit (invited only)
+  http://wiki.netbsd.org/summits/AsiaBSDCon_2015_NetBSD_Summit/
+- NetBSD BoF
+  https://github.com/ebijun/NetBSD/blob/master/Guide/Place/asiabsdcon.rst
+- P2C: Pipecut - Interactive Pipeline Editor David Maxwell
+- K1: Modernizing BSD Networking Dennis Ferguson
+- P4C: Modernizing NetBSD Networking Facilities and Interrupt Handling
+    Ryota Ozaki
+- P5C: The odd kid on the block Martin Husemann
+- P7C: Cross-compilation in pkgsrc Taylor "Riastradh" Campbell
+- P8C: The rump kernel: A tool for driver development and a toolkit for applications Justin Cormack
+- NetBSD 7 in Work-In-Progress Session
+
+Booth:
+ http://movapic.com/pic/201503140555295503cd51ce997
+
+NetBSD Tourist Guide:
+ https://www.soum.co.jp/~jun/asiabsdcon2015.pdf
+
+The NetBSD booth exhibited the following machines:
+  https://docs.google.com/spreadsheets/d/14q6zJK5PjlMoSeBV5HBiEik5LkqlrcrbSxPoxVKKlec/edit#gid=0 
+
+NetBSD/evbarm	Radxa	Radxa Rock	Rockchip RK3188
+NetBSD/evbarm	VIA	APC8750	WonderMedia WM8750
+NetBSD/evbarm	Atmark-Techno	Armadillo-9	Cirrus Logic EP9315
+NetBSD/evbarm	Atmark-Techno	Armadillo-210	Cirrus Logic EP9307
+NetBSD/evbarm	BeagleBoard.org	BeagleBone Black	Texas Instruments AM3358
+NetBSD/evbarm	LinkSprite	pcDuino nano 3	AllWinner A20
+NetBSD/evbarm	N/A	ES board	Rockchip RK3068
+NetBSD/evbmips WIP	Linino.org	Linino ONE	Atheros AR9331
+NetBSD/i386 WIP	Intel	Edison	Intel Atom
+NetBSD/mpc860	Plathome	OpenBlockS 50	Motorola MPC860T
+NetBSD/evbppc	Plathome	OpenBlockSS	IBM PowerPC 405GP
+NetBSD/evbppc	Plathome	OpenBlockS 266	AMCC PowerPC 405GPr
+NetBSD/sandpoint	Buffalo	HD-H160LAN	Motorola MPC8241
+NetBSD/landisk	IO DATA	USL-5P	Hitachi SH7751R
+NetBSD/evbarm	ChipSPARK	Rayeager2	Rockchip PX2
+NetBSD/evbarm WIP	ChipSPARK	PopMetal	Rockchip RK3288
+NetBSD/evbarm WIP	Firefly	Firefly-RK3288	Rockchip RK3288
+NetBSD/evbarm	Olimex	RK3188-SOM-EVB	Rockchip RK3188
+NetBSD/evbarm	Olimex	A20-OLinuXino-LIME	AllWinner A20
+NetBSD/evbarm	BananaPi	Banana Pi	AllWinner A20
+NetBSD/evbarm	CubieTech	Cubieboard2	AllWinner A20
+NetBSD/evbarm	Sharp	NetWalker PC-Z1	Freescale i.MX515
+NetBSD/zaurus	Sharp	Zaurus SL-C760	Intel PXA255
+NetBSD/evbarm	Raspberyy Pi Foundation	Raspberry PI	Broardcom BCM2835
+NetBSD/evbarm	Kobo	Kobo touch	"Freescale i.MX507
+NetBSD/evbarm	Parallella	Parallella Epiphany III Desktop Computer	Xilinx Zynq-7010
+NetBSD/evbarm	HummingBoard	HummingBoard-i2eX	Freescale i.MX6 Dual
+NetBSD/x68k	Sharp	x68030	
+NetBSD/dreamcast	SEGA	Dreamcast	SH4
+NetBSD/hpcarm	Sharp	WZERO3-ades	
+NetBSD/zaurrus	Sharp	Zaurus SL-C1000	
+NetBSD/evbarm	Hardkernel	ODROID-C1	"Amlogic S805 
+NetBSD/hpcmips	NTT DoCoMo	Sigmarion2	R4132
+
+Demo Images:
+ RPI:
+  http://mail-index.netbsd.org/port-arm/2015/03/10/msg002918.html
+
+More pictures are available on Togetter page:
+  http://togetter.com/li/793444
+
+
+NEXT:
+ OpenSourceConference2015 Nagoya:  May.22-23 Nagoya,JAPAN
+    http://www.ospn.jp/osc2015-nagoya/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
