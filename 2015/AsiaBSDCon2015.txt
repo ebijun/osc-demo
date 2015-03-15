@@ -33,6 +33,7 @@ NetBSD Tourist Guide:
 The NetBSD booth exhibited the following machines:
   https://docs.google.com/spreadsheets/d/14q6zJK5PjlMoSeBV5HBiEik5LkqlrcrbSxPoxVKKlec/edit#gid=0 
 
+machine	company	model	CPU
 NetBSD/evbarm	Radxa	Radxa Rock	Rockchip RK3188
 NetBSD/evbarm	VIA	APC8750	WonderMedia WM8750
 NetBSD/evbarm	Atmark-Techno	Armadillo-9	Cirrus Logic EP9315
@@ -55,17 +56,26 @@ NetBSD/evbarm	Olimex	A20-OLinuXino-LIME	AllWinner A20
 NetBSD/evbarm	BananaPi	Banana Pi	AllWinner A20
 NetBSD/evbarm	CubieTech	Cubieboard2	AllWinner A20
 NetBSD/evbarm	Sharp	NetWalker PC-Z1	Freescale i.MX515
-NetBSD/zaurus	Sharp	Zaurus SL-C760	Intel PXA255
-NetBSD/evbarm	Raspberyy Pi Foundation	Raspberry PI	Broardcom BCM2835
-NetBSD/evbarm	Kobo	Kobo touch	"Freescale i.MX507
+NetBSD/zaurrus	Sharp	Zaurus SL-C760	Intel PXA255
+NetBSD/evbarm	Raspbery Pi Foundation	Raspberry PI	Broardcom BCM2835
+NetBSD/evbarm	Kobo	Kobo touch	Freescale i.MX507
 NetBSD/evbarm	Parallella	Parallella Epiphany III Desktop Computer	Xilinx Zynq-7010
-NetBSD/evbarm	HummingBoard	HummingBoard-i2eX	Freescale i.MX6 Dual
-NetBSD/x68k	Sharp	x68030	
-NetBSD/dreamcast	SEGA	Dreamcast	SH4
-NetBSD/hpcarm	Sharp	WZERO3-ades	
-NetBSD/zaurrus	Sharp	Zaurus SL-C1000	
+NetBSD/evbarm	SolidRun	HummingBoard-i2eX	Freescale i.MX6
+NetBSD/x68k	Sharp	X68030 (CZ-500C)	Motorola MC68EC030 (+68040 acceleration board)
+NetBSD/dreamcast	SEGA	Dreamcast	HD6417091
+NetBSD/hpcarm	Sharp	W-ZERO3 ades	Marvell PXA270 
+NetBSD/zaurus	Sharp	Zaurus SL-C1000	Intel PXA270
 NetBSD/evbarm	Hardkernel	ODROID-C1	"Amlogic S805 
-NetBSD/hpcmips	NTT DoCoMo	Sigmarion2	R4132
+"
+NetBSD/hpcmips	NTT DoCoMo	Sigmarion2	VR4131
+NetBSD/hpcsh	HP	Jornada680 (upgrade to 690)	SH7709
+NetBSD/evbmips	FON	FON2201	MIPS 4KEc
+NetBSD/evbarm	"GlobalScale
+"	MIRABOX	Armada 370 
+		ZYBO Zynq-7000	
+NetBSD/i386		86duino Educake	
+	NOKIA	N900	
+NetBSD/hpcarm	Sharp	W-ZERO3	
 
 Demo Images:
  RPI:
