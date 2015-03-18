@@ -24,6 +24,8 @@ NetBSD Related Talk&Event in AsiaBSDCon2015
 - P8C: The rump kernel: A tool for driver development and a toolkit for applications Justin Cormack
 - NetBSD 7 in Work-In-Progress Session
 
+See http://www.netbsd.org/gallery/presentations/ for paper and slides.
+
 Booth:
  http://movapic.com/pic/201503140555295503cd51ce997
 
