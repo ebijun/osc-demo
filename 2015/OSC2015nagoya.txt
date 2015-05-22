@@ -31,7 +31,7 @@ Demo Images:
   http://mail-index.netbsd.org/port-arm/2015/02/26/msg002884.html
 
 More pictures are available on Togetter page:
-  http://togetter.com/li/
+  http://togetter.com/li/824817
 
 NEXT:
  Open Source Conference 2015 Hokkaido:  Jun.12 Sapporo,JAPAN
