@@ -1,0 +1,43 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: OpenBSD and NetBSD machines at Open Source Conference 2015 Nagoya
+
+The Japan NetBSD Users' Group and 
+Nagoya *BSD Users' Group members held booth
+at the Open Source Conference 2015 Tokyo/Spring on May. 22-23 2015:
+
+ http://www.ospn.jp/osc2015-nagoya/
+ https://www.facebook.com/events/344210502418490/
+ https://www.facebook.com/NetBSD.jp/
+
+Booth:
+ http://movapic.com/ebijun/pic/----
+
+NetBSD Tourist Guide:
+ https://www.soum.co.jp/~jun/OSC2015nagoya.pdf
+
+The NBUG and NetBSD booth exhibited the following machines:
+
+   88k  OpenBSD/luna88k OMRON   Luna88K         Motorola 88100
+   arm	NetBSD/evbarm	Raspberyy Pi Foundation	Raspberry PI	Broardcom BCM2835
+   arm	NetBSD/evbarm	CubieTech	Cubieboard2	AllWinner A20
+   arm	NetBSD/evbarm	Sharp	NetWalker PC-Z1	Freescale i.MX515
+
+Demo Images:
+ Luna88K:
+  OpenBSD 5.7
+ RPI:
+  http://mail-index.netbsd.org/port-arm/2015/05/21/msg003185.html
+ Cubieboard2:
+  http://mail-index.netbsd.org/port-arm/2015/02/26/msg002884.html
+
+More pictures are available on Togetter page:
+  http://togetter.com/li/
+
+NEXT:
+ Open Source Conference 2015 Hokkaido:  Jun.12 Sapporo,JAPAN
+    http://www.ospn.jp/osc2015-do/
+    see you in NetBSD BOF.
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
