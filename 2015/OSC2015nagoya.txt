@@ -3,24 +3,41 @@ Subject: OpenBSD and NetBSD machines at Open Source Conference 2015 Nagoya
 
 The Japan NetBSD Users' Group and 
 Nagoya *BSD Users' Group members held booth
-at the Open Source Conference 2015 Tokyo/Spring on May. 22-23 2015:
+at the Open Source Conference 2015 Nagoya on May. 22-23 2015:
 
  http://www.ospn.jp/osc2015-nagoya/
  https://www.facebook.com/events/344210502418490/
  https://www.facebook.com/NetBSD.jp/
 
 Booth:
- http://movapic.com/ebijun/pic/----
+ http://movapic.com/ebijun/pic/5254409
+
+OMRON LUNA88k + PC98 C-bus Graphic card PC9801-96 
+ + Yaft yet another frame buffer terminal 
+ + sayaka twitter client
+on OpenBSD 5.7 by Kenji Aoyama.
+ http://movapic.com/ebijun/pic/5254412 
+
+Power Mac G4 (Mirrored Drive Doors)+sgi 1600sw display
+ with pm3fb(4) on NetBSD/macppc. by Naruaki Etomi.
+ http://movapic.com/ebijun/pic/5254426 
+
+SHARP NetWalker (NetBSD/earmv7hf) Xfce4.12+Firefox+onscripter
+ http://movapic.com/ebijun/pic/5254234
+
+Raspberry PI and Cubieboard2
+ http://movapic.com/ebijun/pic/5254428
 
 NetBSD Tourist Guide:
  https://www.soum.co.jp/~jun/OSC2015nagoya.pdf
 
 The NBUG and NetBSD booth exhibited the following machines:
 
-   88k  OpenBSD/luna88k OMRON   Luna88K         Motorola 88100
-   arm	NetBSD/evbarm	Raspberyy Pi Foundation	Raspberry PI	Broardcom BCM2835
-   arm	NetBSD/evbarm	CubieTech	Cubieboard2	AllWinner A20
-   arm	NetBSD/evbarm	Sharp	NetWalker PC-Z1	Freescale i.MX515
+   88k    OpenBSD/luna88k OMRON   Luna88K         Motorola 88100
+   macppc NetBSD/ppc    PowerMacG4   
+   arm	  NetBSD/evbarm	Raspberyy Pi Foundation	Raspberry PI	Broardcom BCM2835
+   arm	  NetBSD/evbarm	CubieTech	Cubieboard2	AllWinner A20
+   arm	  NetBSD/evbarm	Sharp	NetWalker PC-Z1	Freescale i.MX515
 
 Demo Images:
  Luna88K:
