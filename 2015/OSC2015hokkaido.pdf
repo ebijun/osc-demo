@@ -1,0 +1,57 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2015 Hokkaido
+
+The Japan NetBSD Users' Group members held booth
+at the Open Source Conference 2015 Hokkaido on Jun. 13 2015:
+
+ http://www.ospn.jp/osc2015-do/
+ https://www.facebook.com/events/804630856260992/
+ https://www.facebook.com/NetBSD.jp/
+
+Booth:
+ http://movapic.com/ebijun/pic/5259538
+ VT220 and SPARC station IPX
+  http://movapic.com/ebijun/pic/5259535
+ RPI image: Xfce4.12 + mikutter + omxplayer
+  http://movapic.com/ebijun/pic/5258058
+ SHARP ZAURUS
+  http://movapic.com/ebijun/pic/5259545
+ SHARP NetWalker
+  http://movapic.com/ebijun/pic/5259552
+ Xneko animation viewer hardware
+  http://movapic.com/ebijun/pic/5259559
+ BSD Magazines
+  http://movapic.com/ebijun/pic/5259564
+ Stickers
+  http://movapic.com/ebijun/pic/5259588
+
+NetBSD Tourist Guide:
+ https://www.soum.co.jp/~jun/OSC2015hokkaido.pdf
+
+Presentation: Go on NetBSD evbarm/earm by @oshimyja
+ http://movapic.com/ebijun/pic/5259566
+
+The NetBSD booth exhibited the following machines:
+   https://docs.google.com/spreadsheets/d/1DTJbESfnOUgOiVkFG8vsrxTq6oCGRpf8PkRcMkhWYWQ/edit#gid=0
+
+   arm	NetBSD/evbarm	Raspberyy Pi Foundation	Raspberry PI	Broardcom BCM2835
+   arm	NetBSD/zaurus	Sharp	Zaurus SL-C1000	Intel PXA250
+   arm	NetBSD/evbarm	BananaPi	Banana Pi	AllWinner A20
+   arm	NetBSD/evbarm	CubieTech	Cubieboard2	AllWinner A20
+   arm	NetBSD/evbarm	Sharp	NetWalker PC-Z1	Freescale i.MX515
+
+Demo Images:
+ RPI:
+  http://mail-index.netbsd.org/port-arm/2015/06/06/msg003243.html
+
+More pictures are available on Togetter page:
+ http://togetter.com/li/834148
+
+NEXT:
+ OpenSourceConference 2015 Okinawa:  Jul.4 Okinawa,JAPAN
+   http://www.ospn.jp/osc2015-okinawa/
+   https://www.facebook.com/events/884051744940071/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
