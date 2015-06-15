@@ -1,12 +1,15 @@
 To: netbsd-advocacy%NetBSD.org@localhost
 Subject: NetBSD machines at Open Source Conference 2015 Hokkaido
 
-The Japan NetBSD Users' Group members held booth
-at the Open Source Conference 2015 Hokkaido on Jun. 13 2015:
+The Japan NetBSD Users' Group and Northern land BSD Users Group
+ members held booth at the Open Source Conference 2015 Hokkaido 
+  on Jun. 13 2015:
 
  http://www.ospn.jp/osc2015-do/
  https://www.facebook.com/events/804630856260992/
  https://www.facebook.com/NetBSD.jp/
+ http://www.jp.NetBSD.org/
+ http://www.no.bug.gr.jp/
 
 Booth:
  http://movapic.com/ebijun/pic/5259538
