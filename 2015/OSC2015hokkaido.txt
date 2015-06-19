@@ -33,6 +33,7 @@ NetBSD Tourist Guide:
 
 Presentation: Go on NetBSD evbarm/earm by @oshimyja
  http://movapic.com/ebijun/pic/5259566
+ http://www.yagoto-urayama.jp/~oshimaya/netbsd/gonetbsd/index.html
 
 The NetBSD booth exhibited the following machines:
    https://docs.google.com/spreadsheets/d/1DTJbESfnOUgOiVkFG8vsrxTq6oCGRpf8PkRcMkhWYWQ/edit#gid=0
