@@ -11,7 +11,7 @@ at the Open Source Conference 2015 Okinawa
  http://www.jp.NetBSD.org/
 
 Booth:
-  http://movapic.com/ebijun/pic/5259588
+  http://movapic.com/ebijun/pic/5263808
 
 RPI2+omxplayer:
   http://movapic.com/ebijun/pic/5263809
