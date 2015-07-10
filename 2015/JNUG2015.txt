@@ -1,0 +1,44 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: Japan NetBSD Users Group 17th annual Meeting and BoF 2015
+
+The Japan NetBSD Users' Group members held 17th annual Meeting 
+  on Jul. 11 2015:
+
+ http://www.jp.netbsd.org/ja/JP/JNUG/announce/meeting17.html.en
+ https://www.facebook.com/events/237908116379644/
+ https://www.facebook.com/NetBSD.jp/
+ http://www.jp.NetBSD.org/
+
+NetBSD BOF:
+  http://www.jp.netbsd.org/ja/JP/JNUG/event/20150711BOF/
+   - numerical analysis with NetBSD: Rin Okuyama
+     Porting linux_sched_(get|set)affinity to NetBSD
+   - something: Ryo Onodera
+   - NetBSD and Go: Yasushi Oshima
+   - RPI
+   - AsiaBSDCon
+   - Compilers: whats goes on
+   - All abount NetBSD 7
+
+Booth:
+Stickers:
+
+NetBSD Tourist Guide:
+ https://www.soum.co.jp/~jun/JNUG.pdf
+
+
+Demo Images:
+ CubieBoard2:
+
+
+More pictures are available on Togetter page:
+ http://togetter.com/li/
+
+NEXT:
+ Open Source Conference 2015 Kansai@Kyoto:   Aug.7-8 Kyoto,JAPAN
+   http://www.ospn.jp/osc2015-kyoto/
+   https://www.facebook.com/events/1062729970410808/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
