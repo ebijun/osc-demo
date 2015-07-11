@@ -13,26 +13,27 @@ NetBSD BOF:
   http://www.jp.netbsd.org/ja/JP/JNUG/event/20150711BOF/
    - numerical analysis with NetBSD: Rin Okuyama
      Porting linux_sched_(get|set)affinity to NetBSD
-   - something: Ryo Onodera
-   - NetBSD and Go: Yasushi Oshima
-   - RPI
-   - AsiaBSDCon
-   - Compilers: whats goes on
-   - All abount NetBSD 7
-
-Booth:
-Stickers:
+     http://gnats.netbsd.org/cgi-bin/query-pr-single.pl?number=50021
+   - pkgsrc - user setting and todo list: Ryo Onodera
+   - Try Go on NetBSD (Take.2): Yasushi Oshima
+   - USB Device-side Support: Hiroyuki Bessho
+   - Check-update (pkgsrc): Makoto Fujiwara
+     http://www.ki.nu/~makoto/pkgsrc/check-update/
+   - RPI images / AsiaBSDCon: Jun Ebihara
+     http://mail-index.netbsd.org/port-arm/2015/07/02/msg003268.html
+     https://www.bsdresearch.org/
+   - openhub.net/USB debug tool/MSI-X: Masanobu Saito
+     https://www.openhub.net/p/netbsd
+     https://www.openhub.net/p/pkgsrc
+   - musica - DLNA Server: MAEKAWA Masahide 
+     http://www.m-systems.co.jp/musica/index_en.html
+   - NetBSD7.0 and Beyond: Noriyuki Soda 
 
 NetBSD Tourist Guide:
- https://www.soum.co.jp/~jun/JNUG.pdf
-
-
-Demo Images:
- CubieBoard2:
-
+ https://www.soum.co.jp/~jun/JNUG2015.pdf
 
 More pictures are available on Togetter page:
- http://togetter.com/li/
+ http://togetter.com/li/845730
 
 NEXT:
  Open Source Conference 2015 Kansai@Kyoto:   Aug.7-8 Kyoto,JAPAN
