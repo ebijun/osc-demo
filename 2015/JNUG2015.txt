@@ -15,6 +15,8 @@ NetBSD BOF:
      Porting linux_sched_(get|set)affinity to NetBSD
      http://gnats.netbsd.org/cgi-bin/query-pr-single.pl?number=50021
    - pkgsrc - user setting and todo list: Ryo Onodera
+     http://www.slideshare.net/ryo_on/150711-pkgsrcasuser
+     http://www.slideshare.net/ryo_on/pkgsrc
    - Try Go on NetBSD (Take.2): Yasushi Oshima
    - USB Device-side Support: Hiroyuki Bessho
    - Check-update (pkgsrc): Makoto Fujiwara
