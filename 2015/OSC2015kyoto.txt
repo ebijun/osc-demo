@@ -25,8 +25,12 @@ OMRON LUNAII
  mlterm-fb sixel graphics presentation by tsutsui@
  https://twitter.com/cvsync/status/629869256440590336/photo/1 
 
-LUNA Holonic LED Towel by Tomoko Yoshida
+LUNA Techno-shugei LED Towel by Tomoko Yoshida
  http://movapic.com/ebijun/pic/5271036
+
+NetBSD/i386 7.0_RC2 Live image with Flashplayer
+ http://www.ceres.dti.ne.jp/tsutsui/netbsd/liveimage/
+ https://twitter.com/tsutsuii/status/629825689357647872/photo/1
 
 SHARP NetWalker (NetBSD/earmv7hf) Xfce4.12+Firefox+onscripter
 
