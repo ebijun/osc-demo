@@ -12,6 +12,9 @@ at the Open Source Conference 2015 Kansai@Kyoto on Aug. 7-8 2015:
 OSC2015kyoto NetBSD and old machines by tsutsui@
  https://speakerdeck.com/tsutsui/osc2015kyoto-netbsd-and-old-machines
 
+LUNA-88K2+PC-9801 extention board
+http://www.nk-home.net/~aoyama/osc2015kyoto/OSC2015Kyoto-leaflet.pdf
+
 NetBSD Tourist Guide:
  https://www.soum.co.jp/~jun/OSC2015kyoto.pdf
 
