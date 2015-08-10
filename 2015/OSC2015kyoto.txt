@@ -9,6 +9,15 @@ at the Open Source Conference 2015 Kansai@Kyoto on Aug. 7-8 2015:
  https://www.facebook.com/events/1062729970410808/
  https://www.facebook.com/NetBSD.jp/
 
+OSC2015kyoto NetBSD and old machines by tsutsui@
+ https://speakerdeck.com/tsutsui/osc2015kyoto-netbsd-and-old-machines
+
+NetBSD Tourist Guide:
+ https://www.soum.co.jp/~jun/OSC2015kyoto.pdf
+
+KBUG Flyer
+http://sacraya.610t.org/kbug/flyer/flyer.pdf
+
 Booth:
  https://twitter.com/ao_kenji/status/629895920805507072/photo/1
 
@@ -17,12 +26,14 @@ The NetBSD booth exhibited the following machines:
 OMRON LUNA88k + PC98 C-bus Graphic card PC9801-96 
  + Yaft yet another frame buffer terminal 
  + sayaka twitter client with Additional display via PC9801 Display Board 
+ + additional PCMCIA Wi-fi interface
 on OpenBSD 5.7 by Kenji Aoyama.
 
  https://twitter.com/ao_kenji/status/629960575334744064/photo/1
 
 OMRON LUNAII
  mlterm-fb sixel graphics presentation by tsutsui@
+ mlterm-fb + FreeWnn Kanji input
  https://twitter.com/cvsync/status/629869256440590336/photo/1 
 
 LUNA Techno-shugei LED Towel by Tomoko Yoshida
@@ -33,17 +44,19 @@ NetBSD/i386 7.0_RC2 Live image with Flashplayer
  https://twitter.com/tsutsuii/status/629825689357647872/photo/1
 
 SHARP NetWalker (NetBSD/earmv7hf) Xfce4.12+Firefox+onscripter
-
+ https://twitter.com/tsutsuii/status/630408954699341825/photo/1
+ 
 Raspberry PI running NetBSD/x68k with XM6i emulator.
  http://movapic.com/ebijun/pic/5271102
 
 Raspberry PI running omxplayer video player
+ https://twitter.com/tsutsuii/status/630406242540761088/photo/1
 
 Raspberry PI FreeBSD11-current 
  LCD MZTX-PI-EXT display via GPIO
  http://qml.610t.org/FreeBSD/raspi_GPIO.html
 
-arm distcc pkgsrc compile cluter
+arm distcc pkgsrc compile cluster
  RPI2  NetBSD/earmv6hf
  RPIB+ NetBSD/earmv6hf
  Netwalker NetBSD/earmv7hf
@@ -51,11 +64,6 @@ arm distcc pkgsrc compile cluter
 
 Beaglebone black NetBSD/earmv7hf
 
-NetBSD Tourist Guide:
- https://www.soum.co.jp/~jun/OSC2015kyoto.pdf
-
-KBUG Flyer
-http://sacraya.610t.org/kbug/flyer/flyer.pdf
 
 Demo Images:
  Luna88K:
