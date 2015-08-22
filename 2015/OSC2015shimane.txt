@@ -20,7 +20,7 @@ SONY NEWS NWS-5000SB NetBSD 7.0RC3/newsmips
  compiling ruby with distcc.
  http://movapic.com/ebijun/pic/5274253
 
-SONY NEWS NWS-1750 needs LOKTOFEITO
+SONY NEWS NWS-1750 needs LOKTOFEIT
  http://wiki.netbsd.org/ports/news68kfaq/
  http://movapic.com/ebijun/pic/5274252
 
@@ -29,6 +29,8 @@ NetBSD on JavaStation
 
 Raspberry PI running SunView+JLE,OpenWindows and NeWS with tme.
  http://movapic.com/ebijun/pic/5274198
+ InterViews Graphic editor
+ http://movapic.com/ebijun/pic/5274271
 
 Raspberry PI running NetBSD/x68k with XM6i emulator.
  http://movapic.com/ebijun/pic/5274199
@@ -37,7 +39,7 @@ many thanx to Hiroyuki Nakaji,Shuji Mochida,Yoshimitsu Iwase.
 
 Demo Images:
  RPI:
-  http://mail-index.netbsd.org/port-arm/2015/08/06/msg003389.html
+  http://mail-index.netbsd.org/port-arm/2015/08/20/msg003430.html
  XM6i
   http://xm6i.org/download.html
 
