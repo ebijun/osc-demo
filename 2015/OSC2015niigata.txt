@@ -1,0 +1,51 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: OpenBSD and NetBSD machines at Open Source Conference 2015 Niigata
+
+The Japan NetBSD Users' Group and 
+Echigo BSD Users Group members held booth
+at the Open Source Conference 2015 Niigata on Sep. 5 2015:
+
+ http://www.ospn.jp/osc2015-niigata/
+ https://www.facebook.com/events/373949016133899/
+ http://www.ebug.jp/
+ http://www.jp.NetBSD.org/
+ https://www.facebook.com/NetBSD.jp/
+
+Booth:
+   http://..
+ 
+Fuguita: OpenBSD LiveCD
+   http://fuguita.org/?FuguIta
+
+SHARP NetWalker (NetBSD/earmv7hf) Xfce4.12+Firefox+onscripter
+   http://..
+ 
+
+Raspberry PI and Cubieboard2
+   http://..
+ 
+
+NetBSD Tourist Guide:
+ https://www.soum.co.jp/~jun/OSC2015niigata.pdf
+
+Demo Images:
+ Fuguita
+   http://fuguita.org/?FuguIta
+ RPI:
+   http://..
+  
+ Cubieboard2:
+   http://..
+  
+
+More pictures are available on Togetter page:
+  http://togetter.com/li/
+
+NEXT:
+ Open Source Conference 2015 Hiroshima:  Sep.19 Hiroshima,JAPAN
+    http://www.ospn.jp/osc2015-hiroshima/
+    see you in NetBSD BOF.
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
