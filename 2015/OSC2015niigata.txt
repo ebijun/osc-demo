@@ -12,34 +12,33 @@ at the Open Source Conference 2015 Niigata on Sep. 5 2015:
  https://www.facebook.com/NetBSD.jp/
 
 Booth:
-   http://..
- 
+ http://p.twipple.jp/EUkhw
+
 Fuguita: OpenBSD LiveCD
    http://fuguita.org/?FuguIta
+   http://p.twipple.jp/Q7ftX
 
-SHARP NetWalker (NetBSD/earmv7hf) Xfce4.12+Firefox+onscripter
-   http://..
+SHARP NetWalker (NetBSD/earmv7hf) Xfce4.12+Firefox+onscripter+SBCL
+   http://p.twipple.jp/b45Mh
+ SBCL: Steel Bank Common Lisp (SBCL) for earmv7hf by Robert Swindells
+  http://mail-index.netbsd.org/port-arm/2015/09/01/msg003438.html
  
-
-Raspberry PI and Cubieboard2
-   http://..
- 
+Raspberry PI2 ,Cubieboard2 ,ODROID-C1
+   http://p.twipple.jp/bq93o
+   XM6i (NetBSD/x68k) on RPI2 (NetBSD/earmv6hf) 
+   http://xm6i.org/
 
 NetBSD Tourist Guide:
  https://www.soum.co.jp/~jun/OSC2015niigata.pdf
 
 Demo Images:
- Fuguita
+ Fuguita: OpenBSD LiveCD
    http://fuguita.org/?FuguIta
  RPI:
-   http://..
-  
- Cubieboard2:
-   http://..
-  
+   http://mail-index.netbsd.org/port-arm/2015/09/03/msg003439.html
 
 More pictures are available on Togetter page:
-  http://togetter.com/li/
+  http://togetter.com/li/869752
 
 NEXT:
  Open Source Conference 2015 Hiroshima:  Sep.19 Hiroshima,JAPAN
