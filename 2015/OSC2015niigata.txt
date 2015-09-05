@@ -14,20 +14,23 @@ at the Open Source Conference 2015 Niigata on Sep. 5 2015:
 Booth:
  http://p.twipple.jp/EUkhw
 
-Fuguita: OpenBSD LiveCD
+Fuguita: OpenBSD LiveCD by Yoshihiro Kawamata
    http://fuguita.org/?FuguIta
    http://p.twipple.jp/Q7ftX
+
+XM6i: NetBSD/x68k on X68030 emulators splite animation by @oshimyja
+   http://p.twipple.jp/4fgyg
+   http://xm6i.org/ by isaki@
+
+Raspberry PI2 ,Cubieboard2 ,ODROID-C1
+   http://p.twipple.jp/bq93o
+   XM6i (NetBSD/x68k) on RPI2 (NetBSD/earmv6hf) 
 
 SHARP NetWalker (NetBSD/earmv7hf) Xfce4.12+Firefox+onscripter+SBCL
    http://p.twipple.jp/b45Mh
  SBCL: Steel Bank Common Lisp (SBCL) for earmv7hf by Robert Swindells
   http://mail-index.netbsd.org/port-arm/2015/09/01/msg003438.html
  
-Raspberry PI2 ,Cubieboard2 ,ODROID-C1
-   http://p.twipple.jp/bq93o
-   XM6i (NetBSD/x68k) on RPI2 (NetBSD/earmv6hf) 
-   http://xm6i.org/
-
 NetBSD Tourist Guide:
  https://www.soum.co.jp/~jun/OSC2015niigata.pdf
 
