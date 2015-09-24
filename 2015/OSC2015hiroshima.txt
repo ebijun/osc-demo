@@ -1,0 +1,68 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2015 Hiroshima
+
+The Japan NetBSD Users' Group and XM6i Team members held booth
+at the Open Source Conference 2015 Hiroshima on Sep.19 2015:
+
+ http://www.ospn.jp/osc2015-hiroshima/
+ https://www.facebook.com/events/416415658540535/
+ http://www.jp.NetBSD.org/
+ https://www.facebook.com/NetBSD.jp/
+
+Presentation:
+ XM6i and twitter client on X68030(68030 30MHz/12MB) by isaki@
+   http://www.pastel-flower.jp/~isaki/NetBSD/osc15hi/
+  
+ code maintenance over 20 years by tsutsui@
+   https://speakerdeck.com/tsutsui/osc2015kyoto-netbsd-and-old-machines
+
+Booth:
+  http://movapic.com/ebijun/pic/5279017
+  http://movapic.com/ebijun/pic/5279024
+
+NetBSD/i386 7.0RC3 o Panasonic Let's Note CF-T2
+ FlashPlayer:
+ http://movapic.com/ebijun/pic/5279033
+
+Demonstration on one Windows 10 notebook: by tsutsui@
+1: NetBSD/i386 teokure image on QEMU
+2: NetBSD/x68k on XM6i
+ https://twitter.com/tsutsuii/status/645091441094475776/photo/1
+
+NetBSD/x68k
+1: X68030 (68030/30MHz,12MB)
+ twitter client: sayaka-vala
+ http://movapic.com/ebijun/pic/5278981
+
+2: X68060 (68060/50MHz,128MB)
+ Human68k:
+
+XM6i X68030 emulator http://xm6i.org/ by isaki@
+1. NetBSD/x68k on Windows 10 Home http://t.co/NahtRSB1Tq
+2. NetBSD/x68k on Raspberry 2
+  https://twitter.com/tsutsuii/status/645092370900385792/photo/1
+3. NetBSD/x68k on Windows 7
+
+Raspberry PI2 ,Cubieboard2 ,ODROID-C1
+   XM6i (NetBSD/x68k) on RPI2 (NetBSD/earmv6hf) 
+
+SHARP NetWalker (NetBSD/earmv7hf) Xfce4.12+Firefox+SBCL
+   Xnp21 PC9801 Emulator 
+ 
+NetBSD Tourist Guide:
+ https://www.soum.co.jp/~jun/OSC2015hiroshima.pdf
+
+Demo Images:
+ RPI:
+  http://mail-index.netbsd.org/port-arm/2015/09/14/msg003467.html
+
+More pictures are available on Togetter page:
+  http://togetter.com/li/875487
+
+NEXT:
+ Open Source Conference 2015 Fukuoka:  Oct.3 Fukuoka,JAPAN
+    http://www.ospn.jp/osc2015-fukuoka/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
