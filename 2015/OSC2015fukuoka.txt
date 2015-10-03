@@ -1,0 +1,47 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2015 Fukuoka
+
+The Japan NetBSD Users' Group members held booth
+at the Open Source Conference 2015 Fukuoka on Oct.3 2015:
+
+ http://www.ospn.jp/osc2015-fukuoka/
+ https://www.facebook.com/events/1117597451600020/
+ http://www.jp.NetBSD.org/
+ https://www.facebook.com/NetBSD.jp/
+
+Booth:
+ http://movapic.com/ebijun/pic/5282191
+
+Raspberry PI2: NetBSD/earmv6hf mikutter demo image
+ http://movapic.com/ebijun/pic/5282177
+
+SHARP NetWalker: NetBSD/earmv7hf Xfce4.12+Firefox+SBCL
+ Xnp21 PC9801 Emulator 
+ http://movapic.com/ebijun/pic/5282185
+
+SHARP ZAURUS: NetBSD/zaurus
+ http://movapic.com/ebijun/pic/5282188
+  
+SHARP WZero3: NetBSD/hpcarm
+ http://movapic.com/ebijun/pic/5282180
+ 
+NetBSD Tourist Guide:
+ https://www.soum.co.jp/~jun/OSC2015fukuoka.pdf
+
+Demo Images:
+ RPI(current):
+  http://mail-index.netbsd.org/port-arm/2015/09/30/msg003497.html
+
+ RPI(7.0)
+  http://mail-index.netbsd.org/port-arm/2015/09/29/msg003496.html
+
+More pictures are available on Togetter page:
+  http://togetter.com/li/881732
+
+NEXT:
+ Open Source Conference 2015 Tokyo:  Oct.24-25 Tokyo,JAPAN
+    http://www.ospn.jp/osc2015-fall/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
