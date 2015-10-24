@@ -1,0 +1,64 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2015 Tokyo/Fall
+
+The Japan NetBSD Users' Group members held booth
+at the Open Source Conference 2015 Tokyo/Fall on Oct. 24-25 2015:
+
+ http://www.ospn.jp/osc2015-fall/
+ https://www.facebook.com/events/697289803709375/
+ https://www.facebook.com/NetBSD.jp/
+
+Booth:
+  http://p.twipple.jp/blImz
+
+NetBSD Tourist Guide:
+ https://www.soum.co.jp/~jun/OSC2015tokyospring.pdf
+
+The NetBSD booth exhibited the following machines:
+   https://docs.google.com/spreadsheets/d/1DTJbESfnOUgOiVkFG8vsrxTq6oCGRpf8PkRcMkhWYWQ/edit#gid=0
+
+   arm	NetBSD/evbarm	Sharp	NetWalker PC-Z1	Freescale i.MX515
+   arm	NetBSD/evbarm	Raspberyy Pi Foundation	Raspberry PI Broardcom BCM2836
+   arm	NetBSD/evbarm	Radxa	Radxa Rock2	Rockchip RK3288  (WIP)
+   arm	NetBSD/evbarm	Orion R68 Meta	Rockchip RK3368 (WIP)
+   arm	NetBSD/evbarm	Rayeager PX2	Rockchip PX2 (WIP)
+   arm	NetBSD/hpcarm	Sharp	WZERO3  Intel PXA270
+   mips NetBSD/evbmips	Buffalo BHR4GRV2 Atheros QCA9558 (WIP)
+
+/*
+   arm	NetBSD/evbarm	VIA	APC8750	WonderMedia WM8750
+   arm	NetBSD/evbarm	Atmark-Techno	Armadillo-9	Cirrus Logic EP9315
+   arm	NetBSD/evbarm	Atmark-Techno	Armadillo-210	Cirrus Logic EP9307
+   arm	NetBSD/evbarm	BeagleBoard.org	BeagleBone Black	Texas Instruments AM3358
+   arm	NetBSD/zaurrus	Sharp	Zaurus SL-C700	Intel PXA250
+   arm	NetBSD/evbarm	IO DATA	GLAN Tank	Intel i80219
+   arm	NetBSD/evbarm	LinkSprite	pcDuino nano 3	AllWinner A20
+   arm	NetBSD/evbarm	N/A	TV Dongle	Rockchip RK3068
+   mips	NetBSD/evbmips WIP	Linino.org	Linino ONE	Atheros AR9331
+   powerpc	NetBSD/mpc860	Plathome	OpenBlockS 50	Motorola MPC860T
+   powerpc	NetBSD/evbppc	Plathome	OpenBlockSS	IBM PowerPC 405GP
+   powerpc	NetBSD/evbppc	Plathome	OpenBlockS 266	AMCC PowerPC 405GPr
+   powerpc	NetBSD/sandpoint	Buffalo	HD-H160LAN	Motorola MPC8241
+   sh	NetBSD/landisk	IO DATA	USL-5P	Hitachi SH7751R
+   arm	NetBSD/evbarm WIP	ChipSPARK	PopMetal	Rockchip RK3288
+   arm	NetBSD/evbarm WIP	Firefly	Firefly-RK3288	Rockchip RK3288
+   arm	NetBSD/evbarm WIP	Olimex	RK3188-SOM-EVB	Rockchip RK3188
+   arm	NetBSD/evbarm	BananaPi	Banana Pi	AllWinner A20
+   arm	NetBSD/evbarm	CubieTech	Cubieboard2	AllWinner A20
+ */
+
+Demo Images:
+ RPI:
+  http://mail-index.netbsd.org/port-arm/2015/10/20/msg003534.html
+
+More pictures are available on Togetter page:
+  http://togetter.com/li/
+
+NEXT:
+ Kansai Open Forum:  Nov.6-7 Osaka,JAPAN
+    https://k-of.jp/2015/
+    see you in NetBSD BOF.
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
