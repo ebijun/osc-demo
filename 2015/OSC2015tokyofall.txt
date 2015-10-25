@@ -8,60 +8,59 @@ at the Open Source Conference 2015 Tokyo/Fall on Oct. 24-25 2015:
  https://www.facebook.com/events/697289803709375/
  https://www.facebook.com/NetBSD.jp/
 
+BSD BOF Presentation: 
+ USB serialcable 2015 @tokudahiroshi
+ NetBSD/Linino One @tokudahiroshi
+ https://speakerdeck.com/adukot/evbmips-on-linino-one-and-usb-serial-2015
+
 Booth:
-  http://p.twipple.jp/blImz
+ https://twitter.com/tisihara/status/658151414200315904/photo/1
 
 NetBSD Tourist Guide:
- https://www.soum.co.jp/~jun/OSC2015tokyospring.pdf
+ https://www.soum.co.jp/~jun/OSC2015tokyofall.pdf
 
 The NetBSD booth exhibited the following machines:
-   https://docs.google.com/spreadsheets/d/1DTJbESfnOUgOiVkFG8vsrxTq6oCGRpf8PkRcMkhWYWQ/edit#gid=0
+ https://docs.google.com/spreadsheets/d/1DTJbESfnOUgOiVkFG8vsrxTq6oCGRpf8PkRcMkhWYWQ/
 
-   arm	NetBSD/evbarm	Sharp	NetWalker PC-Z1	Freescale i.MX515
-   arm	NetBSD/evbarm	Raspberyy Pi Foundation	Raspberry PI Broardcom BCM2836
-   arm	NetBSD/evbarm	Radxa	Radxa Rock2	Rockchip RK3288  (WIP)
-   arm	NetBSD/evbarm	Radxa	Radxa Rock	Rockchip RK3188
-   arm	NetBSD/evbarm	Orion R68 Meta	Rockchip RK3368 (WIP)
-   arm	NetBSD/evbarm	Rayeager PX2	Rockchip PX2 (WIP)
-   arm	NetBSD/hpcarm	Sharp	WZERO3  Intel PXA270
-   mips NetBSD/evbmips	Buffalo BHR4GRV2 Atheros QCA9558 (WIP)
-   mips	NetBSD/evbmips WIP	Linino.org	Linino ONE	Atheros AR9331
-   arm	NetBSD/evbarm	CubieTech	Cubieboard4	AllWinner A80 (WIP)
-   arm	NetBSD/evbarm	OrangePI PC Alwinner H3
-   mips NetBSD/evbmips	SOM9331 OpenEmbed.com AR9331 (WIP)
-   mips	NetBSD/evbmips	RouterBoard RP951Ui-2Hnd AR9344
-   mips	NetBSD/evbmips	ZSUN Card Reader Atheros AR9311
-   sh	NetBSD/landisk	IO DATA	USL-5P	Hitachi SH7751R
-   arm	NetBSD/evbarm	Atmark-Techno	Armadillo-210	Cirrus Logic EP9307
-   powerpc	NetBSD/sandpoint	Buffalo	HD-H160LAN	Motorola MPC8241
-   arm	NetBSD/evbarm	BeagleBoard.org	BeagleBone Black	Texas Instruments AM3358
-   mips	NetBSD/evbmips	MediaTek MT7620N WRT node
-   mips	NetBSD/evbmips	M-mini Develop Board AR9331
-   kame KAME            kame, stuffed kame
+NetBSD/evbarm	Radxa	Rock	Rockchip RK3188
+NetBSD/evbarm	VIA	APC8750	WonderMedia WM8750
+NetBSD/evbarm	Atmark-Techno	Armadillo-9	Cirrus Logic EP9315
+NetBSD/evbarm	Atmark-Techno	Armadillo-210	Cirrus Logic EP9307
+NetBSD/evbarm	BeagleBoard.org	BeagleBone Black	Texas Instruments AM3358
+NetBSD/evbarm	LinkSprite	pcDuino nano 3	Allwinner A20
+NetBSD/evbarm	N/A	ES board	Rockchip RK3068
+NetBSD/evbarm	Orange Pi	Orange Pi PC	AllWinner H3
+NetBSD/evbmips	Linino.org	Linino ONE	Atheros AR9331
+NetBSD/evbmips WIP	RouterBoard	RB951Ui-2HnD	Atheros AR9344
+NetBSD/mpc860	Plathome	OpenBlockS 50	Motorola MPC860T
+NetBSD/evbppc	Plathome	OpenBlockSS	IBM PowerPC 405GP
+NetBSD/evbppc	Plathome	OpenBlockS 266	AMCC PowerPC 405GPr
+NetBSD/sandpoint	Buffalo	HD-H160LAN	Motorola MPC8241
+NetBSD/landisk	IO DATA	USL-5P	Hitachi SH7751R
+NetBSD/earmv7hf	Hardkernel	ODROID-C1	Amlogic S805
+NetBSD/earmv7hf	CubieTech	Cubieboard2	Allwinner A20
+NetBSD/earmv7hf	Sharp	NetWalker PC-Z1	Freescale i.MX515
+NetBSD/zaurus	Sharp	Zaurus SL-C760	Intel PXA255
+NetBSD/earmv6hf	Raspberyy Pi Foundation	Raspberry PI	Broardcom BCM2836
+NetBSD/hpcarm	Sharp	WZero3	Intel PXA270
+NetBSD/evbarm WIP	Radxa	Rock2 Square / SoM 4GB	Rockchip RK3288
+NetBSD/evbarm64 WIP	Tronsmart	Orion R68 Meta	Rockchip RK3368
+NetBSD/evbmips WIP	Buffalo	BHR-4GRV2	Qualcomm Atheros QCA9558
+NetBSD/evbarm	ChipSPARK	Rayeager PX2	Rockchip PX2
+NetBSD/evbmips WIP	EasyLink	M-mini	Atheros AR9331
+NetBSD/evbmips WIP	WRTnode	WRTnode1	MTK MT7620N
+NetBSD/evbmips WIP	OpenEmbed	SOM9331	Atheros AR9331
+NetBSD/evbmips WIP	ZSUN	Wifi USB Card Reader	Atheros AR9331
+NetBSD/evbarm	CubieTech	Cubieboard4	Allwinner A80
+kame KAME            kame, stuffed kame
 
-/*
-   arm	NetBSD/evbarm	VIA	APC8750	WonderMedia WM8750
-   arm	NetBSD/evbarm	Atmark-Techno	Armadillo-9	Cirrus Logic EP9315
-   arm	NetBSD/zaurrus	Sharp	Zaurus SL-C700	Intel PXA250
-   arm	NetBSD/evbarm	IO DATA	GLAN Tank	Intel i80219
-   arm	NetBSD/evbarm	LinkSprite	pcDuino nano 3	AllWinner A20
-   arm	NetBSD/evbarm	N/A	TV Dongle	Rockchip RK3068
-   powerpc	NetBSD/mpc860	Plathome	OpenBlockS 50	Motorola MPC860T
-   powerpc	NetBSD/evbppc	Plathome	OpenBlockSS	IBM PowerPC 405GP
-   powerpc	NetBSD/evbppc	Plathome	OpenBlockS 266	AMCC PowerPC 405GPr
-   arm	NetBSD/evbarm WIP	ChipSPARK	PopMetal	Rockchip RK3288
-   arm	NetBSD/evbarm WIP	Firefly	Firefly-RK3288	Rockchip RK3288
-   arm	NetBSD/evbarm WIP	Olimex	RK3188-SOM-EVB	Rockchip RK3188
-   arm	NetBSD/evbarm	BananaPi	Banana Pi	AllWinner A20
-   arm	NetBSD/evbarm	CubieTech	Cubieboard2	AllWinner A20
- */
 
 Demo Images:
  RPI:
   http://mail-index.netbsd.org/port-arm/2015/10/20/msg003534.html
 
 More pictures are available on Togetter page:
-  http://togetter.com/li/
+  http://togetter.com/li/891107
 
 NEXT:
  Kansai Open Forum:  Nov.6-7 Osaka,JAPAN
