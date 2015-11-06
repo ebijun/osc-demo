@@ -1,0 +1,38 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at KANSAI OPEN FORUM 2015
+
+the Japan NetBSD Users' Group members held booth
+at the KANSAI OPEN FORUM 2015 on Nov. 6-7 2015:
+http://k-of.jp/
+
+Booth:
+  http://movapic.com/pic/20151106080028563c5e1c6f42f
+
+The NetBSD booth exhibited the following machines:
+ - Sun Ultra-5 NetBSD/sparc64 NetBSD7.0+mule-1.1+FreeWnn+mikutter
+   http://movapic.com/pic/20151106073752563c58d04c735 
+ - Raspberry Pi2 mikutter+Xfce4+omxplayer+livestreamer+firefox
+   http://movapic.com/pic/20151106051619563c37a344313
+ - WZERO3 NetBSD/hpcarm
+   http://movapic.com/pic/20151106074418563c5a5297c26
+
+BSD BOF
+- https://k-of.jp/2015/session/731
+- https://github.com/user340/fdgw2
+- tsutsui@
+- http://www.soum.co.jp/~jun/KOF2015.pdf @ebijun
+
+
+Raspberry Pi running updated 2015-11-07-netbsd-raspi.img image:
+ http://mail-index.netbsd.org/port-arm/2015/11/04/msg003546.html
+
+More pictures are available on Togetter page:
+ http://togetter.com/li/896456
+ 
+NEXT:
+ OSC2015 Tokushima: http://www.ospn.jp/osc2015-tokushima/ 
+  Nov.14 TOKUSHIMA,JAPAN
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
