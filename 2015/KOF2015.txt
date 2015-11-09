@@ -13,15 +13,18 @@ The NetBSD booth exhibited the following machines:
    http://movapic.com/pic/20151106073752563c58d04c735 
  - Raspberry Pi2 mikutter+Xfce4+omxplayer+livestreamer+firefox
    http://movapic.com/pic/20151106051619563c37a344313
+ - NetBSD/x68k on XM6i on ODROID-C1 
+   https://twitter.com/e_yuuki_BSD/status/653788784916434945
  - WZERO3 NetBSD/hpcarm
    http://movapic.com/pic/20151106074418563c5a5297c26
 
 BSD BOF
 - https://k-of.jp/2015/session/731
-- https://github.com/user340/fdgw2
-- tsutsui@
-- http://www.soum.co.jp/~jun/KOF2015.pdf @ebijun
-
+- fdgw2 - One Floppy NetBSD System Version 2 by Yuuki Enomoto  @e_yuuki_BSD
+  http://e-yuuki.org/events/fdgw2/assets/player/KeynoteDHTMLPlayer.html#0
+  https://github.com/user340/fdgw2
+- emacs 18.59 and mule 1.1 on NetBSD 7.0 by  @tsutsuii
+- http://www.soum.co.jp/~jun/KOF2015.pdf  by  @ebijun
 
 Raspberry Pi running updated 2015-11-07-netbsd-raspi.img image:
  http://mail-index.netbsd.org/port-arm/2015/11/04/msg003546.html
