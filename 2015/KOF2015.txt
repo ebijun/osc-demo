@@ -1,9 +1,11 @@
 To: netbsd-advocacy%NetBSD.org@localhost
 Subject: NetBSD machines at KANSAI OPEN FORUM 2015
 
-the Japan NetBSD Users' Group members held booth
+The Japan NetBSD Users' Group members held booth
 at the KANSAI OPEN FORUM 2015 on Nov. 6-7 2015:
-http://k-of.jp/
+ http://k-of.jp/
+ http://www.jp.NetBSD.org/
+ https://www.facebook.com/NetBSD.jp/
 
 Booth:
   http://movapic.com/pic/20151106080028563c5e1c6f42f
@@ -13,10 +15,15 @@ The NetBSD booth exhibited the following machines:
    http://movapic.com/pic/20151106073752563c58d04c735 
  - Raspberry Pi2 mikutter+Xfce4+omxplayer+livestreamer+firefox
    http://movapic.com/pic/20151106051619563c37a344313
- - NetBSD/x68k on XM6i on ODROID-C1 
-   https://twitter.com/e_yuuki_BSD/status/653788784916434945
  - WZERO3 NetBSD/hpcarm
    http://movapic.com/pic/20151106074418563c5a5297c26
+ - XM6i NetBSD/x68k on ODROID-C1 
+   http://movapic.com/pic/20151107020729563d5ce1830ef
+ - pkgsrc on MacOS by @e_yuuki_BSD
+   http://movapic.com/pic/20151107035635563d7673358cb
+ - NetBSD sticker
+   http://movapic.com/ebijun/pic/5288880
+
 
 BSD BOF
 - https://k-of.jp/2015/session/731
@@ -24,6 +31,7 @@ BSD BOF
   http://e-yuuki.org/events/fdgw2/assets/player/KeynoteDHTMLPlayer.html#0
   https://github.com/user340/fdgw2
 - emacs 18.59 and mule 1.1 on NetBSD 7.0 by  @tsutsuii
+  https://speakerdeck.com/tsutsui/kof2015-emacs-18-dot-59-and-mule-1-dot-1-on-netbsd-7-dot-0
 - http://www.soum.co.jp/~jun/KOF2015.pdf  by  @ebijun
 
 Raspberry Pi running updated 2015-11-07-netbsd-raspi.img image:
@@ -33,8 +41,10 @@ More pictures are available on Togetter page:
  http://togetter.com/li/896456
  
 NEXT:
- OSC2015 Tokushima: http://www.ospn.jp/osc2015-tokushima/ 
-  Nov.14 TOKUSHIMA,JAPAN
+ OSC2015 Tokushima: Nov.14 TOKUSHIMA,JAPAN
+  http://www.ospn.jp/osc2015-tokushima/ 
+  https://www.facebook.com/NetBSD.jp/events
+  https://www.facebook.com/events/718261744970079/
 
 TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
 ---
