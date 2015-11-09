@@ -9,34 +9,22 @@ Booth:
   http://movapic.com/pic/20151106080028563c5e1c6f42f
 
 The NetBSD booth exhibited the following machines:
- - Sun Ultra-5 by @tsutsuii
-   NetBSD/sparc64 NetBSD7.0+mule-1.1+FreeWnn+mikutter
+ - Sun Ultra-5 NetBSD/sparc64 NetBSD7.0+mule-1.1+FreeWnn+mikutter
    http://movapic.com/pic/20151106073752563c58d04c735 
  - Raspberry Pi2 mikutter+Xfce4+omxplayer+livestreamer+firefox
    http://movapic.com/pic/20151106051619563c37a344313
-   Install
-     http://mail-index.netbsd.org/port-arm/2015/11/04/msg003546.html
-   pkg_add omxplayer
-   pkg_add firefox
-   pkg_add xfce4 and edit /root/.xinitrc
-   pkg_add pi-pip
-   pip27 install livestreamer
+ - NetBSD/x68k on XM6i on ODROID-C1 
+   https://twitter.com/e_yuuki_BSD/status/653788784916434945
  - WZERO3 NetBSD/hpcarm
    http://movapic.com/pic/20151106074418563c5a5297c26
- - XM6i NetBSD/x68k on ODROID-C1 
-   http://movapic.com/pic/20151107020729563d5ce1830ef
- - pkgsrc on MacOS by @e_yuuki_BSD
-   http://movapic.com/pic/20151107035635563d7673358cb
- - NetBSD sticker
-   http://movapic.com/ebijun/pic/5288880
 
 BSD BOF
 - https://k-of.jp/2015/session/731
-- https://twitter.com/e_yuuki_BSD/status/654230561829994498
+- fdgw2 - One Floppy NetBSD System Version 2 by Yuuki Enomoto  @e_yuuki_BSD
+  http://e-yuuki.org/events/fdgw2/assets/player/KeynoteDHTMLPlayer.html#0
   https://github.com/user340/fdgw2
-- tsutsui@
-- http://www.soum.co.jp/~jun/KOF2015.pdf @ebijun
-
+- emacs 18.59 and mule 1.1 on NetBSD 7.0 by  @tsutsuii
+- http://www.soum.co.jp/~jun/KOF2015.pdf  by  @ebijun
 
 Raspberry Pi running updated 2015-11-07-netbsd-raspi.img image:
  http://mail-index.netbsd.org/port-arm/2015/11/04/msg003546.html
