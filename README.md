@@ -7,8 +7,9 @@ Demonstaration setting for NetBSD Booth
 ~~~~~~~~~~~~~~~~~~
 
 総集編：
-  AsiaBSDCon2015　http://www.soum.co.jp/~jun/asiabsdcon2015.pdf
-  JNUG2014 http://www.soum.co.jp/~jun/JNUG2014.pdf
+  AsiaBSDCon2015 http://www.soum.co.jp/~jun/asiabsdcon2015.pdf
+  JNUG2015       http://www.soum.co.jp/~jun/JNUG2015.pdf
+  参加マップ　     http://www.soum.co.jp/~jun/2015maps.pdf
 
 作り方：
  https://github.com/ebijun/NetBSD/blob/master/Guide/Paper/sphinx.rst
