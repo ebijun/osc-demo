@@ -1,0 +1,53 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2015 Tokushima
+
+The Japan NetBSD Users' Group members held booth
+at the Open Source Conference 2015 Tokushima on Nov.14 2015:
+
+ http://www.ospn.jp/osc2015-tokushima/
+ https://www.facebook.com/events/718261744970079/
+ http://www.jp.NetBSD.org/
+ https://www.facebook.com/NetBSD.jp/
+
+Booth:
+ http://p.twipple.jp/ckSTb
+
+PANIX: SVR4 on PC98 by Hiroyuki Nakaji
+ http://www.slideshare.net/hiroyukinakaji/panix-on-pc98
+ http://p.twipple.jp/zezKF
+ http://p.twipple.jp/5X8EV
+
+Raspberry PI2: NetBSD/earmv6hf mikutter+Xfce4+omxplayer+livestreamer
+ http://p.twipple.jp/vzfkS
+
+ODROID-C1: NetBSD/earmv7hf NetBSD/x68k on XM6i SHARP X68030 emulator
+ http://p.twipple.jp/hXt69
+
+SHARP NetWalker: NetBSD/earmv7hf Xfce4.12+Firefox+SBCL
+ Xnp21 PC9801 Emulator 
+ http://p.twipple.jp/Z8Rfl
+
+SHARP WZero3: NetBSD/hpcarm
+ http://p.twipple.jp/cvRId
+
+NetBSD Tourist Guide:
+ https://www.soum.co.jp/~jun/OSC2015tokushima.pdf
+
+Demo Images:
+ RPI
+  http://mail-index.netbsd.org/port-arm/2015/11/11/msg003550.html
+
+
+More pictures are available on Togetter page:
+  http://togetter.com/li/899923
+
+NEXT:
+ Open Source Conference 2016 Hamanako:  Jan.23 Hamamatsu,Shizuoka,JAPAN
+    http://www.ospn.jp/osc2016-hamanako/
+
+Thanx for 2015 season:
+  http://www.soum.co.jp/~jun/2015maps.pdf
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
