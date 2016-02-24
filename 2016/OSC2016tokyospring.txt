@@ -1,0 +1,77 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2016 Tokyo/Spring
+
+The Japan NetBSD Users' Group members held booth
+at the Open Source Conference 2016 Tokyo/Fall on Feb. 26-27 2016:
+
+ http://www.ospn.jp/osc2016-spring/
+ https://www.facebook.com/events/448461512004539/
+ https://www.facebook.com/NetBSD.jp/
+
+BSD BOF Presentation: 
+  ...
+
+Booth:
+  ...
+
+NetBSD Tourist Guide:
+ https://www.soum.co.jp/~jun/OSC2016tokyospring.pdf
+
+The NetBSD booth exhibited the following machines:
+
+XXX
+https://docs.google.com/spreadsheets/d/1DTJbESfnOUgOiVkFG8vsrxTq6oCGRpf8PkRcMkhWYWQ/
+
+NetBSD/evbarm	Radxa	Rock	Rockchip RK3188
+NetBSD/evbarm	VIA	APC8750	WonderMedia WM8750
+NetBSD/evbarm	Atmark-Techno	Armadillo-9	Cirrus Logic EP9315
+NetBSD/evbarm	Atmark-Techno	Armadillo-210	Cirrus Logic EP9307
+NetBSD/evbarm	BeagleBoard.org	BeagleBone Black	Texas Instruments AM3358
+NetBSD/evbarm	LinkSprite	pcDuino nano 3	Allwinner A20
+NetBSD/evbarm	N/A	ES board	Rockchip RK3068
+NetBSD/evbarm	Orange Pi	Orange Pi PC	AllWinner H3
+NetBSD/evbmips	Linino.org	Linino ONE	Atheros AR9331
+NetBSD/evbmips WIP	RouterBoard	RB951Ui-2HnD	Atheros AR9344
+NetBSD/mpc860	Plathome	OpenBlockS 50	Motorola MPC860T
+NetBSD/evbppc	Plathome	OpenBlockSS	IBM PowerPC 405GP
+NetBSD/evbppc	Plathome	OpenBlockS 266	AMCC PowerPC 405GPr
+NetBSD/sandpoint	Buffalo	HD-H160LAN	Motorola MPC8241
+NetBSD/landisk	IO DATA	USL-5P	Hitachi SH7751R
+NetBSD/earmv7hf	Hardkernel	ODROID-C1	Amlogic S805
+NetBSD/earmv7hf	CubieTech	Cubieboard2	Allwinner A20
+NetBSD/earmv7hf	Sharp	NetWalker PC-Z1	Freescale i.MX515
+NetBSD/zaurus	Sharp	Zaurus SL-C760	Intel PXA255
+NetBSD/earmv6hf	Raspberyy Pi Foundation	Raspberry PI	Broardcom BCM2836
+NetBSD/hpcarm	Sharp	WZero3	Intel PXA270
+NetBSD/evbarm WIP	Radxa	Rock2 Square / SoM 4GB	Rockchip RK3288
+NetBSD/evbarm64 WIP	Tronsmart	Orion R68 Meta	Rockchip RK3368
+NetBSD/evbmips WIP	Buffalo	BHR-4GRV2	Qualcomm Atheros QCA9558
+NetBSD/evbarm	ChipSPARK	Rayeager PX2	Rockchip PX2
+NetBSD/evbmips WIP	EasyLink	M-mini	Atheros AR9331
+NetBSD/evbmips WIP	WRTnode	WRTnode1	MTK MT7620N
+NetBSD/evbmips WIP	OpenEmbed	SOM9331	Atheros AR9331
+NetBSD/evbmips WIP	ZSUN	Wifi USB Card Reader	Atheros AR9331
+NetBSD/evbarm	CubieTech	Cubieboard4	Allwinner A80
+kame KAME            kame, stuffed kame
+
+
+Demo Images:
+ RPI:
+  XXX
+  http://mail-index.netbsd.org/port-arm/2015/10/20/msg003534.html
+
+More pictures are available on Togetter page:
+  XXX
+  http://togetter.com/li/891107
+
+NEXT:
+ AsiaBSDCon 2016:  Mar.10-13 2016 Tokyo,JAPAN
+    https://2016.asiabsdcon.org/
+
+    see you in BSD BOF. Mar.11 2016 Tokyo.
+    https://wiki.netbsd.org/summits/AsiaBSDCon_2016_NetBSD_BOF/
+    https://www.facebook.com/events/833115380143767/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
