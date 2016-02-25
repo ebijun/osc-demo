@@ -57,8 +57,7 @@ kame KAME            kame, stuffed kame
 
 Demo Images:
  RPI:
-  XXX
-  http://mail-index.netbsd.org/port-arm/2015/10/20/msg003534.html
+  http://mail-index.netbsd.org/port-arm/2016/02/24/msg003689.html
 
 More pictures are available on Togetter page:
   XXX
