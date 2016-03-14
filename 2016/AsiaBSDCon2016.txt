@@ -29,12 +29,18 @@ See http://www.netbsd.org/gallery/presentations/ for paper and slides.
 
 Booth:
  http://p.twipple.jp/sFcYH
+ 
+ X68040 turbo: msaitoh@
+ http://p.twipple.jp/Zx5K6
 
  OMRON Luna68K: @nullnilaki
   https://twitter.com/cvsync/status/708513837385822208
 
  AsiaBSDCon2016 Sticker by @nullnilaki , Designed by @kozatomiho
   https://twitter.com/nullnilaki/status/708537972698718208
+
+ NetBSD rounded special Sticker by wiz@
+  http://p.twipple.jp/NvZth
 
  FreeBSD+Raspberry PI+GPIO/I2C demonstration by @s_mitu
   https://twitter.com/ebijun/status/708863168416653312
@@ -45,6 +51,35 @@ NetBSD Tourist Guide:
 The NetBSD booth exhibited the following machines:
  https://docs.google.com/spreadsheets/d/12w4Foiw5KqEWjrXkI6bNHVeSYwSFc7Mq4SnO6BgAOZQ
 
+NetBSD/evbarm	VIA	APC8750	WonderMedia WM8750
+NetBSD/evbarm	Atmark-Techno	Armadillo-9	Cirrus Logic EP9315
+NetBSD/evbarm	BeagleBoard.org	BeagleBone Black	Texas Instruments AM3358
+NetBSD/earmv7hf	CubieTech	Cubieboard2	AllWinner A20
+NetBSD/evbmips	Linino.org	Linino ONE	Atheros AR9331
+NetBSD/earmv7hf	Sharp	NetWalker PC-Z1	Freescale i.MX515
+NetBSD/earmv7hf	Hardkernel	ODROID-C1	Amlogic S805
+NetBSD/evbppc	Plathome	OpenBlockS 266	AMCC PowerPC 405GPr
+NetBSD/evbppc	Plathome	OpenBlockSS	IBM PowerPC 405GP
+NetBSD/evbarm WIP	Orange Pi	Orange Pi PC	AllWinner H3
+NetBSD/evbarm	LinkSprite	pcDuino nano 3	Allwinner A20
+NetBSD/earmv6hf	Raspberyy Pi Foundation	Raspberry PI 2	Broadcom BCM2836
+NetBSD/earmv6hf	Raspberyy Pi Foundation	Raspberry PI Zero	Broadcom BCM2835
+NetBSD/evbarm	Radxa	Rock	Rockchip RK3188
+NetBSD/landisk	IO DATA	USL-5P	Hitachi SH7751R
+NetBSD/hpcarm	Sharp	W-ZERO3 (WS004SH)	Intel PXA270
+NetBSD/hpcarm	Sharp	W-ZERO3 Ad ES (WS011SH)	Intel PXA270
+NetBSD/zaurus	Sharp	Zaurus SL-C1000	Intel PXA270
+NetBSD/i386	DMP Electronics	86duino Educake	Vortex86EX
+NetBSD/x68k	Sharp	X68030 (CZ-500C)	Motorola MC68EC030 (+68040 acceleration board)
+NetBSD/evbarm	Plathome	OpenBlockS A6	ARMADA 310 (88F6283)
+NetBSD/luna68k	OMRON 	HOLONIC WORKSTATION SX-9100/DT	Motorola m68030 
+OpenBSD	OPNsence	A10 Quad Core SSD Desktop	AMD G-SERIES SOC GX-415GA 
+OpenBSD	OPNsence	A10 Dual Core (board only)	AMD G-SERIES SOC GX-210UA 
+OpenBSD	PCEngines	APU.1d	AMD G series T40E APU
+NetBSD/evbarm	Parallella	Parallella Epiphany III Desktop Computer	Xilinx Zynq-7010
+NetBSD/evbarm	SolidRun	HummingBoard-i2eX	Freescale i.MX6
+?	nVIDiA	Jetson　TK1	Tegra K1
+?	96boards	DragonBoard 410c	Qualcomm SnapDragon 410c
 
 Demo Images:
  RPI:
