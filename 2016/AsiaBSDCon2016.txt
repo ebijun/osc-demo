@@ -1,0 +1,62 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at AsiaBSDCon 2016
+
+BSD Research and Japan NetBSD Users' Group members held booth
+at the AsiaBSDCon 2016  on Mar. 10-13 2016:
+
+ http://2016.asiabsdcon.org/
+ https://www.facebook.com/events/355716594630654/
+ https://www.bsdresearch.org/index.html.en
+ http://www.jp.NetBSD.org/
+ https://www.facebook.com/NetBSD.jp/
+
+Keynote K01: Early days of Unix and Lessons Learned
+  Steve  Bourne (srb@acm.org)
+
+NetBSD Related Talk&Event in AsiaBSDCon2016
+- NetBSD Developer Summit (invited only)
+  http://wiki.netbsd.org/summits/asiabsdcon_2016_netbsd_summit/
+- NetBSD BoF
+  http://wiki.netbsd.org/summits/AsiaBSDCon_2016_NetBSD_BoF/
+- P01C: How to break long-term compatibility in NetBSD
+  Joerg  Sonnenberger (joerg@britannica.bec.de)
+- P04C: New Security Models for NetBSD
+  Alistair  Crooks (agc@pkgsrc.org)
+- Peripheral-side USB support for NetBSD
+  Hiroyuki  Bessho (bsh@NetBSD.org)
+
+See http://www.netbsd.org/gallery/presentations/ for paper and slides.
+
+Booth:
+ http://movapic.com/pic/201603140555295503cd51ce997
+
+ OMRON Luna68K: @nullnilaki
+  https://twitter.com/cvsync/status/708513837385822208
+
+ AsiaBSDCon2016 Sticker by @nullnilaki , Designed by @kozatomiho
+  https://twitter.com/nullnilaki/status/708537972698718208
+
+ FreeBSD+Raspberry PI+GPIO/I2C demonstration by @s_mitu
+  https://twitter.com/ebijun/status/708863168416653312
+
+NetBSD Tourist Guide:
+ https://www.soum.co.jp/~jun/asiabsdcon2016.pdf
+
+The NetBSD booth exhibited the following machines:
+ https://docs.google.com/spreadsheets/d/12w4Foiw5KqEWjrXkI6bNHVeSYwSFc7Mq4SnO6BgAOZQ
+
+
+Demo Images:
+ RPI:
+  http://mail-index.netbsd.org/port-arm/2016/03/10/msg003709.html
+
+More pictures are available on Togetter page:
+  http://togetter.com/li/947029
+
+NEXT:
+ OpenSourceConference2016 Gunma:  May.14 Gunma,JAPAN
+    http://www.ospn.jp/osc2016-gunma/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
