@@ -28,7 +28,7 @@ NetBSD Related Talk&Event in AsiaBSDCon2016
 See http://www.netbsd.org/gallery/presentations/ for paper and slides.
 
 Booth:
- http://movapic.com/pic/201603140555295503cd51ce997
+ http://p.twipple.jp/sFcYH
 
  OMRON Luna68K: @nullnilaki
   https://twitter.com/cvsync/status/708513837385822208
