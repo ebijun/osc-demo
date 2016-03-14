@@ -30,8 +30,8 @@ See http://www.netbsd.org/gallery/presentations/ for paper and slides.
 Booth:
  http://p.twipple.jp/sFcYH
  
- X68040 turbo: msaitoh@
- http://p.twipple.jp/Zx5K6
+ X68/040turbo :msaitoh@
+ https://twitter.com/gussunoyoyo/status/708858945960419333
 
  OMRON Luna68K: @nullnilaki
   https://twitter.com/cvsync/status/708513837385822208
@@ -41,14 +41,17 @@ Booth:
 
  NetBSD rounded special Sticker by wiz@
   http://p.twipple.jp/NvZth
+ 
+ NetBSD cutting seat by ryo@
+  https://twitter.com/rsh/status/706018191076503553
 
  FreeBSD+Raspberry PI+GPIO/I2C demonstration by @s_mitu
-  https://twitter.com/ebijun/status/708863168416653312
+  https://twitter.com/gussunoyoyo/status/708856364160851970
 
 NetBSD Tourist Guide:
  https://www.soum.co.jp/~jun/asiabsdcon2016.pdf
 
-The NetBSD booth exhibited the following machines:
+The NetBSD booth exhibited the following machines: sheeets by @tokudahiroshi
  https://docs.google.com/spreadsheets/d/12w4Foiw5KqEWjrXkI6bNHVeSYwSFc7Mq4SnO6BgAOZQ
 
 NetBSD/evbarm	VIA	APC8750	WonderMedia WM8750
