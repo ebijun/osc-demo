@@ -18,7 +18,7 @@ The NetBSD booth exhibited the following machines:
 
 machine		company	model	CPU
 NetBSD/evbarm	Sharp	NetWalker PC-Z1	Freescale i.MX515
-NetBSD/zaurrus	Sharp	Zaurus SL-C1000	Intel PXA270
+NetBSD/zaurus	Sharp	Zaurus SL-C1000	Intel PXA270
 NetBSD/evbarm	Raspberyy Pi Foundation	Raspberry PI Zero	Broadcom BCM2835
 NetBSD/evbarm	Raspberyy Pi Foundation	Raspberry PI	Broadcom BCM2835
 NetBSD/evbarm	Raspberyy Pi Foundation	Raspberry PI 2	Broadcom BCM2836
