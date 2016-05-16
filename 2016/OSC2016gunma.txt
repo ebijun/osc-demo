@@ -1,0 +1,48 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2016 Gunma
+
+The Japan NetBSD Users' Group members held booth
+at the Open Source Conference 2016 Gunma on May. 14 2016:
+
+ http://www.ospn.jp/osc2016-gunma/
+ https://www.facebook.com/events/202028143468758/
+ https://www.facebook.com/NetBSD.jp/
+
+Booth:
+ http://p.twipple.jp/3e5Y4
+
+NetBSD Tourist Guide:
+ https://www.soum.co.jp/~jun/OSC2016gunma.pdf
+
+The NetBSD booth exhibited the following machines:
+
+machine		company	model	CPU
+NetBSD/evbarm	Sharp	NetWalker PC-Z1	Freescale i.MX515
+NetBSD/zaurrus	Sharp	Zaurus SL-C1000	Intel PXA270
+NetBSD/evbarm	Raspberyy Pi Foundation	Raspberry PI Zero	Broadcom BCM2835
+NetBSD/evbarm	Raspberyy Pi Foundation	Raspberry PI	Broadcom BCM2835
+NetBSD/evbarm	Raspberyy Pi Foundation	Raspberry PI 2	Broadcom BCM2836
+NetBSD/evbarm	Raspberyy Pi Foundation	Raspberry PI 3	Broadcom BCM2837
+NetBSD/hpcarm	Sharp	WZero3	Intel PXA270
+NetBSD/hpcarm	Sharp	WZero3 Ad ES	Intel PXA270
+NetBSD/evbarm	BananaPi	Banana Pi	AllWinner A20
+NetBSD/evbarm	CubieTech	Cubieboard2	AllWinner A20
+NetBSD/evbmips  I/O Data WRH-300CR Mediatek MT7620
+ | http://pastebin.com/n05jnhjs
+
+Demo Images:
+ RPI:
+  http://mail-index.netbsd.org/port-arm/2016/05/07/msg003771.html
+
+More pictures are available on Togetter page:
+  http://togetter.com/li/975036
+
+NEXT:
+ Open Source Conference 2016 Nagoya:  Mar.28 2016 Tokyo,JAPAN
+
+    http://www.ospn.jp/osc2016-nagoya/
+    https://www.facebook.com/events/824987014251931/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
