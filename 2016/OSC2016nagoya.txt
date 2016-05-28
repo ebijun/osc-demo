@@ -1,0 +1,66 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: OpenBSD and NetBSD machines at Open Source Conference 2016 Nagoya
+
+The Japan NetBSD Users' Group and 
+Nagoya *BSD Users' Group members held booth
+at the Open Source Conference 2016 Nagoya on May. 28 2016:
+
+ http://www.ospn.jp/osc2016-nagoya/
+ https://www.facebook.com/events/824987014251931/
+ https://www.facebook.com/NetBSD.jp/
+
+Booth:
+ https://twitter.com/ebijun/status/736353876580802562
+
+OMRON LUNA88k on OpenBSD 5.9 by Kenji Aoyama.
+  https://t.co/2VAZUQLAP8
+ + PC98 C-bus Graphic card PC9801-96 
+  https://twitter.com/ebijun/status/736414011734904832
+ + PC98 C-bus FM SoundCard (YMF288)
+ + PCMCIA Wi-Fi LAN Card
+ + Yaft yet another frame buffer terminal 
+ + S98launcher plays RE:birth by Takahiro Nogi and Ryu Umemoto
+ + sayaka twitter client
+   https://twitter.com/ebijun/status/736413716132986880
+
+Sillicon Graphics Indigo2 R8000 on OpenBSD/sgi by Naruaki Etomi.
+ https://twitter.com/ebijun/status/736416915862654976
+
+PANIX: SVR4 on PC98 by Hiroyuki Nakaji
+ http://www.slideshare.net/hiroyukinakaji/panix-on-pc98
+ https://twitter.com/ebijun/status/736418250775363584
+
+SHARP NetWalker (NetBSD/earmv7hf) Xfce4.12+Firefox
+ https://twitter.com/ebijun/status/736442646231552000
+
+Raspberry PI 
+ https://twitter.com/ebijun/status/736442933751119872
+
+XEiJ (X68000 Emulator in Java)
+ http://stdkmd.com/xeij/
+ http://p.twipple.jp/pC0DR
+
+Stickers
+ http://p.twipple.jp/i9ZGx
+
+NetBSD Tourist Guide:
+ https://www.soum.co.jp/~jun/OSC2016nagoya.pdf
+
+
+Demo Images:
+ Luna88K & Indigo2 :
+  OpenBSD 5.9 and more.
+ RPI:
+  http://mail-index.netbsd.org/port-arm/2016/05/25/msg003797.html
+
+More pictures are available on Togetter page:
+  http://togetter.com/li/980383
+
+NEXT:
+ Open Source Conference 2016 Hokkaido:  Jun.17-18 Sapporo,JAPAN
+    http://www.ospn.jp/osc2016-do/
+    see you in NetBSD BOF.
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
