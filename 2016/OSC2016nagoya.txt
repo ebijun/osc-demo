@@ -6,6 +6,8 @@ Nagoya *BSD Users' Group members held booth
 at the Open Source Conference 2016 Nagoya on May. 28 2016:
 
  http://www.ospn.jp/osc2016-nagoya/
+ http://www.nagoya.bug.gr.jp/
+ http://www.jp.NetBSD.org/
  https://www.facebook.com/events/824987014251931/
  https://www.facebook.com/NetBSD.jp/
 
@@ -13,7 +15,7 @@ Booth:
  https://twitter.com/ebijun/status/736353876580802562
 
 OMRON LUNA88k on OpenBSD 5.9 by Kenji Aoyama.
-  https://t.co/2VAZUQLAP8
+  https://t.co/2VAZUQLAP8 (PDF)
  + PC98 C-bus Graphic card PC9801-96 
   https://twitter.com/ebijun/status/736414011734904832
  + PC98 C-bus FM SoundCard (YMF288)
@@ -61,6 +63,7 @@ More pictures are available on Togetter page:
 NEXT:
  Open Source Conference 2016 Hokkaido:  Jun.17-18 Sapporo,JAPAN
     http://www.ospn.jp/osc2016-do/
+    https://www.facebook.com/events/1730597043836543/
     see you in NetBSD BOF.
 
 TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
