@@ -29,6 +29,7 @@ OMRON LUNA88k on OpenBSD 5.9 by Kenji Aoyama.
 
 Sillicon Graphics Indigo2 R8000 on OpenBSD/sgi by Naruaki Etomi.
  https://twitter.com/ebijun/status/736416915862654976
+ http://nullnilaki.hatenablog.com/entry/2015/12/23/235623
 
 PANIX: SVR4 on PC98 by Hiroyuki Nakaji
  http://www.slideshare.net/hiroyukinakaji/panix-on-pc98
