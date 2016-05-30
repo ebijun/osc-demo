@@ -20,6 +20,8 @@ OMRON LUNA88k on OpenBSD 5.9 by Kenji Aoyama.
  + PCMCIA Wi-Fi LAN Card
  + Yaft yet another frame buffer terminal 
  + S98launcher plays RE:birth by Takahiro Nogi and Ryu Umemoto
+   Thanx to Project RE:birth.
+   http://ym2203.com/rebirth/?page_id=256
  + sayaka twitter client
    https://twitter.com/ebijun/status/736413716132986880
 
