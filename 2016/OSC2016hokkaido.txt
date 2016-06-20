@@ -49,6 +49,8 @@ NetBSD Tourist Guide:
 Presentation: Making enbeded NetBSD 
  by Yuuki Enomoto 
  http://e-yuuki.org/
+ http://e-yuuki.org/events/osc16do.pdf
+ http://e-yuuki.org/events/osc16doLT.pdf
  http://p.twipple.jp/c8XCu
 
 Short Talk: 
