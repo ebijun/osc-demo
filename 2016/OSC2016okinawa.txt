@@ -1,0 +1,60 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2016 Okinawa
+
+The Japan NetBSD Users' Group members held booth 
+at the Open Source Conference 2016 Okinawa 
+  on Jul. 2 2016:
+
+ http://www.ospn.jp/osc2016-okinawa/
+ https://www.facebook.com/events/1589647504618848/
+ https://www.facebook.com/NetBSD.jp/
+ http://www.jp.NetBSD.org/
+
+Booth:
+  http://p.twipple.jp/K3Jet
+
+RPI0+RPI3+RPI2
+ http://p.twipple.jp/t9V2P
+ http://p.twipple.jp/cDPmo
+
+
+Netwalker+mikutter+xnp2+Xfce4
+ http://p.twipple.jp/6820H
+
+WZero3:
+ http://p.twipple.jp/G36Wh
+ http://p.twipple.jp/PJfYV
+
+zaurus:
+ http://p.twipple.jp/HoO0L
+
+Openblocks A6
+ http://p.twipple.jp/OFFb9
+
+XM6i Cross plathome X68000/X68030 emulator.
+ http://xm6i.org/
+ http://p.twipple.jp/avfHj
+
+XEiJ X68000 Emulator in Java
+ http://stdkmd.com/xeij/
+ http://p.twipple.jp/XsEiK
+
+NetBSD Tourist Guide:
+ https://www.soum.co.jp/~jun/OSC2016okinawa.pdf
+
+Demo Images:
+ RPI:
+  http://mail-index.netbsd.org/port-arm/2016/06/29/msg003846.html
+
+More pictures are available on Togetter page:
+  http://togetter.com/li/995155
+
+NEXT:
+ Japan NetBSD Users Group 18th annual Meeting and BoF 2016
+  http://www.jp.NetBSD.org/
+  http://www.jp.netbsd.org/ja/JP/JNUG/announce/meeting18.html
+  https://www.facebook.com/events/1012439098842302/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
