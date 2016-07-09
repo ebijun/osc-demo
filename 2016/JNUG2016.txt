@@ -20,50 +20,31 @@ NetBSD BOF:
    - Masaru OKI:  Do You Know Whitebox Switch?
      Cubieboard2 / Open Web Board /Zodiac FX / RPI0 
    15:30-
-   - Rin Okuyama : Endian independent disklabel support for NetBSD
+   - Rin Okuyama: Endian independent disklabel support for NetBSD
      kern/51208
-   - Ryo Shimizu : Twitter bot reports snapshot build result
+   - Ryo Shimizu: Twitter bot reports snapshot build result
      @netbsd_builder show profile
-   - Hiroo Sato AsiaBSDCon and BSD Research
-   - Jun Ebihara : RPI Image Update 2015-2016
+   - Jun Ebihara: RPI Image Update 2015-2016
      https://github.com/ebijun/NetBSD/blob/master/Guide/RPI/RPIupdate2016.rst
-   - Masanobu SAITOH : NetBSD 2016
-   - Hiroshi Tokuda : Machines on AsiaBSDCon 
-     LINKIT SMART 7688 DUO
-   - (Take )
-   - Favolite hardwares
+   - Masanobu SAITOH: NetBSD 2016
+     http://www.netbsd.org/gallery/presentations/msaitoh/2016_BSDCan/BSDCan2016-NetBSD.pdf
+   - Hiroshi Tokuda: Machines on AsiaBSDCon 
+     LINKIT SMART 7688 DUO / Omega
    17:00
-   - NetBSD 8.0  by soda
+   - SODA Noriyuki: Toward NetBSD 8.0
+   - Masanobu SAITOH: Current status of NetBSD MP-safe network stack project
    18:00
    - Key signparty
    18:30
-
-=========- 2015
-   - numerical analysis with NetBSD: Rin Okuyama
-     Porting linux_sched_(get|set)affinity to NetBSD
-     http://gnats.netbsd.org/cgi-bin/query-pr-single.pl?number=50021
-   - pkgsrc - user setting and todo list: Ryo Onodera
-     http://www.slideshare.net/ryo_on/150711-pkgsrcasuser
-     http://www.slideshare.net/ryo_on/pkgsrc
-   - Try Go on NetBSD (Take.2): Yasushi Oshima
-   - USB Device-side Support: Hiroyuki Bessho
-   - Check-update (pkgsrc): Makoto Fujiwara
-     http://www.ki.nu/~makoto/pkgsrc/check-update/
-   - RPI images / AsiaBSDCon: Jun Ebihara
-     http://mail-index.netbsd.org/port-arm/2016/07/02/msg003268.html
-     https://www.bsdresearch.org/
-   - openhub.net/USB debug tool/MSI-X: Masanobu Saito
-     https://www.openhub.net/p/netbsd
-     https://www.openhub.net/p/pkgsrc
-   - musica - DLNA Server: MAEKAWA Masahide 
-     http://www.m-systems.co.jp/musica/index_en.html
-   - NetBSD7.0 and Beyond: Noriyuki Soda 
 
 NetBSD Tourist Guide:
  https://www.soum.co.jp/~jun/JNUG2016.pdf
 
 More pictures are available on Togetter page:
- http://togetter.com/li/XXXX
+ http://togetter.com/li/997708
+
+Video Archive:
+ http://www.ustream.tv/channel/japan-netbsd-users-group-meeting
 
 NEXT:
  Open Source Conference 2016 Kansai@Kyoto:   Jul.29-30 Kyoto,JAPAN
