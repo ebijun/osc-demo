@@ -33,9 +33,10 @@ NetBSD BOF:
    17:00
    - SODA Noriyuki: Toward NetBSD 8.0
    - Masanobu SAITOH: Current status of NetBSD MP-safe network stack project
-   18:00
-   - Key signparty
+   
    18:30
+   　post meeting party: 
+   　  https://www.facebook.com/12souko/
 
 NetBSD Tourist Guide:
  https://www.soum.co.jp/~jun/JNUG2016.pdf
