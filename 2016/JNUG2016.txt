@@ -1,0 +1,59 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: Japan NetBSD Users Group 18th annual Meeting and BoF 2016
+
+The Japan NetBSD Users' Group members held 18th annual Meeting 
+  on Jul. 9 2016:
+
+ http://www.jp.netbsd.org/ja/JP/JNUG/announce/meeting18.html.en
+ https://www.facebook.com/events/1012439098842302/
+ https://www.facebook.com/NetBSD.jp/
+ http://www.jp.NetBSD.org/
+
+NetBSD BOF:
+  http://www.jp.netbsd.org/ja/JP/JNUG/event/20160709BOF/
+   - Makoto Fujiwara
+   - Kano
+   - Oki
+   - Hiroo Sato AsiaBSDCon and BSD Research
+   - Ebihara
+   - (Take )
+   - (ishit)
+   - Rin Okuyama
+   - Favolite hardwares
+   - Key signparty
+
+=========- 2015
+   - numerical analysis with NetBSD: Rin Okuyama
+     Porting linux_sched_(get|set)affinity to NetBSD
+     http://gnats.netbsd.org/cgi-bin/query-pr-single.pl?number=50021
+   - pkgsrc - user setting and todo list: Ryo Onodera
+     http://www.slideshare.net/ryo_on/150711-pkgsrcasuser
+     http://www.slideshare.net/ryo_on/pkgsrc
+   - Try Go on NetBSD (Take.2): Yasushi Oshima
+   - USB Device-side Support: Hiroyuki Bessho
+   - Check-update (pkgsrc): Makoto Fujiwara
+     http://www.ki.nu/~makoto/pkgsrc/check-update/
+   - RPI images / AsiaBSDCon: Jun Ebihara
+     http://mail-index.netbsd.org/port-arm/2016/07/02/msg003268.html
+     https://www.bsdresearch.org/
+   - openhub.net/USB debug tool/MSI-X: Masanobu Saito
+     https://www.openhub.net/p/netbsd
+     https://www.openhub.net/p/pkgsrc
+   - musica - DLNA Server: MAEKAWA Masahide 
+     http://www.m-systems.co.jp/musica/index_en.html
+   - NetBSD7.0 and Beyond: Noriyuki Soda 
+
+NetBSD Tourist Guide:
+ https://www.soum.co.jp/~jun/JNUG2016.pdf
+
+More pictures are available on Togetter page:
+ http://togetter.com/li/XXXX
+
+NEXT:
+ Open Source Conference 2016 Kansai@Kyoto:   Jul.29-30 Kyoto,JAPAN
+   http://www.ospn.jp/osc2016-kyoto/
+   https://www.facebook.com/events/1697459470491891/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
