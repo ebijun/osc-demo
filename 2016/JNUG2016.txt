@@ -27,9 +27,10 @@ NetBSD BOF:
    - Hiroo Sato AsiaBSDCon and BSD Research
    - Jun Ebihara : RPI Image Update 2015-2016
      https://github.com/ebijun/NetBSD/blob/master/Guide/RPI/RPIupdate2016.rst
-   - Masanobu Saito : NetBSD 2016
+   - Masanobu SAITOH : NetBSD 2016
+   - Hiroshi Tokuda : Machines on AsiaBSDCon 
+     LINKIT SMART 7688 DUO
    - (Take )
-   - NetBSD/hpcmips?(ishit)
    - Favolite hardwares
    17:00
    - NetBSD 8.0  by soda
