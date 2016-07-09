@@ -18,11 +18,12 @@ NetBSD BOF:
      ftp://ftp.kanoh.org/pub/NetBSD/kanoh/
    - Ryo ONODERA: pkgsrc issue for myself
    - Masaru OKI:  Do You Know Whitebox Switch?
+     Cubieboard2 / Open Web Board /Zodiac FX / RPI0 
+   - Rin Okuyama : Endian independent disklabel support for NetBSD
    - Hiroo Sato AsiaBSDCon and BSD Research
    - Ebihara
    - (Take )
-   - (ishit)
-   - Rin Okuyama
+   - NetBSD/hpcmips?(ishit)
    - Favolite hardwares
    17:00
    - NetBSD 8.0  by soda
