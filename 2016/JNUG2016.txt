@@ -16,8 +16,8 @@ NetBSD BOF:
      http://www.ki.nu/~makoto/pkgsrc/check-update
    - Tamotsu Kanoh: IoT on NetBSD
      ftp://ftp.kanoh.org/pub/NetBSD/kanoh/
-   - Ryo ONODERA : pkgsrc issue for myself
-   - Oki
+   - Ryo ONODERA: pkgsrc issue for myself
+   - Masaru OKI:  Do You Know Whitebox Switch?
    - Hiroo Sato AsiaBSDCon and BSD Research
    - Ebihara
    - (Take )
