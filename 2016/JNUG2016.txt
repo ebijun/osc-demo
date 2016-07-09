@@ -15,7 +15,8 @@ NetBSD BOF:
    - Makoto Fujiwara: pkgsrc freshness
      http://www.ki.nu/~makoto/pkgsrc/check-update
    - Tamotsu Kanoh: IoT on NetBSD
-   - Onodera 
+     ftp://ftp.kanoh.org/pub/NetBSD/kanoh/
+   - Ryo ONODERA : pkgsrc issue for myself
    - Oki
    - Hiroo Sato AsiaBSDCon and BSD Research
    - Ebihara
