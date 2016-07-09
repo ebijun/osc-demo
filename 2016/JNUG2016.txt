@@ -23,6 +23,7 @@ NetBSD BOF:
    - (ishit)
    - Rin Okuyama
    - Favolite hardwares
+   17:00
    - NetBSD 8.0  by soda
    18:00
    - Key signparty

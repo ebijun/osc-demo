@@ -27,7 +27,7 @@ NetBSD/hpcarm	Sharp	WZero3	Intel PXA270
 NetBSD/hpcarm	Sharp	WZero3 Ad ES	Intel PXA270
 NetBSD/evbarm	BananaPi	Banana Pi	AllWinner A20
 NetBSD/evbarm	CubieTech	Cubieboard2	AllWinner A20
-NetBSD/evbmips  I/O Data WRH-300CR Mediatek MT7620
+NetBSD/evbmips  ELECOM WRH-300CR Mediatek MT7620
  | http://pastebin.com/n05jnhjs
 
 Demo Images:
