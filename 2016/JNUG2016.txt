@@ -11,8 +11,10 @@ The Japan NetBSD Users' Group members held 18th annual Meeting
 
 NetBSD BOF:
   http://www.jp.netbsd.org/ja/JP/JNUG/event/20160709BOF/
+  14:00- 
    - Makoto Fujiwara: pkgsrc freshness
-   - Kano
+     http://www.ki.nu/~makoto/pkgsrc/check-update
+   - Tamotsu Kanoh: IoT on NetBSD
    - Onodera 
    - Oki
    - Hiroo Sato AsiaBSDCon and BSD Research
@@ -22,7 +24,9 @@ NetBSD BOF:
    - Rin Okuyama
    - Favolite hardwares
    - NetBSD 8.0  by soda
+   18:00
    - Key signparty
+   18:30
 
 =========- 2015
    - numerical analysis with NetBSD: Rin Okuyama
