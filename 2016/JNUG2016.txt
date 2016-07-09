@@ -19,7 +19,11 @@ NetBSD BOF:
    - Ryo ONODERA: pkgsrc issue for myself
    - Masaru OKI:  Do You Know Whitebox Switch?
      Cubieboard2 / Open Web Board /Zodiac FX / RPI0 
+   15:30-
    - Rin Okuyama : Endian independent disklabel support for NetBSD
+     kern/51208
+   - Ryo Shimizu : Twitter bot reports snapshot build result
+
    - Hiroo Sato AsiaBSDCon and BSD Research
    - Ebihara
    - (Take )
