@@ -23,9 +23,10 @@ NetBSD BOF:
    - Rin Okuyama : Endian independent disklabel support for NetBSD
      kern/51208
    - Ryo Shimizu : Twitter bot reports snapshot build result
-
+     @netbsd_builder show profile
    - Hiroo Sato AsiaBSDCon and BSD Research
-   - Ebihara
+   - Jun Ebihara : RPI Image Update 2015-2016
+     https://github.com/ebijun/NetBSD/blob/master/Guide/RPI/RPIupdate2016.rst
    - (Take )
    - NetBSD/hpcmips?(ishit)
    - Favolite hardwares
