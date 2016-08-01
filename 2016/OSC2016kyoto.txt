@@ -1,8 +1,8 @@
 To: netbsd-advocacy%NetBSD.org@localhost
 Subject: NetBSD machines at Open Source Conference 2016 Kyoto
 
-The Japan NetBSD Users' Group and  Kansai *BSD Users' Group and 
-Nagoya *BSD Users' Group members held booth
+The Japan NetBSD Users' Group and  Kansai *BSD Users' Group 
+members held booth
 at the Open Source Conference 2016 Kyoto on Jul. 29-30 2016:
 
  http://www.ospn.jp/osc2016-kyoto/
@@ -21,12 +21,14 @@ NEC PC6001+PC6082 DataRecorder by tsutsui@
 
 RetroBSD & LiteBSD by Takeshi Mutoh
 - http://qml.610t.org/FreeBSD/OSC2016Kyoto_JNUG.html
+- https://github.com/610t/kbug/blob/226d695792503635b6e35c5fb107f95cbbcad17e/demo/network.png
 - LiteBSD at chipKIT Wi-FIRE 4.4BSD PIC32MZ
 - RetroBSD at PIC32-RetroBSD 2.11BSD PIC32MX
 - FreeBSD at Raspberry Pi B FreeBSD LCD loadavg 
 - NetBSD at Banana Pi NetBSD7
 - RaspBSD at BeagleBone Black FreeBSD11 LED loadavg USB Ether 
 - NetBSD at Raspberry Pi 2B NetBSD 7 LanAP distcc 
+- NetBSD at Raspberry Pi 0 NetBSD7 GPIO LED loadavg
 
 Astronomical instruments control by NAKAMURA Kazushi
 - ASCOM project
