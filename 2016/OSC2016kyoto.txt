@@ -9,110 +9,66 @@ at the Open Source Conference 2016 Kyoto on Jul. 29-30 2016:
  https://www.facebook.com/events/1062729970410808/
  https://www.facebook.com/NetBSD.jp/
 
-NetBSD/luna68k 7.0.1 by Tsutsuii
+NetBSD/luna68k 7.0.1 by tsutsui@
+- https://speakerdeck.com/tsutsui/osc2016-kyoto-psg-tunes-on-netbsd-luna68k
 - LUNA has Z80 sub-processor and YM2149 sound chip
 - porting PSG Z80 sound driver for PC6001 to NetBSD/luna68k
+  LUNA PSG support code http://twitter.com/tsutsuii/status/759793635898515456 
 - play PC6001 music data on LUNA
 
-NEC PC6001+PC6082 DataRecorder
+NEC PC6001+PC6082 DataRecorder by tsutsui@
 - play PC6001 music data
 
-LiteBSD at chipKIT Wi-FIRE 4.4BSD PIC32MZ
-RetroBSD at PIC32-RetroBSD 2.11BSD PIC32MX
-FreeBSD at Raspberry Pi B FreeBSD LCD loadavg 
-NetBSD at Banana Pi NetBSD7
-RaspBSD at BeagleBone Black FreeBSD11 LED loadavg USB Ether 
-NetBSD at Raspberry Pi 2B NetBSD 7 LanAP distcc 
-ASCOM INDI Camera
+RetroBSD & LiteBSD by Takeshi Mutoh
+- http://qml.610t.org/FreeBSD/OSC2016Kyoto_JNUG.html
+- LiteBSD at chipKIT Wi-FIRE 4.4BSD PIC32MZ
+- RetroBSD at PIC32-RetroBSD 2.11BSD PIC32MX
+- FreeBSD at Raspberry Pi B FreeBSD LCD loadavg 
+- NetBSD at Banana Pi NetBSD7
+- RaspBSD at BeagleBone Black FreeBSD11 LED loadavg USB Ether 
+- NetBSD at Raspberry Pi 2B NetBSD 7 LanAP distcc 
 
-Sharp Netwalker
-Sharp ZAURUS
-Sharp WZero3
-NEC SigmarionII
+Astronomical instruments control by NAKAMURA Kazushi
+- ASCOM project
+  http://www.ascom-standards.org/
+- INDI project
+  http://www.indilib.org/
 
-Raspberry Pi 0/1/2/3
-with Image
+Others by Jun Ebihara
+- Raspberry Pi 0/1/2/3
+  http://mail-index.netbsd.org/port-arm/2016/07/27/msg003884.html
+  RPI0: https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv6hf/RPI0
+  RPI : https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv6hf/RPI
+  RPI2: https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv6hf/RPI2
+  RPI3: https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv6hf/RPI3
 
-
-#OSC2015kyoto NetBSD and old machines by tsutsui@
-# https://speakerdeck.com/tsutsui/osc2015kyoto-netbsd-and-old-machines
-
-#LUNA-88K2+PC-9801 extention board
-#http://www.nk-home.net/~aoyama/osc2015kyoto/OSC2015Kyoto-leaflet.pdf
+- Sharp Netwalker NetBSD/earmv7hf
+  NetBSD 7.99.21
+  https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv7hf/NETWALKER
+- Sharp ZAURUS NetBSD/zaurus
+  -current boot failed.
+  NetBSD 6.99.29
+  https://github.com/ebijun/NetBSD/blob/master/dmesg/zaurus/SL-C1000
+- Sharp WZero3
+  NetBSD 7.99.30
+  https://github.com/ebijun/NetBSD/blob/master/dmesg/hpcarm/WS011SH
+- NEC SigmarionII
+  NetBSD 7.99.33 201607080210Z works well, 7.99.34 boot failed.
+  https://github.com/ebijun/NetBSD/blob/master/dmesg/hpcmips/sigmarion2
 
 NetBSD Tourist Guide:
  https://www.soum.co.jp/~jun/OSC2016kyoto.pdf
 
 KBUG Flyer
-http://sacraya.610t.org/kbug/flyer/flyer-OSC2016Kyoto.pdf
-
-Booth:
-
-The NetBSD booth exhibited the following machines:
-
-KBUG Booth by Takeshi Mutoh
-
-RetroBSD at PIC32-RetroBSD
-
-
-
-2015-------------------
-OMRON LUNA88k + PC98 C-bus Graphic card PC9801-96 
- + Yaft yet another frame buffer terminal 
- + sayaka twitter client with Additional display via PC9801 Display Board 
- + additional PCMCIA Wi-fi interface
-on OpenBSD 5.7 by Kenji Aoyama.
-
- https://twitter.com/ao_kenji/status/629960575334744064/photo/1
-
-OMRON LUNAII
- mlterm-fb sixel graphics presentation by tsutsui@
- mlterm-fb + FreeWnn Kanji input
- https://twitter.com/cvsync/status/629869256440590336/photo/1 
-
-LUNA Techno-shugei LED Towel by Tomoko Yoshida
- http://movapic.com/ebijun/pic/5271036
-
-NetBSD/i386 7.0_RC2 Live image with Flashplayer
- http://www.ceres.dti.ne.jp/tsutsui/netbsd/liveimage/
- https://twitter.com/tsutsuii/status/629825689357647872/photo/1
-
-SHARP NetWalker (NetBSD/earmv7hf) Xfce4.12+Firefox+onscripter
- https://twitter.com/tsutsuii/status/630408954699341825/photo/1
- 
-Raspberry PI running NetBSD/x68k with XM6i emulator.
- http://movapic.com/ebijun/pic/5271102
-
-Raspberry PI running omxplayer video player
- https://twitter.com/tsutsuii/status/630406242540761088/photo/1
-
-Raspberry PI FreeBSD11-current 
- LCD MZTX-PI-EXT display via GPIO
- http://qml.610t.org/FreeBSD/raspi_GPIO.html
-
-arm distcc pkgsrc compile cluster
- RPI2  NetBSD/earmv6hf
- RPIB+ NetBSD/earmv6hf
- Netwalker NetBSD/earmv7hf
- http://movapic.com/ebijun/pic/5271056
-
-Beaglebone black NetBSD/earmv7hf
-
-
-Demo Images:
- Luna88K:
-  OpenBSD 5.7
- RPI:
-  http://mail-index.netbsd.org/port-arm/2015/08/06/msg003389.html
- XM6i
-  http://xm6i.org/download.html
+ http://sacraya.610t.org/kbug/flyer/flyer-OSC2016Kyoto.pdf
 
 More pictures are available on Togetter page:
- http://togetter.com/li/857157
+ http://togetter.com/li/1005828
 
 NEXT:
- Open Source Conference 2015 Shimane:  Aug.22 Shimane,JAPAN
-    http://www.ospn.jp/osc2015-shimane/
+ Open Source Conference 2016 Shimane:  Sep.24 Shimane,JAPAN
+    http://www.ospn.jp/osc2016-shimane/
+    https://www.facebook.com/events/1719665944982026/
 
 TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
 ---
