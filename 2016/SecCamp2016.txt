@@ -1,0 +1,91 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD workshop at SecurityCamp 2016
+
+I have a NetBSD workshop timeslot on SecurityCamp 2016.
+Aug. 10 2016 13:30-17:30:
+
+ http://www.ospn.jp/osc2016-kyoto/
+ https://www.facebook.com/events/1062729970410808/
+ https://www.facebook.com/NetBSD.jp/
+
+1. DreamCast demonstration
+- Phantasy Star Online as GameConsole
+- NetBSD 1.6A 2002 NBUG Demo CD-R 
+- NetBSD 7.0.1 2016 with dcserv & dcburn 
+
+2. Show Hardwares - we all live in a one source tree.
+- hpcmips
+- hpcarm
+- hpcsh
+- zaurus
+- dreamcast
+- RPI and more
+   RPI0/1/2/3 & CubieBoard2 & BananaPi & 4CPU
+
+3. Install NetBSD/i386 7.0.1 on VirtualBox 
+- Windows 10 on HP notebook 450 
+-- XXX try boot up with UEFI USB install media.
+-- XXX I'm lost in BIOS menu tree, so can't find 
+   how to boot via USB Stick in 5min.
+
+- Step by Step install NetBSD7.0.1 on VirtualBox
+-- and boot NetBSD 
+
+4. Extract NetBSD-current src.tar.gz
+- cd /usr
+- tar xzvf src.tar.gz
+
+5. Build Cross Compiling toolchain
+- ./build.sh -m -a....
+
+6. Install NetBSD/earmv6hf on RPI
+- RPI image for OSC2016kyoto
+- Use rawrite32.exe to write microSD Card.
+- plugin RPI
+- boot
+- resize partition: wait 21min for fit 16GB sdcard.
+-- I should seledt 8G or 4G card instead.
+
+- Raspberry Pi 0/1/2/3
+  http://mail-index.netbsd.org/port-arm/2016/07/27/msg003884.html
+  RPI0: https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv6hf/RPI0
+  RPI : https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv6hf/RPI
+  RPI2: https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv6hf/RPI2
+  RPI3: https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv6hf/RPI3
+
+7. Build RPI kernel on NetBSD/i386
+- ./build.sh -m.- ... RPI
+
+8. Play RPI as you are
+- startx
+- mikutter
+--  mikutter start failed!
+- about PaX 
+
+10. Play again
+- mikutter
+cf.
+http://wwww.w.wwdf
+
+11. Copy own-build kernel to RPI
+- and boot
+- with a little luck,-current kernel boot with no problem!
+
+12. (Optional) add one line kernel option for RPI3
+- 
+
+Time UP!
+Thanx for all 11 participants and supported tutor and NishiNka.
+
+NetBSD Text Guide:
+ https://www.soum.co.jp/~jun/SecCamp2016.pdf
+
+
+NEXT:
+ Open Source unConference 2016 Kanazawa:  Aug.28 Kanazawa,JAPAN
+    http://www.ospn.jp/osc2016-shimane/
+    https://www.facebook.com/events/1719665944982026/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
