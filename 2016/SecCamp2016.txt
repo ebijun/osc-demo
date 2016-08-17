@@ -1,30 +1,36 @@
 To: netbsd-advocacy%NetBSD.org@localhost
 Subject: NetBSD workshop at SecurityCamp 2016
 
-I have a NetBSD workshop timeslot on SecurityCamp 2016.
-Aug. 10 2016 13:30-17:30:
+I make a NetBSD workshop 4 hours timeslot in SecurityCamp 2016.
+Aug. 10 2016 13:30-17:30 ,Makuhari , Chiba, Japan:
 
- http://www.ospn.jp/osc2016-kyoto/
- https://www.facebook.com/events/1062729970410808/
+ http://www.slideshare.net/junebihara18/netbsdworkshop
+ https://www.soum.co.jp/~jun/SecCamp2016.pdf
+ https://www.ipa.go.jp/jinzai/camp/2016/zenkoku2016_jikanwari.html
+ https://www.facebook.com/events/979623888786680/
  https://www.facebook.com/NetBSD.jp/
 
-1. DreamCast demonstration
+1. SEGA DreamCast demonstration
 - Phantasy Star Online as GameConsole
 - NetBSD 1.6A 2002 NBUG Demo CD-R 
-- NetBSD 7.0.1 2016 with dcserv & dcburn 
+- NetBSD 7.0.1 2016 with dcserv & dcburn
+  http://ftp.netbsd.org/pub/NetBSD/arch/dreamcast/dcburn/
+  http://ftp.netbsd.org/pub/NetBSD/arch/dreamcast/dcserv/
 
 2. Show Hardwares - we all live in a one source tree.
-- hpcmips
-- hpcarm
-- hpcsh
-- zaurus
+- hpcmips: IBM Z50,NEC MobileGear MC700,Sigmarion I/II
+- hpcarm: HP Jornada 720,WZERO3
+- hpcsh:  HP Jornada 690
+- zaurus: SL700/1000
 - dreamcast
 - RPI and more
    RPI0/1/2/3 & CubieBoard2 & BananaPi & 4CPU
+  https://github.com/ebijun/NetBSD/tree/master/dmesg
 
 3. Install NetBSD/i386 7.0.1 on VirtualBox 
-- Windows 10 on HP notebook 450 
--- XXX try boot up with UEFI USB install media.
+- Windows 10 on HP Probook 450 
+-- XXX try to boot up with UEFI USB install media.
+   http://ftp.netbsd.org/pub/NetBSD/misc/nonaka/tmp/uefi/
 -- XXX I'm lost in BIOS menu tree, so can't find 
    how to boot via USB Stick in 5min.
 
@@ -36,15 +42,16 @@ Aug. 10 2016 13:30-17:30:
 - tar xzvf src.tar.gz
 
 5. Build Cross Compiling toolchain
-- ./build.sh -m -a....
+- ./build.sh -j 6 -u -U -m evbarm -a earmv6hf tools
 
 6. Install NetBSD/earmv6hf on RPI
 - RPI image for OSC2016kyoto
+  http://cdn.netbsd.org/pub/NetBSD/misc/jun/raspberry-pi/2016-07-29-earmv6hf/
 - Use rawrite32.exe to write microSD Card.
-- plugin RPI
+  https://www.netbsd.org/~martin/rawrite32/download.html
 - boot
 - resize partition: wait 21min for fit 16GB sdcard.
--- I should seledt 8G or 4G card instead.
+-- I should use 8GB or 4GB card instead.
 
 - Raspberry Pi 0/1/2/3
   http://mail-index.netbsd.org/port-arm/2016/07/27/msg003884.html
@@ -54,37 +61,46 @@ Aug. 10 2016 13:30-17:30:
   RPI3: https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv6hf/RPI3
 
 7. Build RPI kernel on NetBSD/i386
-- ./build.sh -m.- ... RPI
+- ./build.sh -j 6 -u -U -m evbarm -a earmv6hf kernel=RPI
 
 8. Play RPI as you are
 - startx
 - mikutter
 --  mikutter start failed!
-- about PaX 
 
-10. Play again
+know your rights:
+Everything You Always Wanted to Know About Pax
+  http://www.netbsd.org/gallery/presentations/msaitoh/2016_BSDCan/BSDCan2016-NetBSD.pdf
+
+9. Play again
 - mikutter
 cf.
-http://wwww.w.wwdf
+ https://twitter.com/akkkix/status/763285526124257280
+ https://twitter.com/akkkix/status/763285339372826624
+ https://twitter.com/taiyoslime/status/763283213137477633
+ https://twitter.com/K_atc/status/763280659993407488
 
-11. Copy own-build kernel to RPI
-- and boot
+10. Copy own-build kernel to RPI
+- netbsd.bin to /boot/kernel.img and boot
 - with a little luck,-current kernel boot with no problem!
 
-12. (Optional) add one line kernel option for RPI3
-- 
-
+11. (Optional) add one line kernel option for RPI3
+- http://mail-index.netbsd.org/port-arm/2016/06/16/msg003830.html
+- ./build.sh -j 6 -u -U -m evbarm -a earmv6hf kernel=RPI2
+- cp netbsd.bin /boot/kernel7.img
+ 
 Time UP!
-Thanx for all 11 participants and supported tutor and NishiNka.
 
-NetBSD Text Guide:
- https://www.soum.co.jp/~jun/SecCamp2016.pdf
-
+Thanx for all 11 participants younger than dreamcast,
+and supported great tutor @K_atc,
+   https://twitter.com/ebijun/status/763292302093619200
+and Toshifumi Nishinaga (http://tatsu-zine.com/books/raspi-bm).
 
 NEXT:
- Open Source unConference 2016 Kanazawa:  Aug.28 Kanazawa,JAPAN
-    http://www.ospn.jp/osc2016-shimane/
-    https://www.facebook.com/events/1719665944982026/
+ Open Source UnConference 2016 Kanazawa:  Aug.28 Kanazawa,JAPAN
+    http://connpass.com/event/30813/
+    https://www.facebook.com/events/1120439247976109/
+
 
 TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
 ---
