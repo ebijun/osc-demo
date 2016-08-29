@@ -23,6 +23,10 @@ at the Open Source UnConference 2016 Kanazawa on Aug. 27 2016:
   NetBSD 7.99.30
   https://github.com/ebijun/NetBSD/blob/master/dmesg/hpcarm/WS011SH
 
+- routerboard hAP lite by  @den_debiantokyo
+-- https://routerboard.com/RB941-2nD-TC
+-- how can I boot NetBSD?
+
 NetBSD Tourist Guide:
  https://www.soum.co.jp/~jun/OSuC2016kanazawa.pdf
 
