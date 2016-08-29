@@ -1,0 +1,39 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source UnConference 2016 Kanazawa
+
+The Japan NetBSD Users' Group members held booth 
+at the Open Source UnConference 2016 Kanazawa on Aug. 27 2016:
+
+ http://connpass.com/event/30813/
+ https://www.facebook.com/events/1120439247976109
+ https://www.facebook.com/NetBSD.jp/
+ http://www.jp.NetBSD.org/
+
+- Raspberry Pi 0/1/2/3
+  http://mail-index.netbsd.org/port-arm/2016/08/23/msg003918.html
+  RPI0: https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv6hf/RPI0
+  RPI : https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv6hf/RPI
+  RPI2: https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv6hf/RPI2
+  RPI3: https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv6hf/RPI3
+
+- Sharp Netwalker NetBSD/earmv7hf
+  NetBSD 7.99.21
+  https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv7hf/NETWALKER
+- Sharp WZero3
+  NetBSD 7.99.30
+  https://github.com/ebijun/NetBSD/blob/master/dmesg/hpcarm/WS011SH
+
+NetBSD Tourist Guide:
+ https://www.soum.co.jp/~jun/OSuC2016kanazawa.pdf
+
+More pictures are available on Togetter page:
+ http://togetter.com/li/1017308
+
+NEXT:
+ Open Source Conference 2016 Shimane:  Sep.24 Shimane,JAPAN
+    http://www.ospn.jp/osc2016-shimane/
+    https://www.facebook.com/events/1719665944982026/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
