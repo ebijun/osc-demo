@@ -1,0 +1,54 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2016 Shimane
+
+The Japan NetBSD Users' Group held booth
+at the Open Source Conference 2016 Shimane on Sep.24 2016:
+
+ http://www.ospn.jp/osc2016-shimane/
+ https://www.facebook.com/events/1719665944982026/
+ https://www.facebook.com/NetBSD.jp/
+
+NetBSD Tourist Guide:
+ https://www.soum.co.jp/~jun/OSC2016shimane.pdf
+
+Booth:
+ https://twitter.com/ebijun/status/779514521958293505
+
+The NetBSD booth exhibited the following machines:
+
+SONY NEWS NWS-5000SB NetBSD/newsmips 
+ https://github.com/ebijun/NetBSD/blob/master/dmesg/newsmips/NEWS5000
+ 7.99.32 boot.
+ 7.99.38 boot failed.
+
+NEC PC-9821Nb7/5 NetBSD/pc98 1.4.3 by @shimadah
+ https://github.com/ebijun/NetBSD/blob/master/dmesg/pc98/GENERIC
+
+Raspberry PI running SunView+JLE,OpenWindows and NeWS with tme by Mochida.
+ https://twitter.com/ebijun/status/779514988880809984
+ 
+XM6i on MacOSX by isaki@
+ https://twitter.com/ebijun/status/779514521958293505
+
+Raspberry PI3 running NetBSD/x68k with XM6i emulator.
+ https://twitter.com/ebijun/status/779506768707629056
+
+many thanx to Hiroyuki Nakaji,Shuji Mochida,https://opencocon.org/
+
+Demo Images:
+ RPI:
+  http://mail-index.netbsd.org/port-arm/2016/09/22/msg003920.html
+
+ XM6i
+  http://xm6i.org/download.html
+
+More pictures are available on Togetter page:
+  http://togetter.com/li/1028314
+
+NEXT:
+ Open Source Conference 2016 Nagaoka:  Oct.1 Nagaoka,JAPAN
+    http://www.ospn.jp/osc2016-nagaoka/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
