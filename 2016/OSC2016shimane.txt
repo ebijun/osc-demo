@@ -33,6 +33,12 @@ XM6i on MacOSX by isaki@
 Raspberry PI3 running NetBSD/x68k with XM6i emulator.
  https://twitter.com/ebijun/status/779506768707629056
 
+Raspberry PI with omxplayer and Xfce4
+ https://twitter.com/ebijun/status/779514303137263616
+
+Sharp Netwalker 
+ https://twitter.com/ebijun/status/779515340220801024
+
 many thanx to Hiroyuki Nakaji,Shuji Mochida,https://opencocon.org/
 
 Demo Images:
