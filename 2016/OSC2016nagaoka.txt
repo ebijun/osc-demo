@@ -11,12 +11,12 @@ at the Open Source Conference 2016 Nagaoka on Oct.1 2016:
  http://www.jp.NetBSD.org/
  https://www.facebook.com/NetBSD.jp/
 
-Booth:
- http://p.twipple.jp/pOzt3
-
 Fuguita: OpenBSD LiveCD by Yoshihiro Kawamata
    http://fuguita.org/?FuguIta
    http://fuguita.org/index.php?%B2%CF%C6%DA%C8%C4
+
+ Fuguita-6.0: based on OpenBSD 6.0
+   http://fuguita.org/index.php?LiveCD%2F6.0
 
 Echigo BSD Users Group, since Nov.2001
    http://www.ebug.jp/
@@ -27,14 +27,17 @@ Echigo BSD Users Group, since Nov.2001
      
 Echigo BSD Users Group activities:
 
- http://fuguita.org/
- http://fuguita.org/index.php?EBUG%CA%D9%B6%AF%B2%F1%2F20141115_httpd%A4%F2%A5%B9%A5%B1%A1%BC%A5%EB%A4%B5%A4%BB%A4%EB
- http://fuguita.org/index.php?FrontPage
- http://fuguita.org/index.php?LiveCD%2F6.0
- http://fuguita.org/index.php?%B2%CF%C6%DA%C8%C4
+ OpenBSD wiki:
+  http://fuguita.org/
+
+ Scale httpd on OpenBSD:
+   http://fuguita.org/index.php?EBUG%CA%D9%B6%AF%B2%F1%2F20141115_httpd%A4%F2%A5%B9%A5%B1%A1%BC%A5%EB%A4%B5%A4%BB%A4%EB
+
+ CARP and OpenBSD Web/MailingList Server:
  http://fuguita.org/index.php?EBUG%CA%D9%B6%AF%B2%F1%2F20110903_%A5%ED%A1%BC%A5%C9%A5%D0%A5%E9%A5%F3%A5%B5%A4%CA%A4%B7%A4%C7%C9%E9%B2%D9%CA%AC%BB%B6%A4%B7%A4%C6%A4%DF%A4%BF
- http://fuguita.org/index.php?EBUG%CA%D9%B6%AF%B2%F1%2F20110903_%A5%ED%A1%BC%A5%C9%A5%D0%A5%E9%A5%F3%A5%B5%A4%CA%A4%B7%A4%C7%C9%E9%B2%D9%CA%AC%BB%B6%A4%B7%A4%C6%A4%DF%A4%BF
- http://fuguita.org/index.php?EBUG%CA%D9%B6%AF%B2%F1%2F20110903_%A5%ED%A1%BC%A5%C9%A5%D0%A5%E9%A5%F3%A5%B5%A4%CA%A4%B7%A4%C7%C9%E9%B2%D9%CA%AC%BB%B6%A4%B7%A4%C6%A4%DF%A4%BF
+
+NetBSD Booth:
+ http://p.twipple.jp/pOzt3
 
 XM6i: NetBSD/x68k on X68030 emulators
    http://xm6i.org/ 
@@ -60,15 +63,25 @@ Demo Images:
  Fuguita: OpenBSD LiveCD
    http://fuguita.org/?FuguIta
  RPI:
-   http://mail-index.netbsd.org/port-arm/2015/09/03/msg003439.html
+   http://mail-index.netbsd.org/port-arm/2016/09/29/msg003921.html
 
 More pictures are available on Togetter page:
   http://togetter.com/li/1031383
 
 NEXT:
- Open Source Conference 2016 Tokyo/Fall: Nov.5-6 Tokyo,JAPAN
+
+Open Source Conference 2016 Tokyo/Fall: Nov.5-6 Tokyo,JAPAN
     http://www.ospn.jp/osc2016-fall/
     see you in BSD BOF.
+
+  CBUG meeting: Nov.5 Sat 13:00-17:00
+    https://www.ospn.jp/osc2016-fall/modules/article/article.php?articleid=4
+
+  BSD BOF: Nov.6 Sun 11:00-11:45
+    https://www.ospn.jp/osc2016-fall/modules/eguide/event.php?eid=4
+
+  NetBSD Booth:
+    Nov.6-7
 
 TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
 ---
