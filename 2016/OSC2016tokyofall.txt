@@ -1,0 +1,58 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2016 Tokyo/Fall
+
+The Japan NetBSD Users' Group members held booth
+at the Open Source Conference 2016 Tokyo/Fall on Nov. 5-6 2016:
+
+ http://www.ospn.jp/osc2016-fall/
+ https://www.facebook.com/events/606794986162192//
+ https://www.facebook.com/NetBSD.jp/
+
+Presentation: 
+
+
+Booth:
+ http://p.twipple.jp/ZDaWS
+
+NetBSD Tourist Guide:
+ https://www.soum.co.jp/~jun/OSC2016tokyofall.pdf
+
+The NetBSD booth exhibited the following machines:
+
+SEGA DreamCast with CF and SD expansion  
+ NetBSD Dreamcast 7.0 G1IDE+SCI SDMMC mplayer demo 
+ http://p.twipple.jp/O3lWT
+
+RPI2 Ver1.2+XM6i+NetBSD/x68k:
+ http://p.twipple.jp/8YfuA
+
+RPI2+omxplayer:
+ http://p.twipple.jp/g3ApQ
+
+NetWalker:
+ http://p.twipple.jp/1xxU7
+
+WZero3:
+ http://p.twipple.jp/4KzUX
+
+Demo Images:
+ RPI:
+ http://mail-index.netbsd.org/port-arm/2016/11/02/msg003954.html
+
+More pictures are available on Togetter page:
+  http://togetter.com/li/1044981
+
+NEXT:
+
+KANSAI OPEN FORUM 2016 on Nov. 6-7 2015:
+
+  https://www.facebook.com/events/453144668203052/
+  https://k-of.jp/2016/session/857
+  https://k-of.jp/2016/session/940
+
+see you in BSD BOF. Mar.11 2016 OSAKA.
+  https://k-of.jp/2016/session/858
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
