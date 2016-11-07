@@ -10,9 +10,13 @@ at the Open Source Conference 2016 Tokyo/Fall on Nov. 5-6 2016:
 
 Presentation: 
 
-yamori
+@yamori813
+ZRouter: 
+ http://qiita.com/yamori813/items/2fc5b14648029bb4730f
 
-suzuki
+@s_mitu
+RaspberryPI on FreeBSD:
+ https://github.com/s-mitu/RaspberryPi/blob/master/FreeBSD/Documents/FreeBSD_OSC.md
 
 tsutsuii
 
@@ -44,6 +48,10 @@ WZero3:
 Demo Images:
  RPI:
  http://mail-index.netbsd.org/port-arm/2016/11/02/msg003954.html
+
+Donation:
+ WZERO3es WS011SH: from Tetsuko Komma (Geeklog Japan https://www.geeklog.jp/)
+ https://github.com/ebijun/NetBSD/blob/master/dmesg/hpcarm/WS011SH
 
 More pictures are available on Togetter page:
   http://togetter.com/li/1044981
