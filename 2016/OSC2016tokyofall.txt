@@ -10,6 +10,12 @@ at the Open Source Conference 2016 Tokyo/Fall on Nov. 5-6 2016:
 
 Presentation: 
 
+yamori
+
+suzuki
+
+tsutsuii
+
 
 Booth:
  http://p.twipple.jp/ZDaWS
@@ -50,7 +56,7 @@ KANSAI OPEN FORUM 2016 on Nov. 6-7 2015:
   https://k-of.jp/2016/session/857
   https://k-of.jp/2016/session/940
 
-see you in BSD BOF. Mar.11 2016 OSAKA.
+see you in BSD BOF. Nov.7 2016 OSAKA.
   https://k-of.jp/2016/session/858
 
 TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.

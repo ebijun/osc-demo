@@ -7,8 +7,8 @@ Demonstaration setting for NetBSD Booth
 ~~~~~~~~~~~~~~~~~~
 
 総集編：
-  AsiaBSDCon2015 http://www.soum.co.jp/~jun/asiabsdcon2016.pdf
-  JNUG2015       http://www.soum.co.jp/~jun/JNUG2016.pdf
+  AsiaBSDCon2016 http://www.soum.co.jp/~jun/asiabsdcon2016.pdf
+  JNUG2016       http://www.soum.co.jp/~jun/JNUG2016.pdf
   WIDE2016       http://www.soum.co.jp/~jun/OSC201512.pdf
   参加マップ　   http://www.soum.co.jp/~jun/2015maps.pdf
 
@@ -19,6 +19,7 @@ Demonstaration setting for NetBSD Booth
  表紙はイラストレータ、裏表紙はscribus、本文はSphinxを使っています。
  それぞれについて、pdf出力したものをpdfshufflerで組み合わせています。
 
+ 98.   KOF2016        http://www.soum.co.jp/~jun/KOF2016.pdf
  97.   OSC2016東京秋  http://www.soum.co.jp/~jun/OSC2016tokyofall.pdf
  96.   OSC2016長岡   http://www.soum.co.jp/~jun/OSC2016nagaoka.pdf
  95.	OSC2016島根   http://www.soum.co.jp/~jun/OSC2016shimane.pdf
