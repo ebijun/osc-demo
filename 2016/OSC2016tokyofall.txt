@@ -8,7 +8,7 @@ at the Open Source Conference 2016 Tokyo/Fall on Nov. 5-6 2016:
  https://www.facebook.com/events/606794986162192/
  https://www.facebook.com/NetBSD.jp/
 
-Presentation: 
+BSD BOF Presentation: 
 
 @yamori813
 ZRouter: 
@@ -17,9 +17,17 @@ ZRouter:
 @s_mitu
 RaspberryPI on FreeBSD:
  https://github.com/s-mitu/RaspberryPi/blob/master/FreeBSD/Documents/FreeBSD_OSC.md
+ http://p.twipple.jp/VIkZl
+ http://p.twipple.jp/wOZzC
 
-tsutsuii
+tsutsui@
+NetBSD/dreamcast IDE HDD strikes back
+ https://speakerdeck.com/tsutsui/osc2016-tokyo-fall-netbsd-dreamcast-ide-hdd
 
+CBUG Meeting:
+ http://www.cbug.bug.gr.jp/event/20161105/index.html
+ Send Happy birthday greetings to Warner Losh.
+  https://twitter.com/ebijun/status/796144585734897664
 
 Booth:
  http://p.twipple.jp/ZDaWS
@@ -42,8 +50,12 @@ RPI2+omxplayer:
 NetWalker:
  http://p.twipple.jp/1xxU7
 
-WZero3:
+WZERO3:
  http://p.twipple.jp/4KzUX
+
+BSD Cookies:
+ http://p.twipple.jp/2Brum
+ http://p.twipple.jp/I3UYF
 
 Demo Images:
  RPI:
@@ -60,11 +72,12 @@ NEXT:
 
 KANSAI OPEN FORUM 2016 on Nov. 6-7 2015:
 
+  https://k-of.jp/2016
+  BOOTH: https://k-of.jp/2016/session/857
+  BOOKS: https://k-of.jp/2016/session/940 Nov.12 2016 16:05-
   https://www.facebook.com/events/453144668203052/
-  https://k-of.jp/2016/session/857
-  https://k-of.jp/2016/session/940
 
-see you in BSD BOF. Nov.7 2016 OSAKA.
+see you in BSD BOF. Nov.12 2016 13:00-13:50 OSAKA.
   https://k-of.jp/2016/session/858
 
 TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
