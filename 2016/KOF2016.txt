@@ -55,7 +55,7 @@ The NetBSD booth exhibited the following machines:
   https://twitter.com/ebijun/status/796927073793150976
 -- UNIX Archeology by Akito Fujita
    http://honto.jp/netstore/pd-book_27798744.html
--- Programing Language go
+-- The Go Programming Language
    http://honto.jp/netstore/pd-book_27776918.html
 -- NEW GAME! 4
    http://honto.jp/netstore/pd-book_27852889.html
