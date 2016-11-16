@@ -43,7 +43,7 @@ The NetBSD booth exhibited the following machines:
   http://p.twipple.jp/FBqUn uvm_pglistallloc failed! 
 
 - WZERO3 NetBSD/hpcarm
-  http://togetter.com/li/1047263?page=3
+  https://twitter.com/tsutsuii/status/797002143911669760/photo/1
 
 - stickers (NetBSD,mikutter,and various characters)
   http://p.twipple.jp/KKv5B
