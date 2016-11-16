@@ -1,50 +1,76 @@
 To: netbsd-advocacy%NetBSD.org@localhost
-Subject: NetBSD machines at KANSAI OPEN FORUM 2015
+Subject: NetBSD machines at KANSAI OPEN FORUM 2016
 
 The Japan NetBSD Users' Group members held booth
-at the KANSAI OPEN FORUM 2015 on Nov. 6-7 2015:
+at the KANSAI OPEN FORUM 2016 on Nov. 11-12 2016:
+
  http://k-of.jp/
  http://www.jp.NetBSD.org/
+ https://www.facebook.com/events/453144668203052/
  https://www.facebook.com/NetBSD.jp/
 
 Booth:
-  http://movapic.com/pic/20151106080028563c5e1c6f42f
-
-The NetBSD booth exhibited the following machines:
- - Sun Ultra-5 NetBSD/sparc64 NetBSD7.0+mule-1.1+FreeWnn+mikutter
-   http://movapic.com/pic/20151106073752563c58d04c735 
- - Raspberry Pi2 mikutter+Xfce4+omxplayer+livestreamer+firefox
-   http://movapic.com/pic/20151106051619563c37a344313
- - WZERO3 NetBSD/hpcarm
-   http://movapic.com/pic/20151106074418563c5a5297c26
- - XM6i NetBSD/x68k on ODROID-C1 
-   http://movapic.com/pic/20151107020729563d5ce1830ef
- - pkgsrc on MacOS by @e_yuuki_BSD
-   http://movapic.com/pic/20151107035635563d7673358cb
- - NetBSD sticker
-   http://movapic.com/ebijun/pic/5288880
-
+  http://p.twipple.jp/cPXcp
 
 BSD BOF
-- https://k-of.jp/2015/session/731
-- fdgw2 - One Floppy NetBSD System Version 2 by Yuuki Enomoto  @e_yuuki_BSD
-  http://e-yuuki.org/events/fdgw2/assets/player/KeynoteDHTMLPlayer.html#0
-  https://github.com/user340/fdgw2
-- emacs 18.59 and mule 1.1 on NetBSD 7.0 by  @tsutsuii
-  https://speakerdeck.com/tsutsui/kof2015-emacs-18-dot-59-and-mule-1-dot-1-on-netbsd-7-dot-0
-- http://www.soum.co.jp/~jun/KOF2015.pdf  by  @ebijun
+- NetBSD/dreamcast IDE HDD again (more update from OSC2016Tokyo/Fall) by tsutsui@
+ https://speakerdeck.com/tsutsui/kof2016-netbsd-dreamcast-ide-hdd
+ http://mail-index.netbsd.org/port-dreamcast/2014/10/30/msg000265.html
 
-Raspberry Pi running updated 2015-11-07-netbsd-raspi.img image:
- http://mail-index.netbsd.org/port-arm/2015/11/04/msg003546.html
+ G1IDE-SCIsdmmc.diff:
+ https://gist.github.com/tsutsui/57eb6c9d1c1bfc2cf7d99f98d14e1da0
+
+The NetBSD booth exhibited the following machines:
+
+- SEGA DreamCast with CF and SD expansion  
+   NetBSD Dreamcast 7.0 G1IDE+SCI SDMMC mplayer demo 
+ mplayer on X11:
+  http://p.twipple.jp/AqzlM  
+ Twitter Timeline with pkgsrc/net/sayaka + pkgsrc/x11/mlterm:mlterm-fb
+   http://p.twipple.jp/8WWtn
+
+- Running NetBSD/x68k on XM6i with Raspberry PI3 NetBSD/earmv6hf
+   http://p.twipple.jp/nCwQK
+
+- Raspberry Pi2 Xfce4+omxplayer
+    http://p.twipple.jp/Ls1Vk
+
+- SHARP Netwalker (NetBSD/earmv7hf) + Xfce4 + mikutter
+  http://p.twipple.jp/dBwjS
+
+- DoComo SigmarionII NetBSD/hpcmips
+  http://p.twipple.jp/ioyFG
+  http://p.twipple.jp/FBqUn uvm_pglistallloc failed! 
+
+- WZERO3 NetBSD/hpcarm
+  http://togetter.com/li/1047263?page=3
+
+- stickers (NetBSD,mikutter,and various characters)
+  http://p.twipple.jp/KKv5B
+
+- Special Session: Implimentation of 4.4BSD luna68k by Akito Fujita
+  http://p.twipple.jp/rOoH0
+
+- Junk-Do book store NetBSD booth recomendation:
+  https://twitter.com/ebijun/status/796927073793150976
+-- UNIX Archeology by Akito Fujita
+   http://honto.jp/netstore/pd-book_27798744.html
+-- Programing Language go
+   http://honto.jp/netstore/pd-book_27776918.html
+-- NEW GAME! 4
+   http://honto.jp/netstore/pd-book_27852889.html
+
+Raspberry Pi running updated 2016-11-12-netbsd-raspi.img image:
+ http://mail-index.netbsd.org/port-arm/2016/11/10/msg003958.html
 
 More pictures are available on Togetter page:
- http://togetter.com/li/896456
+ http://togetter.com/li/1047263
  
 NEXT:
- OSC2015 Tokushima: Nov.14 TOKUSHIMA,JAPAN
-  http://www.ospn.jp/osc2015-tokushima/ 
+ Open Source Conferenct 2016 Fukuoka: Nov.19 FUKUOKA,JAPAN
+  http://www.ospn.jp/osc2016-fukuoka/ 
   https://www.facebook.com/NetBSD.jp/events
-  https://www.facebook.com/events/718261744970079/
+  https://www.facebook.com/events/637124113105108/
 
 TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
 ---
