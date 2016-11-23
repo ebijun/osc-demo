@@ -1,0 +1,57 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2016 Fukuoka
+
+The Japan NetBSD Users' Group members held booth
+at the Open Source Conference 2016 Fukuoka on Nov. 19 2016:
+
+ http://www.ospn.jp/osc2016-fukuoka/
+ http://www.jp.NetBSD.org/
+ https://www.facebook.com/NetBSD.jp/
+ https://www.facebook.com/events/637124113105108/
+
+
+Booth:
+ http://p.twipple.jp/Hv9Gi
+  
+NetBSD Fukuoka travel guide:
+ http://www.soum.co.jp/~jun/OSC2016fukuoka.pdf
+ https://github.com/ebijun/osc-demo
+ http://p.twipple.jp/ejHvV
+
+The NetBSD booth exhibited the following machines:
+- Running NetBSD/x68k on XM6i with Raspberry PI3 NetBSD/earmv6hf
+  http://p.twipple.jp/1Dw6l
+
+- Raspberry Pi2 Xfce4+omxplayer
+  http://p.twipple.jp/Q0sX7
+
+- SHARP Netwalker (NetBSD/earmv7hf) + Xfce4 + mikutter
+  http://p.twipple.jp/oxMOS
+
+- DoComo SigmarionII NetBSD/hpcmips
+  NetBSD hpcmips 201611081750Z  multiuser boot 
+           but panic with cpu_uarea_alloc: uvm_pglistalloc failed
+             http://p.twipple.jp/fkiHh
+  NetBSD hpcmips 201611210910Z  TLB miss : boot failed again
+             http://p.twipple.jp/68Ey0
+
+- WZERO3 NetBSD/hpcarm
+  http://p.twipple.jp/oxMOS
+
+
+Raspberry Pi running updated 2015-11-12-netbsd-raspi.img image:
+  http://mail-index.netbsd.org/port-arm/2016/11/10/msg003958.html
+  45min Install tutorial: http://p.twipple.jp/FwwEr
+
+More pictures are available on Togetter page:
+ http://togetter.com/li/1050258
+ 
+NEXT:
+ OSC2016 Hiroshima: Nov.27 Hiroshima,JAPAN
+  http://www.ospn.jp/osc2016-hiroshima/ 
+  https://www.facebook.com/NetBSD.jp/events
+  https://www.facebook.com/events/181902205545763/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
