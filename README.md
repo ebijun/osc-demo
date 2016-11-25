@@ -10,7 +10,10 @@ Demonstaration setting for NetBSD Booth
   AsiaBSDCon2016 http://www.soum.co.jp/~jun/asiabsdcon2016.pdf
   JNUG2016       http://www.soum.co.jp/~jun/JNUG2016.pdf
   WIDE2016       http://www.soum.co.jp/~jun/OSC201512.pdf
-  参加マップ　   http://www.soum.co.jp/~jun/2015maps.pdf
+  参加マップ　
+    http://www.soum.co.jp/~jun/2016maps.pdf
+    http://www.soum.co.jp/~jun/2015maps.pdf
+    http://www.soum.co.jp/~jun/2014maps.pdf
 
 作り方：
  https://github.com/ebijun/NetBSD/blob/master/Guide/Paper/sphinx.rst
