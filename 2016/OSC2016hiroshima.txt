@@ -1,0 +1,50 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2016 Hiroshima
+
+The Japan NetBSD Users' Group and XM6i Team members held booth
+at the Open Source Conference 2016 Hiroshima on Nov.27 2016:
+
+ http://www.ospn.jp/osc2016-hiroshima/
+ https://www.facebook.com/events/181902205545763/
+ http://www.jp.NetBSD.org/
+ https://www.facebook.com/NetBSD.jp/
+
+Presentation:
+ XM6i and twitter client on X68030(68030 30MHz/12MB) by isaki@
+   http://www.pastel-flower.jp/~isaki/NetBSD/osc16hi/
+  
+ code maintenance over 20 years by tsutsui@
+   https://speakerdeck.com/tsutsui/osc2016kyoto-netbsd-and-old-machines
+
+Booth:
+
+
+
+NetBSD/x68k
+1: X68030 (68030/30MHz,12MB)
+ twitter client: pkgsrc/net/sayaka
+
+2: X68060 (68060/50MHz,128MB)
+
+XM6i X68030 emulator http://xm6i.org/ by isaki@
+1. NetBSD/x68k on MacOSX
+2. NetBSD/x68k on Raspberry 3
+
+ 
+NetBSD Tourist Guide:
+ https://www.soum.co.jp/~jun/OSC2016hiroshima.pdf
+
+Demo Images:
+ RPI:
+ http://mail-index.netbsd.org/port-arm/2016/11/23/msg003970.html
+
+More pictures are available on Togetter page:
+ http://togetter.com/li/1053125
+
+NEXT:
+ Open Source Conference 2017 Osaka:  Jan.27 Osaka,JAPAN
+    http://www.ospn.jp/osc2017-osaka/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
