@@ -10,11 +10,11 @@ at the Open Source Conference 2016 Hiroshima on Nov.27 2016:
  https://www.facebook.com/NetBSD.jp/
 
 Presentation:
- XM6i and twitter client on X68030(68030 25MHz/12MB) by isaki@
+ Twitter client on X68030(68030 25MHz/12MB) by isaki@
    http://www.pastel-flower.jp/~isaki/NetBSD/osc16hi/
   
  NetBSD/luna68k  by tsutsui@
-   https://speakerdeck.com/tsutsui/osc2016kyoto-netbsd-and-old-machines
+   https://speakerdeck.com/tsutsui/osc2016-kyoto-psg-tunes-on-netbsd-luna68k
 
 Booth:
 
@@ -26,22 +26,25 @@ NetBSD/luna68k 7.0.2 by tsutsui@
   LUNA PSG support code http://twitter.com/tsutsuii/status/759793635898515456
   - play PC6001 music data on LUNA
   - play PCG voice data via LUNA Z80+PSG
-
+ http://p.twipple.jp/BA9P6
 
 NetBSD/x68k
 1: X68030 (68030/25MHz,12MB)
  twitter client: pkgsrc/net/sayaka
  Use vala+mBedTLS to decode twitter handshake on x68k.
+ http://p.twipple.jp/lmlx0
 
 2: X68060 (68060/50MHz,128MB)
 
 XM6i X68030 emulator http://xm6i.org/ by isaki@
 1. NetBSD/x68k on MacOSX
 2. NetBSD/x68k on Raspberry 3 NetBSD/earmv7hf
+  http://p.twipple.jp/s5ICg
 
  
 NetBSD Tourist Guide:
  https://www.soum.co.jp/~jun/OSC2016hiroshima.pdf
+
 
 Demo Images:
  RPI:
@@ -49,6 +52,9 @@ Demo Images:
 
 More pictures are available on Togetter page:
  http://togetter.com/li/1053125
+
+Thanx for support NetBSD booth 2016:
+ http://www.soum.co.jp/~jun/2016maps.pdf
 
 NEXT:
  Open Source Conference 2017 Osaka:  Jan.27 Osaka,JAPAN
