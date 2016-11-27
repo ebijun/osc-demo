@@ -10,7 +10,10 @@ Demonstaration setting for NetBSD Booth
   AsiaBSDCon2016 http://www.soum.co.jp/~jun/asiabsdcon2016.pdf
   JNUG2016       http://www.soum.co.jp/~jun/JNUG2016.pdf
   WIDE2016       http://www.soum.co.jp/~jun/OSC201512.pdf
-  参加マップ　   http://www.soum.co.jp/~jun/2015maps.pdf
+  参加マップ　
+    http://www.soum.co.jp/~jun/2016maps.pdf
+    http://www.soum.co.jp/~jun/2015maps.pdf
+    http://www.soum.co.jp/~jun/2014maps.pdf
 
 作り方：
  https://github.com/ebijun/NetBSD/blob/master/Guide/Paper/sphinx.rst
@@ -36,7 +39,7 @@ Demonstaration setting for NetBSD Booth
  86.   AsiaBSDCon2016 http://www.soum.co.jp/~jun/asiabsdcon2016.pdf
  85.	OSC2016東京春	http://www.soum.co.jp/~jun/OSC2016tokyospring.pdf
  84.   OSC2016浜名湖  http://www.soum.co.jp/~jun/OSC2016hamanako.pdf
- 83.   WIDE2016       http://www.soum.co.jp/~jun/OSC201512.pdf
+ 83.   WIDE2016       http://www.soum.co.jp/~jun/WIDE201512.pdf
  82.   OSC2015徳島　  http://www.soum.co.jp/~jun/OSC2015tokushima.pdf
  81.   KOF2015        http://www.soum.co.jp/~jun/KOF2015.pdf
  80.   OSC2015東京秋  http://www.soum.co.jp/~jun/OSC2015tokyofall.pdf
