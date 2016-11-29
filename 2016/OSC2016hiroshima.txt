@@ -13,11 +13,11 @@ Presentation:
  Twitter client on X68030(68030 25MHz/12MB) by isaki@
    http://www.pastel-flower.jp/~isaki/NetBSD/osc16hi/
   
- NetBSD/luna68k  by tsutsui@
-   https://speakerdeck.com/tsutsui/osc2016-kyoto-psg-tunes-on-netbsd-luna68k
+PSG&PCM tunes on NetBSD/luna68k  by tsutsui@
+   https://speakerdeck.com/tsutsui/osc2016-hiroshima-psg-tunes-on-netbsd-luna68k-again
 
 Booth:
-
+  http://p.twipple.jp/BD6sz 
 
 NetBSD/luna68k 7.0.2 by tsutsui@
 - https://speakerdeck.com/tsutsui/osc2016-kyoto-psg-tunes-on-netbsd-luna68k
@@ -35,9 +35,11 @@ NetBSD/x68k
  http://p.twipple.jp/lmlx0
 
 2: X68060 (68060/50MHz,128MB)
+  http://p.twipple.jp/9EhgF
 
 XM6i X68030 emulator http://xm6i.org/ by isaki@
-1. NetBSD/x68k on MacOSX
+1. NetBSD/x68k on MacOSX 
+  http://p.twipple.jp/8BTqm
 2. NetBSD/x68k on Raspberry 3 NetBSD/earmv7hf
   http://p.twipple.jp/s5ICg
 
@@ -56,9 +58,13 @@ More pictures are available on Togetter page:
 Thanx for support NetBSD booth 2016:
  http://www.soum.co.jp/~jun/2016maps.pdf
 
+and I hope you enjoy NetBSD Advent Calendar 2016:
+ http://qiita.com/advent-calendar/2016/netbsd
+
 NEXT:
  Open Source Conference 2017 Osaka:  Jan.27 Osaka,JAPAN
     http://www.ospn.jp/osc2017-osaka/
+    https://www.facebook.com/events/1789923797907417/
 
 TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
 ---
