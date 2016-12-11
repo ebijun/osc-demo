@@ -21,6 +21,7 @@ FreeBSD tank 32bit version:
  http://p.twipple.jp/os51a
 
 FreeBSD 64bit dmesg:
+ espeak can FreeBSD talk via USB audio.
  https://github.com/s-mitu/RaspberryPi/blob/master/FreeBSD/dmesg/rpi3-smp/dmesg.txt
 
 RPI3+XM6i+
@@ -41,6 +42,7 @@ NetBSD Tourist Guide:
 
 Demo Images:
  http://mail-index.netbsd.org/port-arm/2016/12/10/msg004002.html
+ https://github.com/ebijun/NetBSD/blob/master/Guide/RPI/RPIupdate2016.rst
 
 More pictures are available on Togetter page:
  http://togetter.com/li/1058231
