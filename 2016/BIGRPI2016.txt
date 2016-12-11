@@ -1,0 +1,56 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at BIG Raspberry JAM Tokyo 2016
+
+The Japan NetBSD Users' Group members held booth
+at the BIG Raspberry JAM Tokyo 2016 on Dec. 11 2016:
+
+ https://raspberrypi.connpass.com/event/44902/
+ https://www.facebook.com/events/1873355159564632/
+ https://www.facebook.com/NetBSD.jp/
+
+Booth:
+ http://p.twipple.jp/ZFC3F
+
+The booth exhibited the following machines:
+
+@s_mitu
+RaspberryPI on FreeBSD:
+ https://github.com/s-mitu/RaspberryPi/blob/master/FreeBSD/Documents/FreeBSD_OSC.md
+
+FreeBSD tank 32bit version:
+ http://p.twipple.jp/os51a
+
+FreeBSD 64bit dmesg:
+ https://github.com/s-mitu/RaspberryPi/blob/master/FreeBSD/dmesg/rpi3-smp/dmesg.txt
+
+RPI3+XM6i+
+NetBSD/x68k on XM6i on NetBSD/earmv6hf on RPI3:
+ http://p.twipple.jp/4sj2G
+
+RPI2+omxplayer:
+ http://p.twipple.jp/zsNZJ
+
+NetWalker:
+ http://p.twipple.jp/3TcXs 
+
+WZERO3:
+ http://p.twipple.jp/fEdKh
+
+NetBSD Tourist Guide:
+ https://www.soum.co.jp/~jun/BIGRPI2016.pdf
+
+Demo Images:
+ http://mail-index.netbsd.org/port-arm/2016/12/10/msg004002.html
+
+More pictures are available on Togetter page:
+ http://togetter.com/li/1058231
+
+NEXT:
+
+Open Source Conference 2017 Osaka:  Jan.27 Osaka,JAPAN
+   http://www.ospn.jp/osc2017-osaka/
+   https://www.facebook.com/events/1789923797907417/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
