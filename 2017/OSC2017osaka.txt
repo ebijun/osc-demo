@@ -12,7 +12,7 @@ at the Open Source Conference 2017 Osaka on Jan.28 2017:
 Presentation:
 
 PC6001 emulator PC6001VX on NetBSD + pkgsrc by tsutsui@
-   https://speakerdeck.com/tsutsui/
+   https://speakerdeck.com/tsutsui/osc2017-osaka-pc-6001-emulator-on-netbsd-and-pkgsrc
    http://p.twipple.jp/Y1iJu
 
 Booth:
