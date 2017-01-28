@@ -1,0 +1,58 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2017 Osaka
+
+The Japan NetBSD Users' Group held booth
+at the Open Source Conference 2017 Osaka on Jan.28 2017:
+
+ http://www.ospn.jp/osc2017-osaka/
+ https://www.facebook.com/events/1789923797907417/
+ http://www.jp.NetBSD.org/
+ https://www.facebook.com/NetBSD.jp/
+
+Presentation:
+
+PC6001 emulator PC6001VX on NetBSD + pkgsrc by tsutsui@
+   https://speakerdeck.com/tsutsui/
+   http://p.twipple.jp/Y1iJu
+
+Booth:
+ http://p.twipple.jp/8ervd
+
+PC6001 PSG Play demonstration
+ http://ch.nicovideo.jp/tsutsui/blomaga/ar1165341
+
+- NEC PC6001+PC6082:
+  http://p.twipple.jp/uLJ8m
+- PC6001VX NetBSD7/i386 pkgsrc/emulators/PC6001VX
+  http://p.twipple.jp/EQtkl
+
+XM6i X68030 emulator http://xm6i.org/ 
+- NetBSD/x68k on RaspberryPI 3 NetBSD/earmv7hf
+ http://p.twipple.jp/ca3kW
+
+omxplayer+Xfce4 Raspberry PI2
+ http://p.twipple.jp/i5qyW 
+
+mikutter stickers:
+ http://p.twipple.jp/dxIun
+ 
+NetBSD Tourist Guide:
+ https://www.soum.co.jp/~jun/OSC2017osaka.pdf
+
+
+Demo Images:
+RPI:
+ http://mail-index.netbsd.org/port-arm/2017/01/25/msg004087.html
+
+More pictures are available on Togetter page:
+ https://togetter.com/li/1075115
+
+NEXT:
+ Open Source Conference 2017 Hamanako:  Jan.27 Osaka,JAPAN
+    http://www.ospn.jp/osc2017-hamanako/
+    https://www.facebook.com/events/1440270795987946/
+    https://www.facebook.com/NetBSD.jp/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
