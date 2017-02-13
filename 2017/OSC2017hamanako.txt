@@ -1,0 +1,37 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2016 Hamanako
+
+The Japan NetBSD Users' Group members held booth
+at the Open Source Conference 2016 Hamanako on Jan. 23 2016:
+
+ http://www.ospn.jp/osc2016-hamanako/
+ https://www.facebook.com/events/1453888774924108/
+ https://www.facebook.com/NetBSD.jp/
+
+Booth:
+ http://p.twipple.jp/QkHVQ
+
+NetBSD Tourist Guide:
+ https://www.soum.co.jp/~jun/OSC2016hamanako.pdf
+
+The NetBSD booth exhibited the following machines:
+ - Raspberry Pi2 with Xfce4 and omxplayer video output to HDMI 
+     http://p.twipple.jp/eBbNp
+   auto omxplayer by crontab: 
+     http://p.twipple.jp/10mwm
+ - Raspberry PI Zero and RPI Image
+   http://mail-index.netbsd.org/port-arm/2016/01/22/msg003635.html
+   http://p.twipple.jp/WM2P3
+ - Sharp W-ZERO3 and Sharp Zaurus SL-C7x0 and SL-C8x0
+     http://p.twipple.jp/DbDRz
+ 
+More pictures are available on Togetter page:
+     http://togetter.com/li/929091
+
+NEXT:
+ OSC2016 Tokyo/Spring:  Feb.26-27 Tokyo,JAPAN
+    http://www.ospn.jp/osc2016-spring/ 
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
