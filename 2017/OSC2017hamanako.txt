@@ -1,36 +1,54 @@
 To: netbsd-advocacy%NetBSD.org@localhost
-Subject: NetBSD machines at Open Source Conference 2016 Hamanako
+Subject: NetBSD machines at Open Source Conference 2017 Hamanako
 
 The Japan NetBSD Users' Group members held booth
-at the Open Source Conference 2016 Hamanako on Jan. 23 2016:
+at the Open Source Conference 2017 Hamanako on Feb. 12 2017:
 
- http://www.ospn.jp/osc2016-hamanako/
- https://www.facebook.com/events/1453888774924108/
+ http://www.ospn.jp/osc2017-hamanako/
+ https://www.facebook.com/events/1440270795987946/
  https://www.facebook.com/NetBSD.jp/
 
 Booth:
- http://p.twipple.jp/QkHVQ
+ http://p.twipple.jp/pEmmh
 
-NetBSD Tourist Guide:
- https://www.soum.co.jp/~jun/OSC2016hamanako.pdf
 
 The NetBSD booth exhibited the following machines:
- - Raspberry Pi2 with Xfce4 and omxplayer video output to HDMI 
-     http://p.twipple.jp/eBbNp
-   auto omxplayer by crontab: 
-     http://p.twipple.jp/10mwm
- - Raspberry PI Zero and RPI Image
-   http://mail-index.netbsd.org/port-arm/2016/01/22/msg003635.html
-   http://p.twipple.jp/WM2P3
- - Sharp W-ZERO3 and Sharp Zaurus SL-C7x0 and SL-C8x0
-     http://p.twipple.jp/DbDRz
+ - RaspberryPI 3 NetBSD/earmv6hf
+   NetBSD/x68k on XM6i X68030 emulator http://xm6i.org/
+   http://p.twipple.jp/nt0di
+   http://p.twipple.jp/IFUjB
+
+ - RaspberryPI 2 NetBSD/earmv6hf
+   Xfce4 and crontab omxplayer video output to HDMI 
+   http://p.twipple.jp/Mm9fB
+   
+ - Sharp W-ZERO3 NetBSD/hpcarm
+   http://p.twipple.jp/NxRYO
+
+ - Sharp NetWalker NetBSD/earmv7hf
+   PC9801 Emulator
+   pkgsrc/net/mikutter
+   http://p.twipple.jp/kajdg
  
+ - mikutter stickers:
+   http://p.twipple.jp/2TBwo
+
+NetBSD Tourist Guide:
+ https://www.soum.co.jp/~jun/OSC2017hamanako.pdf
+
+Demo Images:
+RPI:
+
 More pictures are available on Togetter page:
-     http://togetter.com/li/929091
 
 NEXT:
- OSC2016 Tokyo/Spring:  Feb.26-27 Tokyo,JAPAN
-    http://www.ospn.jp/osc2016-spring/ 
+
+AsiaBSDCon 2017: Mar 
+ - developer meeting
+ - NetBSD BOF 2017
+
+OSC2017 Tokyo/Spring:  Feb.26-27 Tokyo,JAPAN
+    http://www.ospn.jp/osc2017-spring/ 
 
 TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
 ---
