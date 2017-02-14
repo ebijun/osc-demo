@@ -47,7 +47,7 @@ NEXT:　BSD WEEK-END
 AsiaBSDCon 2017: Mar.9-12 Tokyo,JAPAN
   https://2017.asiabsdcon.org/access.html.en
   https://2017.asiabsdcon.org/
-- developer meeting : Mar. 10 19:00-21:30
+- developer meeting : Mar. 10 10:00-16:30
   http://wiki.netbsd.org/summits/asiabsdcon_2017_netbsd_summit/
 - NetBSD BOF 2017 :  Mar. 10 19:00-21:30
   https://wiki.netbsd.org/summits/AsiaBSDCon_2017_NetBSD_BoF/
