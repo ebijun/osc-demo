@@ -1,99 +1,105 @@
 To: netbsd-advocacy%NetBSD.org@localhost
-Subject: NetBSD machines at AsiaBSDCon 2016
+Subject: NetBSD machines at AsiaBSDCon 2017
 
 BSD Research and Japan NetBSD Users' Group members held booth
-at the AsiaBSDCon 2016  on Mar. 10-13 2016:
+at the AsiaBSDCon 2017  on Mar. 10-13 2017:
 
- http://2016.asiabsdcon.org/
+ http://2017.asiabsdcon.org/
  https://www.facebook.com/events/355716594630654/
  https://www.bsdresearch.org/index.html.en
  http://www.jp.NetBSD.org/
  https://www.facebook.com/NetBSD.jp/
 
-Keynote K01: Early days of Unix and Lessons Learned
-  Steve  Bourne (srb@acm.org)
+Keynote K01: Software Stacks to enable Software-Defined Networking 
+ and Network Functions Virtualization
+Yoshihiro NAKAJIMA
 
-NetBSD Related Talk&Event in AsiaBSDCon2016
+NetBSD Related Talk&Event in AsiaBSDCon2017
 - NetBSD Developer Summit (invited only)
-  http://wiki.netbsd.org/summits/asiabsdcon_2016_netbsd_summit/
+  http://wiki.netbsd.org/summits/asiabsdcon_2017_netbsd_summit/
 - NetBSD BoF
-  http://wiki.netbsd.org/summits/AsiaBSDCon_2016_NetBSD_BoF/
-- P01C: How to break long-term compatibility in NetBSD
-  Joerg  Sonnenberger (joerg@britannica.bec.de)
-- P04C: New Security Models for NetBSD
-  Alistair  Crooks (agc@pkgsrc.org)
-- Peripheral-side USB support for NetBSD
-  Hiroyuki  Bessho (bsh@NetBSD.org)
+  http://wiki.netbsd.org/summits/AsiaBSDCon_2017_NetBSD_BoF/
+
+- P01B: Bulk building in the many core era
+Joerg Sonnenberger
+
+- P02B: Addition of Ext4 Extent and Ext3 HTree DIR Read-Only Support
+  in NetBSD
+Hrishikesh
+
+- P03B: Hardening pkgsrc
+Pierre Pronchery
+
+- P08B: Portable hotplugging: NetBSD's uvm hotplug(9) API development
+Santhosh Narayanan Raju
+
+- P10B: Holding onto things in a multiprocessor world
+Taylor R Campbell
 
 See http://www.netbsd.org/gallery/presentations/ for paper and slides.
 
 Booth:
- http://p.twipple.jp/sFcYH
- 
- X68/040turbo :msaitoh@
- https://twitter.com/gussunoyoyo/status/708858945960419333
+Japan NetBSD Users' Group +
+Nagoya *BSD Users' Group +
+Kansai *BSD Users Group +
+FreeBSD Workshop
 
- OMRON Luna68K: @nullnilaki
-  https://twitter.com/cvsync/status/708513837385822208
+OMRON Luna88K/OpenBSD: @ao_kenji
+OMRON Luna68K/NetBSD: @nullnilaki
+Go animation demonstration on RPI2 NetBSD/earmv7hf by @oshmyja
 
- AsiaBSDCon2016 Sticker by @nullnilaki , Designed by @kozatomiho
-  https://twitter.com/nullnilaki/status/708537972698718208
+FreeBSD+Raspberry PI+GPIO/I2C demonstration by @s_mitu
+ RPI3+GameController+English/Japanese speaking
+ FreeBSD tank :RPI0
 
- NetBSD rounded special Sticker by wiz@
-  http://p.twipple.jp/NvZth
- 
- NetBSD cutting seat by ryo@
-  https://twitter.com/rsh/status/706018191076503553
+Demonstration BoX: by @610t
+RetroBSD
+Squeak+Gainer
+RPI0 + RPI0 GPIO LED load average
+Scratch x ESP8266 
+Scratch x micro:bit
+Coldfire+OpenGL
+PocketCHIP with LiteBSD 
+distcc : cluster
+ RPI + FreeBSD
+ RPI2 + NetBSD
+ RPI + NetBSD
+ BeagleBoneblackRaspBSD 
 
- FreeBSD+Raspberry PI+GPIO/I2C demonstration by @s_mitu
-  https://twitter.com/gussunoyoyo/status/708856364160851970
+SHARP X68030 by msaitoh
+NetWalker NetBSD/earmv7hf
+ZAURUS SL-C750 NetBSD/zaurus
+WZero3 NetBSD/hpcarm
+NetBSD/x68k on XM6i on NetBSD/earmv6hf on RPI3 with X68000 beep case
+RPI0
+Buffelo LinkStation + NetBSD/sandpoint
+OpenBlocks+ NetBSD/evbarm
+SHARP W-ZERO3 WS004SH
+CASIO CASSIOPEIA E-65
+HITACHI PERSONA HPW-50PAD
+Atmark Techno Armadillo-9
+Plathome OpenBlockS 266
+Cubieboard2, Allwinner A20 
+OrangePi PC, Allwinner H3
+Radxa Rock Pro, Rockchip RK3188 
+Firefly, Rockchip RK3288
+
+- AsiaBSDCon2017 Sticker by @nullnilaki 
 
 NetBSD Tourist Guide:
- https://www.soum.co.jp/~jun/asiabsdcon2016.pdf
-
-The NetBSD booth exhibited the following machines: sheeets by @tokudahiroshi
- https://docs.google.com/spreadsheets/d/12w4Foiw5KqEWjrXkI6bNHVeSYwSFc7Mq4SnO6BgAOZQ
-
-NetBSD/evbarm	VIA	APC8750	WonderMedia WM8750
-NetBSD/evbarm	Atmark-Techno	Armadillo-9	Cirrus Logic EP9315
-NetBSD/evbarm	BeagleBoard.org	BeagleBone Black	Texas Instruments AM3358
-NetBSD/earmv7hf	CubieTech	Cubieboard2	AllWinner A20
-NetBSD/evbmips	Linino.org	Linino ONE	Atheros AR9331
-NetBSD/earmv7hf	Sharp	NetWalker PC-Z1	Freescale i.MX515
-NetBSD/earmv7hf	Hardkernel	ODROID-C1	Amlogic S805
-NetBSD/evbppc	Plathome	OpenBlockS 266	AMCC PowerPC 405GPr
-NetBSD/evbppc	Plathome	OpenBlockSS	IBM PowerPC 405GP
-NetBSD/evbarm WIP	Orange Pi	Orange Pi PC	AllWinner H3
-NetBSD/evbarm	LinkSprite	pcDuino nano 3	Allwinner A20
-NetBSD/earmv6hf	Raspberyy Pi Foundation	Raspberry PI 2	Broadcom BCM2836
-NetBSD/earmv6hf	Raspberyy Pi Foundation	Raspberry PI Zero	Broadcom BCM2835
-NetBSD/evbarm	Radxa	Rock	Rockchip RK3188
-NetBSD/landisk	IO DATA	USL-5P	Hitachi SH7751R
-NetBSD/hpcarm	Sharp	W-ZERO3 (WS004SH)	Intel PXA270
-NetBSD/hpcarm	Sharp	W-ZERO3 Ad ES (WS011SH)	Intel PXA270
-NetBSD/zaurus	Sharp	Zaurus SL-C1000	Intel PXA270
-NetBSD/i386	DMP Electronics	86duino Educake	Vortex86EX
-NetBSD/x68k	Sharp	X68030 (CZ-500C)	Motorola MC68EC030 (+68040 acceleration board)
-NetBSD/evbarm	Plathome	OpenBlockS A6	ARMADA 310 (88F6283)
-NetBSD/luna68k	OMRON 	HOLONIC WORKSTATION SX-9100/DT	Motorola m68030 
-OpenBSD	OPNsence	A10 Quad Core SSD Desktop	AMD G-SERIES SOC GX-415GA 
-OpenBSD	OPNsence	A10 Dual Core (board only)	AMD G-SERIES SOC GX-210UA 
-OpenBSD	PCEngines	APU.1d	AMD G series T40E APU
-NetBSD/evbarm	Parallella	Parallella Epiphany III Desktop Computer	Xilinx Zynq-7010
-NetBSD/evbarm	SolidRun	HummingBoard-i2eX	Freescale i.MX6
-?	nVIDiA	Jetson　TK1	Tegra K1
-?	96boards	DragonBoard 410c	Qualcomm SnapDragon 410c
+ https://www.soum.co.jp/~jun/asiabsdcon2017.pdf
 
 Demo Images:
  RPI:
-  http://mail-index.netbsd.org/port-arm/2016/03/10/msg003709.html
+  http://mail-index.netbsd.org/port-arm/2017/03/10/msg003709.html
 
 More pictures are available on Togetter page:
-  http://togetter.com/li/947029
+  https://togetter.com/li/1084357
 
 NEXT:
- OpenSourceConference2016 Gunma:  May.14 Gunma,JAPAN
-    http://www.ospn.jp/osc2016-gunma/
+ Open Source UN-Conference 2017 Kawagoe: Apr.15 Saitama,JAPAN
+    https://koedolug.connpass.com/event/47569/
+    https://www.facebook.com/events/316991408701213/
 
 TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
 ---
