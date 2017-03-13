@@ -2,13 +2,14 @@ To: netbsd-advocacy%NetBSD.org@localhost
 Subject: NetBSD machines at Open Source Conference 2017 Tokyo/Spring
 
 The Japan NetBSD Users' Group members held booth
-at the Open Source Conference 2017 Tokyo/Spring on Mar. 5-6 2017:
+at the Open Source Conference 2017 Tokyo/Spring on Mar. 10-11 2017:
 
  https://www.ospn.jp/osc2017-spring/
  https://www.facebook.com/events/1337061592993172/
  https://www.facebook.com/NetBSD.jp/
 
 Booth:
+ http://p.twipple.jp/UshnU
 
 NetBSD Tourist Guide:
  https://www.soum.co.jp/~jun/OSC2017tokyospring.pdf
@@ -16,29 +17,33 @@ NetBSD Tourist Guide:
 The NetBSD booth exhibited the following machines:
 
 RPI3+XM6i+NetBSD/x68k:
-
+ http://p.twipple.jp/JE8XI
+ 
 RPI2+omxplayer:
+ http://p.twipple.jp/N0pWY
 
 NetWalker:
- http://p.twipple.jp/1xxU7
+ http://p.twipple.jp/yqbXx
 
 WZERO3:
- http://p.twipple.jp/4KzUX
+ http://p.twipple.jp/w2wLg
+
+GPDWIN:
+ http://p.twipple.jp/QiXVi
 
 BSD Cookies:
- http://p.twipple.jp/2Brum
- http://p.twipple.jp/I3UYF
+ http://p.twipple.jp/y1UZP
 
 Demo Images:
- RPI:
- http://mail-index.netbsd.org/port-arm/2017/11/02/msg003954.html
-
+   http://mail-index.netbsd.org/port-arm/2017/03/08/msg004111.html
 
 More pictures are available on Togetter page:
+  https://togetter.com/li/1089005
 
-Continuing story:
+Continuing story: AsiaBSDCon2017 
 
-AsiaBSDCon2017 
+Thanx NetBSD developers, I hope you enjoy OSC2017Tokyo/spring.
+ http://p.twipple.jp/C6S7q
 
 TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
 ---
