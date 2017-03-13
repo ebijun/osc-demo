@@ -5,7 +5,7 @@ BSD Research and Japan NetBSD Users' Group members held booth
 at the AsiaBSDCon 2017  on Mar. 10-13 2017:
 
  http://2017.asiabsdcon.org/
- https://www.facebook.com/events/355716594630654/
+ https://www.facebook.com/events/1718621151740857/
  https://www.bsdresearch.org/index.html.en
  http://www.jp.NetBSD.org/
  https://www.facebook.com/NetBSD.jp/
@@ -41,18 +41,23 @@ See http://www.netbsd.org/gallery/presentations/ for paper and slides.
 Booth:
 Japan NetBSD Users' Group +
 Nagoya *BSD Users' Group +
-Kansai *BSD Users Group +
+Kansai *BSD User Group +
 FreeBSD Workshop
 
 OMRON Luna88K/OpenBSD: @ao_kenji
+  https://www.slideshare.net/ao_kenji/
 OMRON Luna68K/NetBSD: @nullnilaki
+  http://nullnilaki.hatenablog.com/
 Go animation demonstration on RPI2 NetBSD/earmv7hf by @oshmyja
+ http://www.yagoto-urayama.jp/~oshimaya/netbsd/netbsd_goarm2.html
 
 FreeBSD+Raspberry PI+GPIO/I2C demonstration by @s_mitu
  RPI3+GameController+English/Japanese speaking
  FreeBSD tank :RPI0
+  https://github.com/s-mitu/RaspberryPi
 
 Demonstration BoX: by @610t
+  http://sacraya.610t.org/kbug/book/booth/singlehtml/
 RetroBSD
 Squeak+Gainer
 RPI0 + RPI0 GPIO LED load average
@@ -85,13 +90,14 @@ Radxa Rock Pro, Rockchip RK3188
 Firefly, Rockchip RK3288
 
 - AsiaBSDCon2017 Sticker by @nullnilaki 
+  https://twitter.com/nullnilaki/status/834391718321545216
 
 NetBSD Tourist Guide:
  https://www.soum.co.jp/~jun/asiabsdcon2017.pdf
 
 Demo Images:
  RPI:
-  http://mail-index.netbsd.org/port-arm/2017/03/10/msg003709.html
+  http://mail-index.netbsd.org/port-arm/2017/03/08/msg004111.html
 
 More pictures are available on Togetter page:
   https://togetter.com/li/1084357
