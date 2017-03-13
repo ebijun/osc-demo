@@ -45,6 +45,9 @@ Continuing story: AsiaBSDCon2017
 Thanx NetBSD developers, I hope you enjoy OSC2017Tokyo/spring.
  http://p.twipple.jp/C6S7q
 
+Thanx Nagoya *BSD Users' Group staff (Noda-san/Iwase-san),
+ to support the booth.
+
 TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
 ---
 Jun Ebihara
