@@ -1,0 +1,113 @@
+AsiaBSDCon2017 meets OSC2017Tokyo/Spring 
+
+* NetBSDの紹介
+NetBSDはBSD系のUNIX互換OSのひとつです。
+
+ftp ftp://ftp.netbsd.org/pub/NetBSD/NetBSD-current/tar_files/src.tgz
+tar xzvf src.tgz -C /usr
+cd /usr/src
+./build.sh release
+
+とすると、配布パッケージができます。
+ドリームキャスト用の配布セットは
+./build.sh -m dreamcast release
+RaspberryPI用の配布セットは、
+./build.sh -m earmv6hf release
+とするとソースコードから配布用バイナリをつくることができます。
+
+* NetBSD7.1
+オープンソースカンファレンス東京春の会場で、NetBSD developerの
+Jörg Sonnenberger さんから次のリリースの話を聞きました。
+「そういえばNetBSD7.1リリースされるよ」
+「へー、そうすか。いつ出るんですか」
+「明日だ」
+「へ？」
+「明日」
+本当にリリースされました。
+ リリースのURL
+
+* AsiaBSDCon
+BSD系の国際会議はカナダ/ヨーロッパ/日本の三個所で毎年開催されています。
+日本は例年3月第2週の週末に開催しています。
+AsiaBSDConのURL
+
+今年はAsiaBSDConとOSC2017Tokyo/Springの開催時期が重なったので、
+AsiaBSDConで来日している開発者を明星大学に誘ってみました。
+
+日本NetBSDユーザーグループは、オープンソースカンファレンスにずっと参加
+しています。毎回ブースを出してセミナーをやっています。
+参加報告はNetBSD-advocacyメーリングリストに投げるようにしています。
+ NetBSD-advocacyメーリングリストアーカイブのURL
+
+メーリングリストではあまり反応はないのですが、時々メールやツイッターで
+感想をもらうことがあります。The NetBSD Foundationの
+Presidentである William J. Coldwellさんもそのひとりです。
+今回来日しているNetBSDの開発者とThe NetBSD Foundationの人たちが
+OSC初日金曜の午前中に明星大学まで来てくれました。
+
+さっそくOSC会場ツアーをやってみました。各ブースで対応していただいた
+皆様ありがとうございました。X68030にNetBSDを移植し、
+現在もLagopusユーザーグループ(要確認)で活躍されている沖さんや、宮原さん
+にも紹介することができました。
+
+写真：
+
+とてもフレンドリーかつピースフルなイベントだねと感想をいただきました。
+45分のセミナーでどんなことをやっているのか聞かれたりとか、FOSDUMをチェック
+しておいたほうがいいとアドバイスをもらいました。
+
+jusイベント「コミュニティの運営」
+
+OSC2日めにはコミュニティのパネルに出ました。
+NetBSDは、いろいろなハードウェアやデバイスを利用できるUNIX系OSであるとすると、
+UNIXのユーザーグループとしてOSCに貢献できることは何があるでしょうか。
+
+オープンソースカンファレンスに出展しているソフトウェアのうち、
+UNIX系OSで動作するソフトウェアをpkgsrcという枠組みに組み込むと、
+NetBSDを含むいろいろなOSでコンパイルしてインストールすることができます。
+
+たとえばmikutterはこんな感じでインストールできます。
+
+ftp ftp.pkgsrc.org:/pub/...
+tar xzvf pkgsrc.tar.gz -C /usr
+cd /usr/pkgsrc/net/mikutter
+make package-install
+
+OSCで見かけたソフトウェアを実際に使ってみて、気に入ったソフトウェアが
+あればpkgsrcにとりこむと、そのソフトウェアを世界中の人たちに
+紹介することができます。
+一度ソフトウェアをとりこんでからは、ソフトウェアの更新に追従していきます。
+動かなくなったりセキュリティ関連の問題が起きた場合は、
+開発元に連絡してすみやかに修正部分を更新します。
+更新した場合の対応方法はソフトウェアごとに異なっているのですが、
+OSC会場で直接コミュニティの人に相談すると解決の糸口がわかることがあります。
+
+OSCでは毎回ブースを出しています。今回はブース出展を2班にわけて、
+明星大学だけでなく、AsiaBSDConの会場である飯田橋の東京理科大学でもブースを出しました。
+
+OSC名古屋で主に展示をしていただいているあおやまさんとえとみさんにご協力をいただいて、
+OMRON LUNA88K/OpenBSDとLUNA68K/NetBSDを展示しました。
+OSC京都で展示をしていただいている武藤さんにはLiteBSD/FreeBSD/.. を展示していただきました。
+おおしまさんにはNetBSD/evbarmv7hf上で動くgo言語のデモをしていただきました。
+bsdresearchで開催しているFreeBSD workshopで発表していただいている鈴木さんには
+FreeBSDtankをデモしていただきました。
+
+AsiaBSDConの発表は
+FreeBSD 20
+NetBSD 6
+OpenBSD 3 要確認
+
+NetBSDの発表の中にはOSC札幌で展示や発表をしていただいている榎本さんの発表がありました。
+
+* OSC→AsiaBSDConの流れ
+
+* Alのメール
+
+* ことしもどこかのブースでよろしく
+
+
+
+
+
+
+
