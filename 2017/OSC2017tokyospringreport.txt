@@ -12,7 +12,7 @@ cd /usr/src
 ドリームキャスト用の配布セットは
 ./build.sh -m dreamcast release
 RaspberryPI用の配布セットは、
-./build.sh -m earmv6hf release
+./build.sh -m evbarm -a earmv6hf release
 とするとソースコードから配布用バイナリをつくることができます。
 
 * NetBSD7.1
