@@ -90,7 +90,7 @@ NetBSDを含むいろいろなOSでコンパイルしてインストールする
 
 たとえばtwitterクライアントのmikutterはこんな感じでインストールできます。
 
-ftp ftp.pkgsrc.org:/pub/...
+ftp ftp://ftp.pkgsrc.org/pub/pkgsrc/current/pkgsrc.tar.gz
 tar xzvf pkgsrc.tar.gz -C /usr
 cd /usr/pkgsrc/net/mikutter
 make package-install
