@@ -114,12 +114,16 @@ OSCでは毎回ブースを出しています。今回はブース出展を2班�
 
 OSC名古屋で主に展示をしていただいている、あおやまさんとえとみさんにご協力をいただいて、
 OMRON LUNA88K/OpenBSDとLUNA68K/NetBSDを展示しました。
+  http://www.nk-home.net/~aoyama/AsiaBSDCon/AsiaBSDCon2017-flyer.pdf
+  https://github.com/nullnilaki/NetBSD-luna68k-flyer-at-AsiaBSDCon-2017/blob/master/NetBSD-luna68k-flyer.pdf
 OSC京都で展示をしていただいている武藤さんにはScratchやRetroBSDやdistccクラスタを
 展示していただきました。
+  http://sacraya.610t.org/kbug/book/booth/singlehtml/
 おおしまさんにはRPI NetBSD/evbarmv7hf上で動くgo言語のデモをしていただきました。
+  http://www.yagoto-urayama.jp/~oshimaya/netbsd/netbsd_goarm2.html
 FreeBSD workshopで発表していただいている鈴木さんには
 RPIで動くFreeBSDtankのデモをしていただきました。
-
+  https://github.com/s-mitu/RaspberryPi
 えとみさんにはAsiaBSDCon2017シールをつくっていただきました。Ingressカード風の逸品です。
  https://twitter.com/nullnilaki/status/834391718321545216
 
@@ -161,3 +165,4 @@ UNIX互換のOSができることがあとどれだけ残っているかわか�
 * この記事のまとめ
 資金難に悩むAsiaBSDConでは常にスポンサーを募集してます。
 　secretary@asiabsdcon.org まで。
+  https://twitter.com/nullnilaki/status/841305435097374720
