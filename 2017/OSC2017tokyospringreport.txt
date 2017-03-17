@@ -129,7 +129,7 @@ NetBSDを使っている世界中のひとたちに紹介したりフォロー�
 OSCでは毎回ブースを出しています。今回はブース出展を2班にわけて、
 明星大学だけでなく、AsiaBSDConの会場である飯田橋の東京理科大学でもブースを出しました。
 
-OSC名古屋で主に展示をしていただいている、あおやまさんとえとみさんにご協力をいただいて、
+OSC名古屋で主に展示をしていただいている、あおやまさんと、えとみさんにご協力をいただいて、
 OMRON LUNA88K/OpenBSDとLUNA68K/NetBSDを展示しました。
   http://www.nk-home.net/~aoyama/AsiaBSDCon/AsiaBSDCon2017-flyer.pdf
   https://github.com/nullnilaki/NetBSD-luna68k-flyer-at-AsiaBSDCon-2017/blob/master/NetBSD-luna68k-flyer.pdf
