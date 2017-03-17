@@ -165,6 +165,9 @@ NetBSDの発表の中にはOSC札幌で展示や発表をしていただいて�
 P06B: Maintain the NetBSD Base System Using pkg_* Tools
 Yuuki  Enomoto
 
+NetBSD Presentations
+ http://www.NetBSD.org/gallery/presentations/
+
 OSCであるていどアイディアを練ったり実験してきたことをAsiaBSDConのような場所に
 みんなが出していける手助けをしていければいいなと思っています。
 
