@@ -3,12 +3,16 @@ AsiaBSDCon2017 meets OSC2017Tokyo/Spring
 * NetBSDのご紹介
 NetBSDはBSD系のUNIX互換OSのひとつです。
 
+The NetBSD Project
+ http://www.NetBSD.org/
+
 ftp ftp://ftp.netbsd.org/pub/NetBSD/NetBSD-current/tar_files/src.tar.gz
 tar xzvf src.tar.gz -C /usr
 cd /usr/src
 ./build.sh release
 
 とすると、配布パッケージができます。
+
 ドリームキャスト用の配布セットは
 ./build.sh -m dreamcast release
 RaspberryPI用の配布セットは、
@@ -18,6 +22,7 @@ RaspberryPI用の配布セットは、
 * NetBSD7.1
 オープンソースカンファレンス東京春の会場で、NetBSD developerの
 Jörg Sonnenberger さんから次のリリースの話を聞きました。
+
 「そういえばNetBSD7.1リリースされるよ」
 「ご冗談でしょうファインマンさん。いつ出るすか」
 「明日だ」
@@ -29,7 +34,7 @@ NetBSD 7.1 released (March 11, 2017)
  http://www.netbsd.org/releases/formal-7/NetBSD-7.1.html
 
 * AsiaBSDCon
-BSD系の国際会議はカナダ/ヨーロッパ/日本の三個所で毎年開催されています。
+BSD系の国際会議はカナダ/ヨーロッパ/日本の3個所で毎年開催されています。
 各会場をGroffTheBSDGoatが渡り歩いています。
 
 GroffTheBSDGoat
@@ -37,8 +42,14 @@ GroffTheBSDGoat
 
 日本は例年3月第2週の週末に開催しています。
 
-AsiaBSDCon 2017
+AsiaBSDCon 2017 Mar. 9-12
  https://2017.asiabsdcon.org/
+ 
+BSDCan 2017 Jun.7-10 2017
+ https://www.bsdcan.org/2017/
+ 
+EuroBSDCon 2017 Sep.21-24 2017
+ https://2017.eurobsdcon.org/
 
 今年はAsiaBSDConとOSC2017Tokyo/Springの開催時期が重なったので、
 AsiaBSDConで来日している開発者を明星大学に誘ってみました。
@@ -61,8 +72,8 @@ The NetBSD Foundation
 
 さっそくOSC会場ツアーをやってみました。各ブースで対応していただいた
 皆様ありがとうございました。X68030にNetBSDを移植し、
-現在もLagopus Users Communityで活躍されている沖さんや、宮原さん
-にも紹介することができました。
+現在もLagopus Users Communityで活躍されている沖さんや、
+びぎねっとの宮原さんにも紹介することができました。
 
 プラレール半可算器とNetBSD developers
  http://p.twipple.jp/C6S7q
@@ -75,18 +86,24 @@ FOSDEM'17
 　https://fosdem.org/2017/
 
 * わたしたちの望むものは
-OSC2日めにはjusのパネルに出ました。
+OSC2日めには日本UNIXユーザ会主催のパネルに出ました。
+
+日本UNIXユーザ会
+ http://www.jus.or.jp/
 
 jus研究会東京大会「ITコミュニティの運営を考える」（パネルディスカッション）
 講師：蛯原 純（日本NetBSDユーザーグループ/株式会社創夢）・羽鳥 健太郎（小江戸らぐ）・
 上田 隆一（USP友の会/千葉工業大学）・榎 真治(日本UNIXユーザ会/LibreOffice日本語チーム)
 
-NetBSDは、いろいろなハードウェアやデバイスを利用できるUNIX系OSであるとすると、
+「NetBSDは、いろいろなハードウェアやデバイスを利用できるUNIX系OSである。」とすると、
 UNIXのユーザーグループとしてOSCに貢献できることは何があるでしょうか。
 
 オープンソースカンファレンスに出展しているソフトウェアのうち、
 UNIX系OSで動作するソフトウェアを、NetBSDで利用しているpkgsrcという枠組みに組み込むと、
 NetBSDを含むいろいろなOSでコンパイルしてインストールすることができます。
+
+pkgsrc
+ http://www.pkgsrc.org/
 
 たとえばtwitterクライアントのmikutterはこんな感じでインストールできます。
 
@@ -165,4 +182,6 @@ UNIX互換のOSができることがあとどれだけ残っているかわか�
 * この記事のまとめ
 資金難に悩むAsiaBSDConでは常にスポンサーを募集してます。
 　secretary@asiabsdcon.org まで。
+
+Marshall Kirk McKusick 画伯による名犬(迷犬) BIFF.
   https://twitter.com/nullnilaki/status/841305435097374720
