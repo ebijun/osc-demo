@@ -1,0 +1,60 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: OpenBSD and NetBSD machines at Open Source Conference 2017 Nagoya
+
+The Japan NetBSD Users' Group and 
+Nagoya *BSD Users' Group members held booth
+at the Open Source Conference 2017 Nagoya on May 27 2017:
+
+ http://www.ospn.jp/osc2017-nagoya/
+ http://www.nagoya.bug.gr.jp/
+ http://www.jp.NetBSD.org/
+ https://www.facebook.com/events/638354339654922/
+ https://www.facebook.com/NetBSD.jp/
+
+Booth:
+ http://p.twipple.jp/q2ax3
+
+OMRON LUNA88K on OpenBSD 6.1 by Kenji Aoyama.
+  http://www.nk-home.net/~aoyama/OSC/OSC2017Nagoya-leaflet.pdf
+  https://www.slideshare.net/ao_kenji/osc2017-nagoya-76418169
+
+  Play PSG music on LUNA-88K - Utilization of I/O prosessor 
+  - HD641780, Z80 compatible I/O processor (man 4 xp)
+  - Play Music YM2149 with NEC PC6001 Z80 music driver.
+  - CP/M on HD641780
+
+PANIX: SVR4 on PC98 by Hiroyuki Nakaji
+ http://www.slideshare.net/hiroyukinakaji/panix-on-pc98
+ http://p.twipple.jp/h9A8m
+
+SHARP NetWalker (NetBSD/earmv7hf) Xfce4.12+Firefox
+ https://twitter.com/ebijun/status/736442646231552000
+
+Raspberry PI 
+ NetBSD/x68k on XM6i on NetBSD/earmv6hf on RaspberryPI3
+ https://twitter.com/ebijun/status/736442646231552000
+
+@kapper1224's tons of tablets report
+ https://www.slideshare.net/kapper1224/gpdwinwindows10linux2017
+
+NetBSD Tourist Guide:
+ https://www.soum.co.jp/~jun/OSC2017nagoya.pdf
+
+
+Demo Images:
+ Luna88K :
+  OpenBSD 6.1
+ RPI:
+  http://mail-index.netbsd.org/port-arm/2017/05/24/msg004150.html
+
+More pictures are available on Togetter page:
+  http://togetter.com/li/1114389
+
+NEXT:
+ Open Source Conference 2017 Okinawa:  Jun.17 Okinawa,JAPAN
+    http://www.ospn.jp/osc2017-okinawa/
+    https://www.facebook.com/events/1821156841463423/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
