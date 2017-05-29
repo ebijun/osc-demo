@@ -28,11 +28,11 @@ PANIX: SVR4 on PC98 by Hiroyuki Nakaji
  http://p.twipple.jp/h9A8m
 
 SHARP NetWalker (NetBSD/earmv7hf) Xfce4.12+Firefox
- https://twitter.com/ebijun/status/736442646231552000
+ http://p.twipple.jp/0ymYm
 
 Raspberry PI 
  NetBSD/x68k on XM6i on NetBSD/earmv6hf on RaspberryPI3
- https://twitter.com/ebijun/status/736442646231552000
+ https://twitter.com/ebijun/status/868267993771290624
 
 @kapper1224's tons of tablets report
  https://www.slideshare.net/kapper1224/gpdwinwindows10linux2017
