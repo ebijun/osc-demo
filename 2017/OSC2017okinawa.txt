@@ -6,12 +6,12 @@ at the Open Source Conference 2017 Okinawa
   on Jun. 18 2017:
 
  http://www.ospn.jp/osc2017-okinawa/
- https://www.facebook.com/events/1589647504618848/
+ https://www.facebook.com/events/1821156841463423/
  https://www.facebook.com/NetBSD.jp/
  http://www.jp.NetBSD.org/
 
 Booth:
-  http://p.twipple.jp/K3Jet
+ 
 
 RPI0+RPI3+RPI2
  http://p.twipple.jp/t9V2P
@@ -44,20 +44,22 @@ NetBSD Tourist Guide:
 
 Demo Images:
  RPI:
-  http://mail-index.netbsd.org/port-arm/2017/06/29/msg003846.html
+   http://mail-index.netbsd.org/port-arm/2017/06/12/msg004179.html
+     ... RPI3 fixes
+   http://mail-index.netbsd.org/port-arm/2017/06/20/msg004210.html
 
 More pictures are available on Togetter page:
   http://togetter.com/li/995155
 
 NEXT:
- Japan NetBSD Users Group 18th annual Meeting and BoF 2017
+ Japan NetBSD Users Group 19th annual Meeting and BoF 2017
   http://www.jp.NetBSD.org/
-  http://www.jp.netbsd.org/ja/JP/JNUG/announce/meeting18.html
-  https://www.facebook.com/events/1012439098842302/
+  http://www.jp.netbsd.org/ja/JP/JNUG/announce/meeting19.html
+  https://www.facebook.com/events/266188503837926/
 
 TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+ thanx to Adam West as batman and Nicolas Joly as njoly@.
+ may rest in peace.
 
-thanx to Adam West as batman and Nicolas Joly as njoly@.
-may rest in peace.
 ---
 Jun Ebihara
