@@ -11,36 +11,30 @@ at the Open Source Conference 2017 Okinawa
  http://www.jp.NetBSD.org/
 
 Booth:
+ https://twitter.com/ebijun/status/875951100846788608
+
+NetBSD/x68k on XM6i on NetBSD/earmv6hf on RaspberryPI3
+ https://twitter.com/ebijun/status/875886892889235457
+ http://xm6i.org/
+
+NetBSD/earmv6hf RPI image on QEMU VEXPRESS A15 on NetBSD/i386
+ https://twitter.com/ebijun/status/875961401348546561
  
+WZERO3 as NetBSD/hpcarm 
+ https://twitter.com/ebijun/status/875956372428406785
 
-RPI0+RPI3+RPI2
- http://p.twipple.jp/t9V2P
- http://p.twipple.jp/cDPmo
-
-
-Netwalker+mikutter+xnp2+Xfce4
- http://p.twipple.jp/6820H
-
-WZero3:
- http://p.twipple.jp/G36Wh
- http://p.twipple.jp/PJfYV
-
-zaurus:
- http://p.twipple.jp/HoO0L
+Testing RPI3,RPI2,RPI2-V1.2,RPI0
+ https://twitter.com/ebijun/status/875953797381537797
+ http://mail-index.netbsd.org/port-arm/2017/06/thread1.html#004185
 
 Openblocks A6
- http://p.twipple.jp/OFFb9
-
-XM6i Cross plathome X68000/X68030 emulator.
- http://xm6i.org/
- http://p.twipple.jp/avfHj
-
-XEiJ X68000 Emulator in Java
- http://stdkmd.com/xeij/
- http://p.twipple.jp/XsEiK
+ https://twitter.com/ebijun/status/875923622514221056
 
 NetBSD Tourist Guide:
  https://www.soum.co.jp/~jun/OSC2017okinawa.pdf
+ 
+NetBSD BoF: 45min
+ https://twitter.com/kapper1224/status/875897698917928960
 
 Demo Images:
  RPI:
@@ -58,8 +52,9 @@ NEXT:
   https://www.facebook.com/events/266188503837926/
 
 TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
- thanx to Adam West as batman and Nicolas Joly as njoly@.
+ thanx to Adam West as batman, and Nicolas Joly as njoly@.
  may rest in peace.
 
+and respects.
 ---
 Jun Ebihara
