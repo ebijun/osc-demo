@@ -43,7 +43,7 @@ Demo Images:
    http://mail-index.netbsd.org/port-arm/2017/06/20/msg004210.html
 
 More pictures are available on Togetter page:
-  http://togetter.com/li/995155
+  https://togetter.com/li/1120958
 
 NEXT:
  Japan NetBSD Users Group 19th annual Meeting and BoF 2017
