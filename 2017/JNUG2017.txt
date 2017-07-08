@@ -1,0 +1,44 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: Japan NetBSD Users Group 18th annual Meeting and BoF 2017
+
+The Japan NetBSD Users' Group members held 18th annual Meeting 
+  on Jul. 8 2017:
+
+ http://www.jp.netbsd.org/ja/JP/JNUG/announce/meeting19.html.en
+ https://www.facebook.com/NetBSD.jp/
+ http://www.jp.NetBSD.org/
+
+NetBSD BOF:
+  http://www.jp.netbsd.org/ja/JP/JNUG/event/20170708BOF/
+  14:00- 
+   - Hiroki Sato : AsiaBSDCon2017 and BSD Research
+   - Ken-ichi Fukamachi: fdgw history
+   - Makoto Fujiwara: Check-Update
+     http://www.ki.nu/~makoto/pkg
+
+   - Jun Ebihara: RPI Image Update 2017
+     https://github.com/ebijun/NetBSD/blob/master/Guide/RPI/RPIupdate2017.rst
+   17:00
+   - SODA Noriyuki: Toward NetBSD 8.0
+   
+   18:30
+   　post meeting party: 
+   　  https://www.facebook.com/12souko/
+
+NetBSD Tourist Guide:
+ https://www.soum.co.jp/~jun/JNUG2017.pdf
+
+More pictures are available on Togetter page:
+ https://togetter.com/li/1127726
+
+Video Archive:
+ http://www.ustream.tv/channel/japan-netbsd-users-group-meeting
+
+NEXT:
+ Open Source Conference 2017 Hokkaido:   Jul.14-15 Sapporo,JAPAN
+   http://www.ospn.jp/osc2017-sapporo/
+   https://www.facebook.com/events/737293709767129/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
