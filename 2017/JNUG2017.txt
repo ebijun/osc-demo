@@ -1,28 +1,63 @@
 To: netbsd-advocacy%NetBSD.org@localhost
-Subject: Japan NetBSD Users Group 18th annual Meeting and BoF 2017
+Subject: Japan NetBSD Users Group 19th annual Meeting and BoF 2017
 
-The Japan NetBSD Users' Group members held 18th annual Meeting 
+The Japan NetBSD Users' Group members held 19th annual Meeting 
   on Jul. 8 2017:
 
  http://www.jp.netbsd.org/ja/JP/JNUG/announce/meeting19.html.en
  https://www.facebook.com/NetBSD.jp/
  http://www.jp.NetBSD.org/
 
+Place:
+ VDEC: VLSI Desion and Education Center,University of Tokyo.
+ http://www.vdec.u-tokyo.ac.jp/English/index.html
+
 NetBSD BOF:
   http://www.jp.netbsd.org/ja/JP/JNUG/event/20170708BOF/
   14:00- 
    - Hiroki Sato : AsiaBSDCon2017 and BSD Research
+     - https://www.bsdresearch.org/index.html.en
+     - heavy costs: flight/hotel fees for presentors.
+     - need more sponsor/donation: -350,000yen (== $30642)
+     - Japan NetBSD Users' group donate to AsiaBSDCon:
+	 68,000 yen (== $595.34:1.94%)
    - Ken-ichi Fukamachi: fdgw history
+     Yuuki Enomoto: 
+      basepkg: https://e-yuuki.org/slide/netbsd_bof.pdf
+      Report:  https://e-yuuki.org/?blog%2F20170710
    - Makoto Fujiwara: Check-Update
-     http://www.ki.nu/~makoto/pkg
-
+     http://www.ki.nu/~makoto/mef/20170310/
+   - Makoto Fujiwara: pkgsrc workshop
+     http://www.ki.nu/~makoto/diary/2017/07/01/#201707010
+   - Makoto Fujiwara: handle crash command
+     http://www.ki.nu/~makoto/diary//2017/07/02/#201707021
+  15:30-
+   - Questions and Answers:
+    - Porting status:
+      Allwinner H
+    - pkgbrew test report by Ryo Onodera
+    - CVS to git/fossil
+    - If you have plenty of time and money:
+      - DONATE AsiaBSDCon!!!
+      - Put date -> binary set in 22 sec.
+      - NetBSD museum.
+    - port revival
+      - Luna68K/88K and Z80 and PSG music.
+      - PC532 FPGA strikes back again.
+      - Acorn
+      - mac68k,ppc
+      - arc sweet arc
+   - Yasushi Oshima: Ryzen on NetBSD
+   - Kiwamu Okabe: Writing NetBSD Sound Drivers in Haskell
+      https://www.slideshare.net/master_q/writing-netbsd-sound-drivers-in-haskell
    - Jun Ebihara: RPI Image Update 2017
      https://github.com/ebijun/NetBSD/blob/master/Guide/RPI/RPIupdate2017.rst
+     http://mail-index.netbsd.org/port-arm/2017/07/07/msg004286.html
    17:00
    - SODA Noriyuki: Toward NetBSD 8.0
    
-   18:30
-   　post meeting party: 
+   18:00
+     　post meeting party: 18:15-21:15
    　  https://www.facebook.com/12souko/
 
 NetBSD Tourist Guide:
@@ -33,6 +68,13 @@ More pictures are available on Togetter page:
 
 Video Archive:
  http://www.ustream.tv/channel/japan-netbsd-users-group-meeting
+
+Thanx for special meeting space:
+ Yoshiro Mita
+ http://nanotechnet.t.u-tokyo.ac.jp/staff.html
+
+ and VDEC: VLSI Desion and Education Center,University of Tokyo.
+ http://www.vdec.u-tokyo.ac.jp/English/index.html
 
 NEXT:
  Open Source Conference 2017 Hokkaido:   Jul.14-15 Sapporo,JAPAN
