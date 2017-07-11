@@ -78,7 +78,7 @@ Thanx for special meeting space:
 
 NEXT:
  Open Source Conference 2017 Hokkaido:   Jul.14-15 Sapporo,JAPAN
-   http://www.ospn.jp/osc2017-sapporo/
+   http://www.ospn.jp/osc2017-do/
    https://www.facebook.com/events/737293709767129/
 
 TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
