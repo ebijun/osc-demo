@@ -55,7 +55,7 @@ NetBSD BOF:
      http://mail-index.netbsd.org/port-arm/2017/07/07/msg004286.html
    17:00
    - SODA Noriyuki: Toward NetBSD 8.0
-   
+
    18:00
      post meeting party: 18:15-21:15
      https://www.facebook.com/12souko/
