@@ -57,8 +57,8 @@ NetBSD BOF:
    - SODA Noriyuki: Toward NetBSD 8.0
    
    18:00
-     　post meeting party: 18:15-21:15
-   　  https://www.facebook.com/12souko/
+     post meeting party: 18:15-21:15
+     https://www.facebook.com/12souko/
 
 NetBSD Tourist Guide:
  https://www.soum.co.jp/~jun/JNUG2017.pdf
