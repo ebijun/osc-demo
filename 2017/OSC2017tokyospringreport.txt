@@ -83,7 +83,7 @@ The NetBSD Foundation
 とか、FOSDEMをチェックしておいたほうがいいよとアドバイスをもらいました。
 
 FOSDEM'17
-　https://fosdem.org/2017/
+ https://fosdem.org/2017/
 
 * わたしたちの望むものは
 OSC2日めには日本UNIXユーザ会主催のパネルに出ました。
@@ -184,7 +184,7 @@ UNIX互換のOSができることがあとどれだけ残っているかわか�
 
 * この記事のまとめ
 資金難に悩むAsiaBSDConでは常にスポンサーを募集してます。
-　secretary@asiabsdcon.org まで。
+ secretary@asiabsdcon.org で。
 
 Marshall Kirk McKusick 画伯による名犬(迷犬) BIFF.
   https://twitter.com/nullnilaki/status/841305435097374720

@@ -281,8 +281,8 @@ NetBSD BOF:
    - Masanobu SAITOH: Current status of NetBSD MP-safe network stack project
    
    18:30
-   　post meeting party: 
-   　  https://www.facebook.com/12souko/
+    post meeting party: 
+      https://www.facebook.com/12souko/
 
 * Open Source Conference 2016 Gunma on May. 14 2016:
  http://www.ospn.jp/osc2016-gunma/
@@ -394,5 +394,5 @@ NetBSD Related Talk&Event in AsiaBSDCon2016
 - OpenBSD	PCEngines	APU.1d	AMD G series T40E APU
 - NetBSD/evbarm	Parallella	Parallella Epiphany III Desktop Computer	Xilinx Zynq-7010
 - NetBSD/evbarm	SolidRun	HummingBoard-i2eX	Freescale i.MX6
-- ?	nVIDiA	Jetson　TK1	Tegra K1
+- ?	nVIDiA	Jetson TK1	Tegra K1
 - ?	96boards	DragonBoard 410c	Qualcomm SnapDragon 410c

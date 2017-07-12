@@ -35,8 +35,8 @@ NetBSD BOF:
    - Masanobu SAITOH: Current status of NetBSD MP-safe network stack project
    
    18:30
-   　post meeting party: 
-   　  https://www.facebook.com/12souko/
+   post meeting party
+   https://www.facebook.com/12souko/
 
 NetBSD Tourist Guide:
  https://www.soum.co.jp/~jun/JNUG2016.pdf

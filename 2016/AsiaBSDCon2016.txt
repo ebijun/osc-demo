@@ -81,7 +81,7 @@ OpenBSD	OPNsence	A10 Dual Core (board only)	AMD G-SERIES SOC GX-210UA
 OpenBSD	PCEngines	APU.1d	AMD G series T40E APU
 NetBSD/evbarm	Parallella	Parallella Epiphany III Desktop Computer	Xilinx Zynq-7010
 NetBSD/evbarm	SolidRun	HummingBoard-i2eX	Freescale i.MX6
-?	nVIDiA	Jetson　TK1	Tegra K1
+?nVIDiA JetsonTK1 Tegra K1
 ?	96boards	DragonBoard 410c	Qualcomm SnapDragon 410c
 
 Demo Images:

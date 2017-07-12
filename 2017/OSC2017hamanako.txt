@@ -42,7 +42,7 @@ RPI:
 More pictures are available on Togetter page:
  https://togetter.com/li/1080372
 
-NEXT:　BSD WEEK-END
+NEXT:BSD WEEK-END
 
 AsiaBSDCon 2017: Mar.9-12 Tokyo,JAPAN
   https://2017.asiabsdcon.org/access.html.en
