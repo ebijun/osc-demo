@@ -8,7 +8,7 @@ Demonstaration setting for NetBSD Booth
 
 総集編：
   AsiaBSDCon2017 http://www.soum.co.jp/~jun/asiabsdcon2017.pdf
-  JNUG2016       http://www.soum.co.jp/~jun/JNUG2016.pdf
+  JNUG2017       http://www.soum.co.jp/~jun/JNUG2017.pdf
   WIDE2016       http://www.soum.co.jp/~jun/OSC201512.pdf
   参加マップ　
     http://www.soum.co.jp/~jun/2016maps.pdf
