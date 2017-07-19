@@ -1,0 +1,76 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2017 Hokkaido
+
+The Japan NetBSD Users' Group and Northern land BSD Users Group
+ members held booth at the Open Source Conference 2017 Hokkaido 
+  on Jun. 18 2017:
+
+ http://www.ospn.jp/osc2017-do/
+ https://www.facebook.com/events/1730597043836543/
+ https://www.facebook.com/NetBSD.jp/
+ http://www.jp.NetBSD.org/
+ http://www.no.bug.gr.jp/
+
+Booth:
+ http://p.twipple.jp/SQ3QD
+
+VT220 and NetBSD7 on SPARC station IPX
+ http://p.twipple.jp/j3hGJ
+
+NetBSD 2.5MB image: 
+ http://github.com/user340/fdgw2
+ http://p.twipple.jp/cfDYZ
+
+IBM Palmtop 110
+ http://p.twipple.jp/Rcu6I
+
+RPI image: Xfce4.12 + mikutter + omxplayer
+ http://p.twipple.jp/5l2xv
+ http://p.twipple.jp/PzoiI
+
+SHARP ZAURUS
+ http://p.twipple.jp/LlFVh
+
+SHARP NetWalker(earmv7hf) and Xnp2 PC98 emulator
+ http://p.twipple.jp/BE1br
+
+SHARP WZero3
+ http://p.twipple.jp/H5HND
+
+Stickers
+  http://p.twipple.jp/TcMd2
+
+CD-ROMS in oldies
+  http://p.twipple.jp/DfeVG
+
+NetBSD Tourist Guide:
+ https://www.soum.co.jp/~jun/OSC2017hokkaido.pdf
+
+Presentation: Making enbeded NetBSD 
+ by Yuuki Enomoto 
+ http://e-yuuki.org/
+ http://e-yuuki.org/events/osc16do.pdf
+ http://e-yuuki.org/events/osc16doLT.pdf
+ http://p.twipple.jp/c8XCu
+
+Short Talk: 
+ by Kenichi Fukamachi
+ http://www.fml.org/
+ http://p.twipple.jp/fz0Ka
+
+Demo Images:
+ RPI:
+ http://mail-index.netbsd.org/port-arm/2017/06/13/msg003821.html
+ http://mail-index.netbsd.org/port-arm/2017/06/17/msg003833.html
+
+More pictures are available on Togetter page:
+ http://togetter.com/li/988853
+
+NEXT:
+ OpenSourceConference 2017 Okinawa:  Jul.2 Okinawa,JAPAN
+   http://www.ospn.jp/osc2017-okinawa/
+   https://www.facebook.com/events/1589647504618848/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
