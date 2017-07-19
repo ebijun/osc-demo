@@ -3,73 +3,68 @@ Subject: NetBSD machines at Open Source Conference 2017 Hokkaido
 
 The Japan NetBSD Users' Group and Northern land BSD Users Group
  members held booth at the Open Source Conference 2017 Hokkaido 
-  on Jun. 18 2017:
+  on Jul. 15 2017:
 
  http://www.ospn.jp/osc2017-do/
- https://www.facebook.com/events/1730597043836543/
  https://www.facebook.com/NetBSD.jp/
  http://www.jp.NetBSD.org/
  http://www.no.bug.gr.jp/
 
 Booth:
- http://p.twipple.jp/SQ3QD
-
+ https://twitter.com/ebijun/status/886116591204683776/photo/1
+ 
 VT220 and NetBSD7 on SPARC station IPX
- http://p.twipple.jp/j3hGJ
+ https://twitter.com/ebijun/status/886041767409197058/photo/1
 
-NetBSD 2.5MB image: 
- http://github.com/user340/fdgw2
- http://p.twipple.jp/cfDYZ
+NetBSD/x68k on XM6i on NetBSD/earmv6hf on Raspberry PI3:
+ https://twitter.com/ebijun/status/886028236643225601/photo/1
+ https://twitter.com/ebijun/status/886051256367693824/photo/1
+
+NetBSD/hpcarm on WZero3 ades
+ https://twitter.com/ebijun/status/886051670953607169/photo/1
+ 
+NetBSD/earmv7hf on Netwalker
+ https://twitter.com/ebijun/status/886052033928732673/photo/1
+
+Takashi Mitsumata donates WZero3 to our booth,Thanx!
+ https://twitter.com/ebijun/status/886064057068929024/photo/1
+
+Orange Pi One
+ Starting microSD card Image for AllWinner H.
+ https://twitter.com/ebijun/status/886064623539019776/photo/1
 
 IBM Palmtop 110
- http://p.twipple.jp/Rcu6I
-
-RPI image: Xfce4.12 + mikutter + omxplayer
- http://p.twipple.jp/5l2xv
- http://p.twipple.jp/PzoiI
-
-SHARP ZAURUS
- http://p.twipple.jp/LlFVh
-
-SHARP NetWalker(earmv7hf) and Xnp2 PC98 emulator
- http://p.twipple.jp/BE1br
-
-SHARP WZero3
- http://p.twipple.jp/H5HND
-
-Stickers
-  http://p.twipple.jp/TcMd2
-
-CD-ROMS in oldies
-  http://p.twipple.jp/DfeVG
+ https://twitter.com/ebijun/status/886104196809867264/photo/1
 
 NetBSD Tourist Guide:
  https://www.soum.co.jp/~jun/OSC2017hokkaido.pdf
 
 Presentation: Making enbeded NetBSD 
  by Yuuki Enomoto 
- http://e-yuuki.org/
- http://e-yuuki.org/events/osc16do.pdf
- http://e-yuuki.org/events/osc16doLT.pdf
- http://p.twipple.jp/c8XCu
-
-Short Talk: 
- by Kenichi Fukamachi
- http://www.fml.org/
- http://p.twipple.jp/fz0Ka
+ basepkg: http://e-yuuki.org/slide/netbsd_bof.pdf
+ http://e-yuuki.org/?blog%2F20170715
+ http://e-yuuki.org/ 
+ https://twitter.com/ebijun/status/886095510515326976/photo/1
 
 Demo Images:
- RPI:
- http://mail-index.netbsd.org/port-arm/2017/06/13/msg003821.html
- http://mail-index.netbsd.org/port-arm/2017/06/17/msg003833.html
+ NetBSD Raspberry PI image 2017-07-15-netbsd-raspi-earmv6hf.img
+ http://mail-index.netbsd.org/port-arm/2017/07/13/msg004307.html
 
+ mikutter on NetBSD/earmv6hf on Raspberry Pi 2 Ver1.2
+ https://twitter.com/ebijun/status/886031708201467906/photo/1
+
+ @matoken tests his HDMI display On-Lap 2501,works well!
+ https://twitter.com/matoken/status/886348730328260608/photo/1
+ @matoken tests his USB keyboard KBC PokerX,uvm_fault on dwc2_queue_transaction
+ https://twitter.com/matoken/status/886349567335088128/photo/1
+ 
 More pictures are available on Togetter page:
- http://togetter.com/li/988853
+ http://togetter.com/li/1130009
 
 NEXT:
- OpenSourceConference 2017 Okinawa:  Jul.2 Okinawa,JAPAN
-   http://www.ospn.jp/osc2017-okinawa/
-   https://www.facebook.com/events/1589647504618848/
+ OpenSourceConference 2017 Kyoto:  Aug.4-5 Kyoto,JAPAN
+   http://www.ospn.jp/osc2017-kyoto/
+   https://www.facebook.com/events/261500270965265/
 
 TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
 ---
