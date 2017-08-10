@@ -29,6 +29,7 @@ NetBSD/luna68k 7.1
 NEC PC6001+PC6082 DataRecorder
 - Z80 processor and AY-3-8910 sound chip
 - has PSG 3 channel.
+  https://twitter.com/ebijun/status/893309622089531392
 
 Raspberry PI demonstration:
 - Demo Image:
@@ -43,13 +44,12 @@ Raspberry PI demonstration:
 - omxplayer on NetBSD/earmv6hf on RaspberryPI2
  https://twitter.com/ebijun/status/893286876676673536
 
-- Raspberry Pi 0/1/2/3
+- NetBSD supports Raspberry Pi 0/1/2/3
   RPI0:  https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv6hf/RPI0
   RPI0W: https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv6hf/RPI0W
   RPI :  https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv6hf/RPI
   RPI2:  https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv6hf/RPI2
   RPI3:  https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv6hf/RPI3
-
 
 NetBSD Tourist Guide:
  https://www.soum.co.jp/~jun/OSC2017kyoto.pdf
