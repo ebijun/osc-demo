@@ -17,6 +17,7 @@ PSG means Programable Sound Generator.
 With syncing PC-6001 Joystick port -> LUNA serial port,
 2 computers sing Chiptune orchestration as they have 6 voices.
 
+ https://speakerdeck.com/tsutsui/
  https://twitter.com/ebijun/status/893311703793909760
 
 NetBSD/luna68k 7.1 
