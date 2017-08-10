@@ -8,25 +8,42 @@ at the Open Source Conference 2017 Kyoto on Aug. 4-5 2017:
  https://www.facebook.com/NetBSD.jp/
  https://www.facebook.com/events/261500270965265/
 
+Booth:
+ https://twitter.com/ebijun/status/893674870680068097
+
 PC-6001 x LUNA Dual PSG Demo by tsutsui@
 
 PSG means Programable Sound Generator.
 With syncing PC-6001 Joystick port -> LUNA serial port,
 2 computers sing Chiptune orchestration as they have 6 voices.
 
+ https://twitter.com/ebijun/status/893311703793909760
+
 NetBSD/luna68k 7.1 
 - LUNA has Z80 sub-processor and YM2149 sound chip
 - porting PSG Z80 sound driver for PC6001 to NetBSD/luna68k
   LUNA PSG support code http://twitter.com/tsutsuii/status/759793635898515456 
 - has PSG 3 channel.
+  https://twitter.com/ebijun/status/893636996773552128
 
 NEC PC6001+PC6082 DataRecorder
 - Z80 processor and AY-3-8910 sound chip
 - has PSG 3 channel.
 
-Others 
-- Raspberry Pi 0/1/2/3
+Raspberry PI demonstration:
+- Demo Image:
   http://mail-index.netbsd.org/port-arm/2017/08/02/msg004344.html
+
+- NetBSD/x68k on XM6i on NetBSD/earmv6hf on RaspberryPI3
+ https://twitter.com/ebijun/status/893276827464028160
+
+- mikutter and Xfce4 on NetBSD/earmv6hf on RaspberryPI2
+ https://twitter.com/ebijun/status/893292397274177536
+
+- omxplayer on NetBSD/earmv6hf on RaspberryPI2
+ https://twitter.com/ebijun/status/893286876676673536
+
+- Raspberry Pi 0/1/2/3
   RPI0:  https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv6hf/RPI0
   RPI0W: https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv6hf/RPI0W
   RPI :  https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv6hf/RPI
@@ -37,14 +54,20 @@ Others
 NetBSD Tourist Guide:
  https://www.soum.co.jp/~jun/OSC2017kyoto.pdf
 
-
 More pictures are available on Togetter page:
  https://togetter.com/li/1136708
 
+Booth Donation:
+- LUNA Documentations by Tomoko Yoshida 
+  https://twitter.com/ebijun/status/893274276597424128
+- mastdon Akane stickers and Oosu Uiro by @shimadah
+  https://twitter.com/ebijun/status/893278280471719936
+  https://twitter.com/ebijun/status/893262860536524800
+
 NEXT:
- Open Source Conference 2017 Shimane:  Sep.24 Shimane,JAPAN
-    http://www.ospn.jp/osc2017-shimane/
-    https://www.facebook.com/events/1719665944982026/
+ Open Source Conference 2017 Chiba:  Sep.2 Chiba,JAPAN
+    http://www.ospn.jp/osc2017-chiba/
+    https://www.facebook.com/events/817081148458593/
 
 TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
 ---
