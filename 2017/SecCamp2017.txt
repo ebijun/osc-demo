@@ -36,6 +36,7 @@ Aug. 16 2017 13:30-17:30 ,Fuchu , Tokyo, Japan:
 
 4. Extract NetBSD-current src.tar.gz
 - cd /usr
+- ftp http://cdn.netbsd.org/pub/NetBSD/NetBSD-current/tar_files/src.tar.gz
 - tar xzvf src.tar.gz
 
 5. Build Cross Compiling toolchain
