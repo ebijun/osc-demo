@@ -74,7 +74,8 @@ Everything You Always Wanted to Know About Pax
 11. diff 20170715.dmesg 20170816.dmesg
 
 - sdhost enabled, Bluetooth online via sdhost
-- boot failed on RPI2 with 20170816 RPI2 kernel,and why it failed?
+- boot failed on RPI2 with 20170816 RPI2 kernel
+- imagine why it failed?,but I'm not the only one
 - disable sdhost and enable sdhc,and re-build kernel7.img
 - RPI2 boot
 - fixed with
