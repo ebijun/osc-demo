@@ -81,8 +81,12 @@ Everything You Always Wanted to Know About Pax
 - fixed with
 http://mail-index.netbsd.org/source-changes/2017/08/16/msg087427.html
 
-12. How to make Imagefile
+12. How to make RPI Imagefile - loin du sysinst
 - https://github.com/ebijun/NetBSD/blob/master/RPI/RPIimage/Image/Makefile
+- build packages
+- add packages
+- add configration files
+- check packages with mikutter
  
 Time UP!
 
