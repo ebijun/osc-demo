@@ -4,7 +4,7 @@ Subject: NetBSD workshop at SecurityCamp 2017
 I make a NetBSD workshop 4 hours timeslot in SecurityCamp 2017.
 Aug. 16 2017 13:30-17:30 ,Fuchu , Tokyo, Japan:
 
- http://www.slideshare.net/junebihara18/netbsdworkshop
+ http://www.slideshare.net/junebihara18/netbsd-workshop
  https://www.soum.co.jp/~jun/SecCamp2017.pdf
  https://www.ipa.go.jp/jinzai/camp/2017/zenkoku2017_jikanwari.html
  https://www.facebook.com/events/458264907843193
