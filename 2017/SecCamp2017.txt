@@ -107,6 +107,6 @@ NEXT:
    https://www.facebook.com/events/1970719779814048/
 
 
-TUNE IN NEXT NetBSD,Same NetBSD-time,Samncee NetBSD-channel.
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
 ---
 Jun Ebihara
