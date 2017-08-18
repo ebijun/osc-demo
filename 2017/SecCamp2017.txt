@@ -73,11 +73,11 @@ Everything You Always Wanted to Know About Pax
 
 11. diff 20170715.dmesg 20170816.dmesg
 
-- sdhost enabled, BT online via sdhost
-- boot failed on RPI2 with 20170816 RPI2 kernel,and why?
+- sdhost enabled, Bluetooth online via sdhost
+- boot failed on RPI2 with 20170816 RPI2 kernel,and why it failed?
 - disable sdhost and enable sdhc,and re-build kernel7.img
 - RPI2 boot
-- fix with
+- fixed with
 http://mail-index.netbsd.org/source-changes/2017/08/16/msg087427.html
 
 12. How to make Imagefile
