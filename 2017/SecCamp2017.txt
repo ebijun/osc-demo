@@ -1,0 +1,106 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD workshop at SecurityCamp 2017
+
+I make a NetBSD workshop 4 hours timeslot in SecurityCamp 2017.
+Aug. 16 2017 13:30-17:30 ,Fuchu , Tokyo, Japan:
+
+ http://www.slideshare.net/junebihara18/netbsdworkshop
+ https://www.soum.co.jp/~jun/SecCamp2017.pdf
+ https://www.ipa.go.jp/jinzai/camp/2017/zenkoku2017_jikanwari.html
+ https://www.facebook.com/events/458264907843193
+ https://www.facebook.com/NetBSD.jp/
+
+1. Hardware boot demonstrations - we all live in a one source tree.
+
+- evbarm: NetWalker OrangePi KOBO
+   https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv7hf/NETWALKER
+   https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv7hf/OrangePi_One
+- evbmips: WRH-300CRWH
+  https://github.com/ebijun/NetBSD/blob/master/dmesg/evbmips/WRH-300CR
+- hpcmips: Sigmarion II
+   https://github.com/ebijun/NetBSD/blob/master/dmesg/hpcmips/sigmarion2
+- hpcarm: WZERO3 WZERO3 ades
+   https://github.com/ebijun/NetBSD/blob/master/dmesg/hpcarm/WS004SH
+   https://github.com/ebijun/NetBSD/blob/master/dmesg/hpcarm/WS011SH
+- hpcsh:  HP Jornada 690
+- RaspberryPI3/2/2Ver1.2/1/0/0W
+  RPI0 : https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv6hf/RPI0
+  RPI0W: https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv6hf/RPI0W
+  RPI  : https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv6hf/RPI
+  RPI2 : https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv6hf/RPI2
+  RPI3 : https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv6hf/RPI3
+
+2. Install NetBSD/amd64 7.1 on VirtualBox 
+- Windows 10 on Thinkpad
+- boot NetBSD 7.1/amd64
+
+4. Extract NetBSD-current src.tar.gz
+- cd /usr
+- tar xzvf src.tar.gz
+
+5. Build Cross Compiling toolchain
+- ./build.sh -j 6 -u -U -m evbarm -a earmv6hf tools
+
+6. Install NetBSD/earmv6hf on RPI3
+- RPI image for OSC2017hokkaido
+  http://cdn.netbsd.org/pub/NetBSD/misc/jun/raspberry-pi/2017-07-15-earmv6hf/
+- Use rawrite32.exe to write microSD Card.
+  https://www.netbsd.org/~martin/rawrite32/download.html
+- boot
+- resize partition: wait 10min for fit 16GB sdcard.
+
+7. Build RPI kernel on NetBSD/amd64
+- ./build.sh -j 6 -u -U -m evbarm -a earmv6hf kernel=RPI2
+
+8. Play RPI as you are
+- startx
+- mikutter
+--  mikutter start failed!
+
+know your rights:
+Everything You Always Wanted to Know About Pax
+  http://www.netbsd.org/gallery/presentations/msaitoh/2017_BSDCan/BSDCan2017-NetBSD.pdf
+
+9. Play again
+- mikutter
+
+ tweets and more pics on Togetter:
+ https://togetter.com/li/1140652
+
+10. Copy own-build kernel to RPI
+- netbsd.bin to /boot/kernel7.img and boot
+- with a little luck,-current kernel boot with no problem!
+
+11. diff 20170715.dmesg 20170816.dmesg
+
+- sdhost enabled, BT online via sdhost
+- boot failed on RPI2 with 20170816 RPI2 kernel,and why?
+- disable sdhost and enable sdhc,and re-build kernel7.img
+- RPI2 boot
+- fix with
+http://mail-index.netbsd.org/source-changes/2017/08/16/msg087427.html
+
+12. How to make Imagefile
+- https://github.com/ebijun/NetBSD/blob/master/RPI/RPIimage/Image/Makefile
+ 
+Time UP!
+
+Thanx for all 9 participants younger than dreamcast,
+
+and supported great tutors @linare530 and Takahiro KUSHIDA.
+and Toshifumi Nishinaga http://tatsu-zine.com/books/raspi-bm
+and Mitsuyuki Komata
+ http://blogs.itmedia.co.jp/komata/2017/08/ipa2017.html
+
+NEXT:
+ Open Developers Conference 2017 Tokyo:  Aug.19 2017 Tokyo,JAPAN
+   https://www.ospn.jp/odc2017/
+   https://www.ospn.jp/odc2017/modules/eventrsv/?id=1&noform=1
+   NetBSD BOF Aug 19 2017 16:00-16:45
+    https://www.ospn.jp/odc2017/modules/eguide/event.php?eid=5
+   https://www.facebook.com/events/1970719779814048/
+
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Samncee NetBSD-channel.
+---
+Jun Ebihara
