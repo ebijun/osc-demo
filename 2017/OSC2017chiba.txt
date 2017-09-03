@@ -1,0 +1,53 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2017 Chiba
+
+The Japan NetBSD Users' Group members held booth
+at the Open Source Conference 2017 Chiba on Sep. 2 2017:
+
+ http://www.ospn.jp/osc2017-chiba/
+ https://www.facebook.com/NetBSD.jp/
+ https://www.facebook.com/events/817081148458593/
+
+Booth:
+ https://twitter.com/ebijun/status/903828366058336256
+
+NanoPi demonstration:
+- Demo Image:
+  http://mail-index.netbsd.org/port-arm/2017/09/01/msg004384.html
+  https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv7hf/NanoPi_NEO
+  https://twitter.com/ebijun/status/903820162717032448
+
+Raspberry PI demonstration:
+- Demo Image:
+  http://mail-index.netbsd.org/port-arm/2017/09/01/msg004383.html
+
+- NetBSD/x68k on XM6i on NetBSD/earmv6hf on RaspberryPI3
+  https://twitter.com/ebijun/status/903800591339577344
+
+- Xfce4 on NetBSD/earmv6hf on RaspberryPI2
+- omxplayer on NetBSD/earmv6hf on RaspberryPI2
+
+- NetBSD supports Raspberry Pi 0/1/2/3
+  RPI0:  https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv6hf/RPI0
+  RPI0W: https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv6hf/RPI0W
+  RPI :  https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv6hf/RPI
+  RPI2:  https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv6hf/RPI2
+  RPI3:  https://github.com/ebijun/NetBSD/blob/master/dmesg/earmv6hf/RPI3
+
+NetBSD Tourist Guide:
+ https://www.soum.co.jp/~jun/OSC2017chiba.pdf
+
+More pictures are available on Togetter page:
+ https://togetter.com/li/1146818
+
+NEXT:
+ Open Source Conference 2017 Tokyo/Fall:  Sep.9-10 Chiba,JAPAN
+  https://www.ospn.jp/osc2017-fall/
+  https://www.facebook.com/events/957848774357888/
+    
+  BSDBOF Sep.10 11:00-11:45 JST
+  https://www.ospn.jp/osc2017-fall/modules/eguide/event.php?eid=4
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
