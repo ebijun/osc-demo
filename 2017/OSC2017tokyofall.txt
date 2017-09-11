@@ -1,0 +1,53 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2017 Tokyo/Fall
+
+The Japan NetBSD Users' Group members held booth
+at the Open Source Conference 2017 Tokyo/Fall on Sep. 9-10 2017:
+
+ https://www.ospn.jp/osc2017-fall/
+ https://www.facebook.com/events/957848774357888
+ https://www.facebook.com/NetBSD.jp/
+
+Booth:
+ https://twitter.com/ebijun/status/906339269769179137
+
+NetBSD Tourist Guide:
+ https://www.soum.co.jp/~jun/OSC2017tokyofall.pdf
+
+The NetBSD booth exhibited the following machines:
+
+RPI3+XM6i+NetBSD/x68k:
+ http://p.twipple.jp/JE8XI
+ 
+RPI2+omxplayer:
+ http://p.twipple.jp/N0pWY
+
+NetWalker:
+ http://p.twipple.jp/yqbXx
+
+WZERO3:
+ http://p.twipple.jp/w2wLg
+
+GPDWIN:
+ http://p.twipple.jp/QiXVi
+
+BSD Cookies:
+ http://p.twipple.jp/y1UZP
+
+Demo Images:
+   http://mail-index.netbsd.org/port-arm/2017/03/08/msg004111.html
+
+More pictures are available on Togetter page:
+  https://togetter.com/li/1089005
+
+Continuing story: AsiaBSDCon2017 
+
+Thanx NetBSD developers, I hope you enjoy OSC2017Tokyo/spring.
+ http://p.twipple.jp/C6S7q
+
+Thanx Nagoya *BSD Users' Group staff (Noda-san/Iwase-san),
+ to support the booth.
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
