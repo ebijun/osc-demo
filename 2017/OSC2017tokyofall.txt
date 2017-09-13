@@ -16,37 +16,68 @@ NetBSD Tourist Guide:
 
 The NetBSD booth exhibited the following machines:
 
-RPI3+XM6i+NetBSD/x68k:
- http://p.twipple.jp/JE8XI
- 
-RPI2+omxplayer:
- http://p.twipple.jp/N0pWY
+mikutter on OrangePi One NetBSD/earmv7hf:
+ https://twitter.com/ebijun/status/906414153824296960
 
-NetWalker:
- http://p.twipple.jp/yqbXx
+Nano Pi NetBSD/earmv7hf
+OrangePi2 NetBSD/earmv7hf
+ https://twitter.com/ebijun/status/906327873421582338
 
-WZERO3:
- http://p.twipple.jp/w2wLg
+NetBSD/x68k on XM6i on NetBSD/earmv6hf on Raspberry Pi3
+ https://twitter.com/ebijun/status/906336739236601863
 
-GPDWIN:
- http://p.twipple.jp/QiXVi
+WZero3 NetBSD/hpcarm:
+ https://twitter.com/ebijun/status/906380317820203008
+
+OrangePi R1:
+ https://twitter.com/SRCHACK/status/907042739841261568
+
+BananaPI BP1-M2 Berry:
+ https://twitter.com/ebijun/status/906359909507141632
+
+PocketChip
+ https://twitter.com/ebijun/status/906402998972067840
+
+PINE64
+ https://twitter.com/ebijun/status/906754753949925376
+
+Ohgami's Commentary on OS5
+ https://twitter.com/yohgami/status/906322121822945280
+ https://twitter.com/ebijun/status/906385514445496320
 
 BSD Cookies:
- http://p.twipple.jp/y1UZP
+ https://twitter.com/ebijun/status/906640425758318592
+
+Steckers
+ https://twitter.com/tristelo/status/906799946963107842 
 
 Demo Images:
-   http://mail-index.netbsd.org/port-arm/2017/03/08/msg004111.html
+ RaspberryPi 0-3 NetBSD/earmv6hf
+  http://mail-index.netbsd.org/port-arm/2017/09/01/msg004383.html
+ NanoPi and RaspberryPi 2-3 NetBSD/earmv7hf
+  http://mail-index.netbsd.org/port-arm/2017/09/01/msg004384.html
+ OrangePi One and RaspberryPi 2-3 NetBSD/earmv7hf
+  http://mail-index.netbsd.org/port-arm/2017/09/12/msg004393.html
+
+Booth donation:
+
+Suzume-Odori Uiro by @shimadah
+ https://twitter.com/ebijun/status/906319957406793728
+
+NetBSD/earmv7hf evalution board named KOBO by @AkkieSoft
+ https://twitter.com/ebijun/status/906334687764738048
+
+Stecker
+ https://twitter.com/ebijun/status/906714102407479296
 
 More pictures are available on Togetter page:
-  https://togetter.com/li/1089005
+ https://togetter.com/li/1148810
 
-Continuing story: AsiaBSDCon2017 
-
-Thanx NetBSD developers, I hope you enjoy OSC2017Tokyo/spring.
- http://p.twipple.jp/C6S7q
-
-Thanx Nagoya *BSD Users' Group staff (Noda-san/Iwase-san),
- to support the booth.
+NEXT:
+ Open Source Conference 2017 Fukuoka:  Oct.7 Fukuoka,JAPAN
+    http://www.ospn.jp/osc2017-fukuoka/
+    https://www.facebook.com/NetBSD.jp/
+    https://www.facebook.com/events/1918299341792306/
 
 TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
 ---
