@@ -1,0 +1,47 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2017 Fukuoka
+
+The Japan NetBSD Users' Group members held booth
+at the Open Source Conference 2017 Fukuoka on Oct. 7 2017:
+
+ http://www.ospn.jp/osc2017-fukuoka/
+ http://www.jp.NetBSD.org/
+ https://www.facebook.com/NetBSD.jp/
+ https://www.facebook.com/events/817081148458593/
+
+Booth:
+ https://twitter.com/ebijun/status/917952752004878336
+  
+NetBSD Fukuoka travel guide:
+ http://www.re.soum.co.jp/~jun/OSC2017fukuoka.pdf
+ https://github.com/ebijun/osc-demo
+
+The NetBSD booth exhibited the following machines:
+
+- Updating RPI image:
+  https://github.com/ebijun/NetBSD/blob/master/Guide/RPI/RPIupdate2017.rst
+
+- Running NetBSD/x68k on XM6i with Raspberry PI3 NetBSD/earmv6hf
+  https://twitter.com/ebijun/status/916497302037999616
+
+  RPI0/RPI/RPI2/RPI3 NetBSD/earmv6hf image:
+  http://mail-index.netbsd.org/port-arm/2017/10/03/msg004402.html
+
+- OrangePi One NetBSD/earmv7hf
+  https://twitter.com/ebijun/status/916520380646309888
+
+  OrangePi One and RPI2/3 NetBSD/earmv7hf image:
+  http://mail-index.netbsd.org/port-arm/2017/09/12/msg004393.html
+
+More pictures are available on Togetter page:
+  https://togetter.com/li/1158733
+ 
+NEXT:
+ OSC2017 Shimane: Oct.14 Shimane,JAPAN
+  http://www.ospn.jp/osc2017-shimane/ 
+  https://www.facebook.com/NetBSD.jp/events
+  https://www.facebook.com/events/384060418655929/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
