@@ -1,0 +1,60 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2017 Shimane
+
+The Japan NetBSD Users' Group held booth
+at the Open Source Conference 2017 Shimane on Oct.14 2017:
+
+ http://www.ospn.jp/osc2017-shimane/
+ https://www.facebook.com/events/384060418655929/
+ https://www.facebook.com/NetBSD.jp/
+
+NetBSD Tourist Guide:
+ https://www.re.soum.co.jp/~jun/OSC2017shimane.pdf
+
+Booth:
+ https://twitter.com/ebijun/status/919015006938718208
+
+The NetBSD booth exhibited the following machines:
+
+SONY NEWS NWS-5000SB NetBSD/newsmips by @n12i
+ https://twitter.com/ebijun/status/918994385785647104
+ https://github.com/ebijun/NetBSD/blob/master/dmesg/newsmips/NEWS5000
+ 7.99.32 boot.
+ 7.99.34 boot failed.
+
+NEC PC9821 Nr13 with PANIX and FreeBSD by @n12i
+ https://twitter.com/ebijun/status/918994385785647104
+
+COMPAQ CONTURA AERO 4/33C NetBSD7 by @shimadah
+ https://twitter.com/ebijun/status/919034074102087680
+ http://dmesgd.nycbug.org/index.cgi?do=view&id=3357
+ 
+XM6i on Windows7 by isaki@
+ https://twitter.com/ebijun/status/919018331163652096
+
+Raspberry PI3 running NetBSD/x68k with XM6i emulator.
+ https://twitter.com/ebijun/status/919005605511045120 
+
+Raspberry PI2 running FreeBSD 11.1R by @n12i
+ http://dmesgd.nycbug.org/index.cgi?do=view&id=3359
+
+BananaPi with SUNXI kernel
+ http://mail-index.netbsd.org/port-arm/2017/10/07/msg004405.html
+ http://dmesgd.nycbug.org/index.cgi?do=view&id=3358
+
+many thanx to 
+ Hiroyuki Nakaji,Shuji Mochida,https://opencocon.org/,XM6i.org
+
+Demo Images:
+
+More pictures are available on Togetter page:
+  https://togetter.com/li/1160781
+
+NEXT:
+ Open Source Conference 2017 Nagaoka:  Oct.1 Nagaoka,JAPAN
+    http://www.ospn.jp/osc2017-nagaoka/
+    https://www.facebook.com/events/304865093311472/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
