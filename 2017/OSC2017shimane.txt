@@ -46,6 +46,8 @@ many thanx to
  Hiroyuki Nakaji,Shuji Mochida,https://opencocon.org/,XM6i.org
 
 Demo Images:
+ Banana Pi Testing
+ http://mail-index.netbsd.org/port-arm/2017/10/16/msg004410.html
 
 More pictures are available on Togetter page:
   https://togetter.com/li/1160781
