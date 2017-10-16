@@ -17,7 +17,7 @@ Booth:
 The NetBSD booth exhibited the following machines:
 
 SONY NEWS NWS-5000SB NetBSD/newsmips by @n12i
- https://twitter.com/ebijun/status/918994385785647104
+ https://twitter.com/ebijun/status/918993560757682176
  https://github.com/ebijun/NetBSD/blob/master/dmesg/newsmips/NEWS5000
  7.99.32 boot.
  7.99.34 boot failed.
