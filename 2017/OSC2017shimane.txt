@@ -43,7 +43,7 @@ BananaPi with SUNXI kernel
  http://dmesgd.nycbug.org/index.cgi?do=view&id=3358
 
 many thanx to 
- Hiroyuki Nakaji,Shuji Mochida,https://opencocon.org/,XM6i.org
+ Hiroyuki Nakaji,Shuji Mochida,http://opencocon.org/,XM6i.org
 
 Demo Images:
  Banana Pi Testing
