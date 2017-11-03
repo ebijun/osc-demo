@@ -22,6 +22,7 @@ Demonstaration setting for NetBSD Booth
  表紙はイラストレータ、裏表紙はscribus、本文はSphinxを使っています。
  それぞれについて、pdf出力したものをpdfshufflerで組み合わせています。
 
+ 117.  KOF2017    http://www.re.soum.co.jp/~jun/KOF2017.pdf
  116.  OSC2017長岡 http://www.re.soum.co.jp/~jun/OSC2017nagaoka.pdf
  115.  OSC2017島根 http://www.re.soum.co.jp/~jun/OSC2017shimane.pdf
  114.  OSC2017福岡 http://www.re.soum.co.jp/~jun/OSC2017fukuoka.pdf
