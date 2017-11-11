@@ -22,6 +22,7 @@ The NetBSD booth exhibited the following machines:
  MC68030 20MHz 1280x1024x16colors 
  YM2194 3 sounds SSG
  Twitter Timeline with pkgsrc/net/sayaka + pkgsrc/x11/mlterm:mlterm-fb
+  https://twitter.com/tsutsuii/status/928834129155694592
   https://twitter.com/tsutsuii/status/929165166532427776
 
 - Running NetBSD/x68k on XM6i with Raspberry PI3 NetBSD/earmv6hf
