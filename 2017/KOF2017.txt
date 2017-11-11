@@ -1,0 +1,66 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at KANSAI OPEN FORUM 2017
+
+The Japan NetBSD Users' Group members held booth
+at the KANSAI OPEN FORUM 2017 on Nov. 10-11 2017:
+
+ http://k-of.jp/
+ http://www.jp.NetBSD.org/
+ https://www.facebook.com/events/1639249286137922/
+ https://www.facebook.com/NetBSD.jp/
+
+Booth:
+ https://twitter.com/tsutsuii/status/929196452252758016
+
+BSD BOF
+- NetBSD 'Teokure" LiveImage Updates and NetBSD 8.0
+ https://speakerdeck.com/tsutsui/
+
+The NetBSD booth exhibited the following machines:
+
+- OMRON LUNA NetBSD/luna68k NetBSD 7.1
+ MC68030 20MHz 1280x1024x16colors 
+ YM2194 3 sounds SSG
+ Twitter Timeline with pkgsrc/net/sayaka + pkgsrc/x11/mlterm:mlterm-fb
+  https://twitter.com/tsutsuii/status/929165166532427776
+
+- Running NetBSD/x68k on XM6i with Raspberry PI3 NetBSD/earmv6hf
+ https://twitter.com/ebijun/status/928828638342012928
+
+- Raspberry Pi2 Xfce4+mikutter
+ https://twitter.com/ebijun/status/928828638342012928
+
+Working In Progress:
+ PocketChip,BananaPi,NanoPi neo/neo2
+ https://twitter.com/ebijun/status/929170323634774017
+
+- stickers (NetBSD,mikutter,and various characters)
+ https://twitter.com/ebijun/status/928828638342012928
+  
+- Junk-Do book store NetBSD booth recomendation:
+Book Recommendations:
+ https://k-of.jp/2017/session/1067
+ https://honto.jp/netstore/pd-book_28654677.html
+ https://honto.jp/netstore/pd-book_28488706.html
+  https://honto.jp/netstore/pd-book_28429933.html
+
+Raspberry Pi running updated 2017-11-12-netbsd-raspi.img image:
+ http://mail-index.netbsd.org/port-arm/2017/11/06/msg004432.html
+
+More pictures are available on Togetter page:
+  http://mail-index.netbsd.org/port-arm/2017/11/06/msg004432.html
+ 
+NEXT:
+ Open Source Conference 2017 Hiroshima: Nov.26 HIROSHIMA,JAPAN
+  http://www.ospn.jp/osc2017-hiroshima/ 
+  https://www.facebook.com/NetBSD.jp/events
+  https://www.facebook.com/events/1294007417314704/
+
+and
+ "Reporting the current status of world wide IPv6 deployment and 
+ progress to itojun": Nov.27 TOKYO JAPAN
+ http://v6reporttoitojun.jp/index.html.en
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
