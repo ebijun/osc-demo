@@ -14,7 +14,7 @@ Booth:
 
 BSD BOF
 - NetBSD 'Teokure" LiveImage Updates and NetBSD 8.0
- https://speakerdeck.com/tsutsui/
+ https://speakerdeck.com/tsutsui/kof2017
 
 The NetBSD booth exhibited the following machines:
 
