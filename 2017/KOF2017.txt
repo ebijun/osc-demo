@@ -4,7 +4,7 @@ Subject: NetBSD machines at KANSAI OPEN FORUM 2017
 The Japan NetBSD Users' Group members held booth
 at the KANSAI OPEN FORUM 2017 on Nov. 10-11 2017:
 
- http://k-of.jp/
+ https://k-of.jp/2017/
  http://www.jp.NetBSD.org/
  https://www.facebook.com/events/1639249286137922/
  https://www.facebook.com/NetBSD.jp/
@@ -26,10 +26,11 @@ The NetBSD booth exhibited the following machines:
   https://twitter.com/tsutsuii/status/929165166532427776
 
 - Running NetBSD/x68k on XM6i with Raspberry PI3 NetBSD/earmv6hf
- https://twitter.com/ebijun/status/928828638342012928
+ https://twitter.com/ebijun/status/928816750396809217
+ https://twitter.com/tsutsuii/status/929248070155382784
 
-- Raspberry Pi2 Xfce4+mikutter
- https://twitter.com/ebijun/status/928828638342012928
+- Raspberry Pi2 NetBSD/earmv7hf Xfce4+mikutter
+ https://twitter.com/ebijun/status/929154761076518912
 
 Working In Progress:
  PocketChip,BananaPi,NanoPi neo/neo2
@@ -49,7 +50,7 @@ Raspberry Pi running updated 2017-11-12-netbsd-raspi.img image:
  http://mail-index.netbsd.org/port-arm/2017/11/06/msg004432.html
 
 More pictures are available on Togetter page:
-  http://mail-index.netbsd.org/port-arm/2017/11/06/msg004432.html
+ https://togetter.com/li/1170068
  
 NEXT:
  Open Source Conference 2017 Hiroshima: Nov.26 HIROSHIMA,JAPAN
@@ -61,6 +62,16 @@ and
  "Reporting the current status of world wide IPv6 deployment and 
  progress to itojun": Nov.27 TOKYO JAPAN
  http://v6reporttoitojun.jp/index.html.en
+
+ http://www.netbsd.org/~soda/ipa2010.pdf page 18-24.
+ https://github.com/NetBSD/src/commit/fc3cbda3bb45db49faa8b297bb2156f958f996e0
+ https://github.com/NetBSD/src/commit/8497c0ec171b8bfb275d79321439a3e90f99b87f
+ https://github.com/search?q=org%3ANetBSD+itojun&type=Code
+
+ Since Jul2,1999,IPv6 history remains in getaddrinfo.
+  https://github.com/NetBSD/src/commits/trunk?after=f1361d325a7f453df313d391a4a3cfeecd5d0714+104&path[]=lib&path[]=libc&path[]=net&path[]=getaddrinfo.c
+  http://mail-index.netbsd.org/tech-userlevel/2017/10/24/msg010919.html
+ "Revolution - Evolution - Devolution." - RED by PANTA.
 
 TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
 ---
