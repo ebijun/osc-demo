@@ -1,0 +1,60 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2017 Hiroshima
+
+The Japan NetBSD Users' Group and XM6i Team members held booth
+at the Open Source Conference 2017 Hiroshima on Nov.26 2017:
+
+ http://www.ospn.jp/osc2017-hiroshima/
+ https://www.facebook.com/events/1294007417314704/
+ http://www.jp.NetBSD.org/
+ https://www.facebook.com/NetBSD.jp/
+
+Presentation:
+ Sound! NetBSD by isaki@
+   http://www.pastel-flower.jp/~isaki/osc17hi/
+  
+Booth:
+ https://twitter.com/ebijun/status/934655335066828802
+
+NetBSD/x68k + Audio Framework kernel by XM6i.org
+ https://twitter.com/ebijun/status/934606681593413633
+
+Donation request for XM6i: MC68060 RC75 Rev5 CPU for support 68060
+
+1: X68030 (68030/30MHz,12MB)
+2: X68060 (68060/50MHz mode,mem 128MB: 68030 mode 68030/25MHz,12MB)
+ https://twitter.com/ebijun/status/934595329604718592
+
+XM6i X68030 emulator 
+  http://www.pastel-flower.jp/~isaki/XM6i/
+
+1. NetBSD/x68k on Windows 10
+  https://twitter.com/ebijun/status/934607775174246400  
+2. NetBSD/x68k on Windows 7
+  https://twitter.com/ebijun/status/934607363364941824
+3. NetBSD/x68k on Raspberry 3 NetBSD/earmv7hf
+  https://twitter.com/ebijun/status/934591795090006017
+
+NEC PC6001 by tsutsuii
+- PC6001+PC6082 
+ https://twitter.com/ebijun/status/934598422656516097
+- PC6001VX on NetBSD/i386 7.1 audio demo
+ https://twitter.com/ebijun/status/934597507186769920
+ 
+NetBSD Tourist Guide:
+ https://www.soum.co.jp/~jun/OSC2017hiroshima.pdf
+
+Demo Images:
+ RPI:
+  http://mail-index.netbsd.org/port-arm/2017/11/21/msg004455.html
+
+More pictures are available on Togetter page:
+ https://togetter.com/li/1175260
+
+NEXT:
+ Open Source Conference 2018 Osaka:  Jan.26-27 Osaka,JAPAN
+    http://www.ospn.jp/osc2017-osaka/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
