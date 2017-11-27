@@ -42,7 +42,7 @@ NEC PC6001 by tsutsui@
  https://twitter.com/ebijun/status/934597507186769920
  
 NetBSD Tourist Guide:
- https://www.re.soum.co.jp/~jun/OSC2017hiroshima.pdf
+ http://www.re.soum.co.jp/~jun/OSC2017hiroshima.pdf
 
 Demo Images:
  RPI:
