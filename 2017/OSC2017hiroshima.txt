@@ -35,14 +35,14 @@ XM6i X68030 emulator
 3. NetBSD/x68k on Raspberry 3 NetBSD/earmv7hf
   https://twitter.com/ebijun/status/934591795090006017
 
-NEC PC6001 by tsutsuii
+NEC PC6001 by tsutsui@
 - PC6001+PC6082 
  https://twitter.com/ebijun/status/934598422656516097
 - PC6001VX on NetBSD/i386 7.1 audio demo
  https://twitter.com/ebijun/status/934597507186769920
  
 NetBSD Tourist Guide:
- https://www.soum.co.jp/~jun/OSC2017hiroshima.pdf
+ https://www.re.soum.co.jp/~jun/OSC2017hiroshima.pdf
 
 Demo Images:
  RPI:
