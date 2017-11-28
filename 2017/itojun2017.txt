@@ -1,0 +1,106 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: Reporting the current status of world wide IPv6 deployment and progress to itojun
+
+After "IPv6 Summit in TOKYO 2017" http://www.jp.ipv6forum.com/timetable/ ,
+related a social gathering held called
+
+ "Reporting the current status of world wide IPv6 deployment and 
+ progress to itojun": Nov.27 TOKYO JAPAN
+ http://v6reporttoitojun.jp/index.html.en
+
+I make a talk about itojun,have a good time with 80 attendances.
+
+- In Jan.17 1989(aka Heisei 1),Jun Murai connected TCP/IP between US-JP.
+  The History of TCP/IP network in Japan start Heisei 1 (29years old)
+
+- In Jul.2  1999(aka Heisei 10),Hagino -itojun- Jun-ichiro commited IPv6 code to NetBSD.
+  The History of IPv6 network in Japan almost start 2000 (18 years old)
+
+- getaddrinfo.c - Find out the essence of IPv6 implimenation 
+  https://github.com/NetBSD/src/commits/trunk?after=f1361d325a7f453df313d391a4a3cfeecd5d0714+104&path[]=lib&path[]=libc&path[]=net&path[]=getaddrinfo.c
+
+- getaddrinfo(3) on numerical addresses
+  http://mail-index.netbsd.org/tech-userlevel/2017/10/24/msg010919.html 
+
+   "I've noticed[*] that on NetBSD, getaddrinfo(3) does a resolver lookup even 
+if presented a numerical address. Is this on purpose? Would it have a 
+drawback if it would first try to inet_pton() the address?
+On Linux, it seems to avoid the resolver lookup."
+  See the thread,Tatsuya Jinmei follow-ups.
+
+- NetBSD source tree keep up with itojun's code and commit messages.
+
+ http://www.netbsd.org/~soda/ipa2010.pdf page 18-24.
+  1st NetBSD core@ from Japan.
+  C    132674 lines
+  pkgsrc 4049 lines
+  htdocs 3459 lines
+
+- Default itojuns responsibilities to core by spz@ Mar.21 2008
+ https://github.com/NetBSD/src/commit/fc3cbda3bb45db49faa8b297bb2156f958f996e0
+  ping6,tcpdump,citrus,pcap,kame/ipv6,pf,evbsh3,mmeye
+
+ spz@ gives kindly message to this event.thanx!
+ https://twitter.com/ebijun/status/935074845020192771
+
+- Update responsibilities, removing itojun by wiz@ Nov.17 2007
+ https://github.com/NetBSD/src/commit/8497c0ec171b8bfb275d79321439a3e90f99b87f
+  bind,citrus,gettext,KAME Project,tcpdump,porcupine,OpenSSL,OpenBSD,tcpdump
+
+- Languages
+ https://github.com/search?q=org%3ANetBSD+itojun&type=Code
+ C,Roff,C++,Makefile,Perl,HTML,Yacc,Lex,M4Sugar,Perl6
+
+- Last presentation in OpenSourceConference 2007 Tokyo/Fall
+  http://www.itojun.org/paper/itojun-200710-ospn-tokyo/
+  http://www.itojun.org/paper/itojun-200710-daum-lycos-keynote/
+
+  Japan NetBSD Users' Group held boot at the Open Source Confernce 2007 Tokyo/Fall.
+  I introduced @oshimyja's NetBSD/X68030 to itojun.
+
+  Japan NetBSD Users' Group held boot at the Open Source Confernce 2017 Hiroshima in last week.
+  displayed NetBSD/X68030.
+
+  http://mail-index.netbsd.org/netbsd-advocacy/2017/11/27/msg000752.html
+  Sound! NetBSD by isaki@
+  http://www.pastel-flower.jp/~isaki/NetBSD/osc17hi/
+
+- NetBSD booth
+  https://github.com/ebijun/NetBSD/blob/master/Guide/OSC/OSC100.csv
+  139 NetBSD OpenSouceConfernce booths since 2004-2017 all over Japan
+  118 NetBSD PDF guides since 2010 https://github.com/ebijun/osc-demo/
+
+  http://www.re.soum.co.jp/~jun/2014maps.pdf
+  http://www.re.soum.co.jp/~jun/2015maps.pdf
+  http://www.re.soum.co.jp/~jun/2016maps.pdf
+  https://github.com/ebijun/NetBSD/blob/master/Event/togetter/togetterview/view.csv
+
+- NetBSD Raspberry PI Image update on OpenSouceConfernce
+  https://github.com/ebijun/NetBSD/blob/master/Guide/RPI/RPIupdate2017.rst
+  http://cdn.netbsd.org/pub/NetBSD/misc/jun/raspberry-pi/
+
+- Meet itojun in AsiaBSDCon.
+  http://www.re.soum.co.jp/~jun/asiabsdcon2017.pdf
+  see the last page.
+
+- AsiaBSDCon2018: Mar 8-11 2018 Tokyo University of Science,Tokyo
+  https://2018.asiabsdcon.org/index.html.en
+
+  I'll make NetBSD booth and NetBSD developer/user meeting.
+  https://togetter.com/li/1084357 AsiaBSDCon2017 togetter.
+
+  Need more donation:
+   Please ask info@bsdresearch.org (Hiroki Sato,hrs@allbsd.org).
+
+- "Revolution - Evolution - Devolution." - RED by PANTA.
+  http://www.itojun.org/Pantax/pantax.txt
+
+- George!
+  https://twitter.com/ebijun/status/935095094805372928
+ 
+- Kame no ko sen (Kame child) - present from itojun's mother.
+  https://twitter.com/ebijun/status/935105180063764480
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
