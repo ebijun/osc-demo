@@ -1,0 +1,17 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD Advent Calendar 2017
+
+I hope you enjoy the NetBSD Advent Calendar 2017:
+ http://qiita.com/advent-calendar/2017/netbsd
+
+Thanx @frandon_pig to manage NetBSD Advent Calendar:
+ http://qiita.com/advent-calendar/2017/netbsd
+ http://qiita.com/advent-calendar/2016/netbsd
+ http://qiita.com/advent-calendar/2015/netbsd
+ http://qiita.com/advent-calendar/2014/netbsd
+
+Let's hope it's a good one,without any fear.
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
