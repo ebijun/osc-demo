@@ -1,0 +1,63 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2018 Osaka
+
+The Japan NetBSD Users' Group held booth
+at the Open Source Conference 2018 Osaka on Jan.27 2018:
+
+ http://www.ospn.jp/osc2018-osaka/
+ https://www.facebook.com/events/398913583842597/
+ http://www.jp.NetBSD.org/
+ https://www.facebook.com/NetBSD.jp/
+
+Presentation:
+
+NetBSD/atari port history and ATARI Compatible "Millan" board support.
+ by tsutsui@
+
+ http://mail-index.netbsd.org/source-changes/2018/01/20/msg091324.html
+ http://mail-index.netbsd.org/source-changes/2018/01/20/msg091322.html
+ http://mail-index.netbsd.org/source-changes/2018/01/20/msg091321.html
+ http://mail-index.netbsd.org/source-changes/2018/01/20/msg091320.html
+ http://mail-index.netbsd.org/source-changes/2018/01/20/msg091319.html
+ http://mail-index.netbsd.org/source-changes/2018/01/20/msg091318.html
+ http://mail-index.netbsd.org/source-changes/2018/01/20/msg091317.html
+ http://mail-index.netbsd.org/source-changes/2018/01/20/msg091316.html
+ http://mail-index.netbsd.org/source-changes/2018/01/20/msg091315.html
+ http://mail-index.netbsd.org/source-changes/2018/01/20/msg091314.html
+
+Booth:
+ https://twitter.com/tsutsuii/status/957068328366829569
+
+Milan (Atari compatible) running NetBSD/atari 8.0_BETA 
+ https://twitter.com/tsutsuii/status/957062304398426112
+
+XM6i X68030 emulator http://xm6i.org/ 
+- NetBSD/x68k on NetBSD/earmv6hf on RaspberryPI 3
+ https://twitter.com/ebijun/status/957101494674735110
+
+mikutter3.6 on NetBSD/earmv7hf on RaspberryPi2 and OrangePi one
+ https://twitter.com/ebijun/status/957102195060572160/photo/1
+ 
+NetBSD Tourist Guide:
+ https://www.soum.co.jp/~jun/OSC2018osaka.pdf
+
+Demo Images:
+
+RPI0/1/2/3: earmv6hf
+ http://mail-index.netbsd.org/port-arm/2018/01/03/msg004520.html
+
+RPI2/3 and OrangePi One: earmv7hf
+ http://mail-index.netbsd.org/port-arm/2018/01/05/msg004525.html
+
+More pictures are available on Togetter page:
+ https://togetter.com/li/1193730
+
+NEXT:
+ Open Source Conference 2018 Hamanako:  Jan.27 Osaka,JAPAN
+    http://www.ospn.jp/osc2018-hamanako/
+    https://www.facebook.com/events/1909317742619593/
+    https://www.facebook.com/NetBSD.jp/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
