@@ -11,19 +11,24 @@ at the Open Source Conference 2018 Osaka on Jan.27 2018:
 
 Presentation:
 
-NetBSD/atari port history and ATARI Compatible "Millan" board support.
+NetBSD/atari - Port history and ATARI Compatible "Millan" board support.
  by tsutsui@
 
- http://mail-index.netbsd.org/source-changes/2018/01/20/msg091324.html
- http://mail-index.netbsd.org/source-changes/2018/01/20/msg091322.html
- http://mail-index.netbsd.org/source-changes/2018/01/20/msg091321.html
- http://mail-index.netbsd.org/source-changes/2018/01/20/msg091320.html
- http://mail-index.netbsd.org/source-changes/2018/01/20/msg091319.html
- http://mail-index.netbsd.org/source-changes/2018/01/20/msg091318.html
- http://mail-index.netbsd.org/source-changes/2018/01/20/msg091317.html
- http://mail-index.netbsd.org/source-changes/2018/01/20/msg091316.html
- http://mail-index.netbsd.org/source-changes/2018/01/20/msg091315.html
+ https://speakerdeck.com/tsutsui/osc2018osaka
+
+ https://de.wikipedia.org/wiki/Milan_(Computer)
+ http://mail-index.netbsd.org/port-atari/2000/08/28/0000.html
  http://mail-index.netbsd.org/source-changes/2018/01/20/msg091314.html
+ http://mail-index.netbsd.org/source-changes/2018/01/20/msg091315.html
+ http://mail-index.netbsd.org/source-changes/2018/01/20/msg091316.html
+ http://mail-index.netbsd.org/source-changes/2018/01/20/msg091317.html
+ http://mail-index.netbsd.org/source-changes/2018/01/20/msg091318.html
+ http://mail-index.netbsd.org/source-changes/2018/01/20/msg091319.html
+ http://mail-index.netbsd.org/source-changes/2018/01/20/msg091320.html
+ http://mail-index.netbsd.org/source-changes/2018/01/20/msg091321.html
+ http://mail-index.netbsd.org/source-changes/2018/01/20/msg091322.html
+ http://mail-index.netbsd.org/source-changes/2018/01/20/msg091324.html
+ http://mail-index.netbsd.org/source-changes/2018/01/28/msg091554.html
 
 Booth:
  https://twitter.com/tsutsuii/status/957068328366829569
@@ -42,6 +47,10 @@ NetBSD Tourist Guide:
  https://www.soum.co.jp/~jun/OSC2018osaka.pdf
 
 Demo Images:
+
+Milan
+ NetBSD-current: after Sun Jan 28 14:22:23 UTC 2018
+ http://nycdn.netbsd.org/pub/NetBSD-daily/HEAD/201801281520Z/atari/
 
 RPI0/1/2/3: earmv6hf
  http://mail-index.netbsd.org/port-arm/2018/01/03/msg004520.html
