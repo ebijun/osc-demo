@@ -36,7 +36,7 @@ Booth:
 Milan (Atari compatible) running NetBSD/atari 8.0_BETA 
  https://twitter.com/tsutsuii/status/957062304398426112
 
-XM6i X68030 emulator http://xm6i.org/ 
+XM6i X68030 emulator http://www.pastel-flower.jp/~isaki/XM6i/
 - NetBSD/x68k on NetBSD/earmv6hf on RaspberryPI 3
  https://twitter.com/ebijun/status/957101494674735110
 
