@@ -26,7 +26,7 @@ The NetBSD booth exhibited the following machines:
    https://twitter.com/ebijun/status/962496427950669824
 
 NetBSD Tourist Guide:
- https://www.re.soum.co.jp/~jun/OSC2018hamanako.pdf
+ http://www.re.soum.co.jp/~jun/OSC2018hamanako.pdf
 
 Demo Images:
 RPI:
