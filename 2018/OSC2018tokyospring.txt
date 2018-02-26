@@ -12,7 +12,7 @@ Booth:
  https://twitter.com/ebijun/status/966851480320753665
 
 NetBSD Tourist Guide:
- https://www.soum.co.jp/~jun/OSC2018tokyofall.pdf
+ https://www.re.soum.co.jp/~jun/OSC2018tokyofall.pdf
 
 The NetBSD booth exhibited the following machines:
 
@@ -54,7 +54,7 @@ SOpineA64 SOpine x7
 >> @akedon SPARCbook 3GS
  https://twitter.com/ebijun/status/967227892710060032
 
->> GPD
+>> @tristelo and @kapper1224 GPD 
  https://twitter.com/ebijun/status/967283203751927808
 
 >> CBUG meeting
