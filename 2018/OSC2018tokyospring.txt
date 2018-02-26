@@ -1,0 +1,94 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2018 Tokyo/Spring
+
+The Japan NetBSD Users' Group members held booth
+at the Open Source Conference 2018 Tokyo/Spring on Feb. 23-24 2018:
+
+ https://www.ospn.jp/osc2018-spring/
+ https://www.facebook.com/events/806993292795496/
+ https://www.facebook.com/NetBSD.jp/
+
+Booth:
+ https://twitter.com/ebijun/status/966851480320753665
+
+NetBSD Tourist Guide:
+ https://www.soum.co.jp/~jun/OSC2018tokyofall.pdf
+
+The NetBSD booth exhibited the following machines:
+
+NetBSD/x68k on XM6i on NetBSD/earmv6hf on Raspberry Pi3
+ https://twitter.com/ebijun/status/966851952591040512
+
+mikutter 3.6.3 on NetBSD/earmv7hf on RaspberryPI2 
+ https://twitter.com/ebijun/status/966852615182065665
+
+mikutter 3.6.1 on NetBSD/earmv7hf on OrangePi One:
+ https://twitter.com/ebijun/status/962567091000786944
+
+BSD daemon cookies:
+ https://twitter.com/ebijun/status/967005847158013952
+
+NetBSD/hpcarm on WZero3 ades
+ https://twitter.com/ebijun/status/967201971672240128
+
+NetBSD/hpcmips on NTT DoCoMo Sigmarion
+ https://twitter.com/ebijun/status/967202573047353344
+
+>> @srchack board collection::
+
+Banana Pi Zero:
+ https://twitter.com/ebijun/status/967218674640723970
+ 
+BananaPI BP1 M2:
+ https://twitter.com/ebijun/status/967219581688299520
+
+OrangePi One Plus:
+ https://twitter.com/ebijun/status/967220197135327232
+
+BananaPi BPI M2M:
+ https://twitter.com/ebijun/status/967220472235507712
+
+SOpineA64 SOpine x7
+ https://twitter.com/ebijun/status/967221832985096192
+
+>> @akedon SPARCbook 3GS
+ https://twitter.com/ebijun/status/967227892710060032
+
+>> GPD
+ https://twitter.com/ebijun/status/967283203751927808
+
+>> CBUG meeting
+ https://twitter.com/ebijun/status/967266722959904769
+ http://confreg.ate-mahoroba.jp/confreg?conf_idstr=809YnmYQZUQu5YywOtrvO22B991
+
+Demo Images:
+ RaspberryPi 0-3 NetBSD/earmv6hf
+  http://mail-index.netbsd.org/port-arm/2018/02/22/msg004646.html
+
+ OrangePi One and RaspberryPi 2-3 NetBSD/earmv7hf
+  http://mail-index.netbsd.org/port-arm/2018/01/05/msg004525.html
+
+Booth donation:
+
+Uiro and stickers by @shimadah
+ https://twitter.com/ebijun/status/966835605366718464
+
+mikutter badges from toshi_a:
+ https://twitter.com/ebijun/status/966886965961347072
+
+More pictures are available on Togetter page:
+ https://togetter.com/li/1202581
+
+NEXT:
+ Raspberry Jam Big Birthday Weekend 2018 in TOKYO:
+ Mar.3-4,NIHON KOGAKUIN,Kamata Tokyo 
+ https://www.raspi.jp/2018/02/raspberry-jam-big-birthday-weekend-2018-in-tokyo/
+ https://goo.gl/maps/2Ktnyh6KXeN2
+
+ Mar.3 14:05-14:50 NetBSD session slot.
+ https://www.raspi.jp/2018/02/raspberry-jam-big-birthday-weekend-2018-in-tokyo-session/
+ https://www.facebook.com/NetBSD.jp/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara, I'd love to turn you on
