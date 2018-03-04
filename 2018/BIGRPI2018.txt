@@ -1,0 +1,61 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Raspberry jam Big Birthday Weekend 2018 in TOKYO
+
+The Japan NetBSD Users' Group members held booth
+ at the Raspberry jam Big Birthday Weekend 2018 in TOKYO 
+ on Mar. 3-4 2018:
+
+ https://www.raspi.jp/2018/02/raspberry-jam-big-birthday-weekend-2018-in-tokyo/
+ https://www.facebook.com/NetBSD.jp/
+
+Booth:
+ https://twitter.com/ebijun/status/969784294422994944
+
+The booth exhibited the following machines:
+
+@s_mitu: @freebsdtank RaspberryPI Zero on FreeBSD:
+ https://twitter.com/ebijun/status/969770301486542848/photo/1 
+ https://github.com/s-mitu/RaspberryPi/blob/master/FreeBSD/Documents/FreeBSD_OSC.md
+
+NetBSD/x68k on XM6i on NetBSD/earmv6hf on RaspberryPI3
+ https://twitter.com/ebijun/status/969733711536123904/photo/1
+
+mikutter3.6.4 on ruby2.4 on NetBSD/earmv7hf on RaspberryPI2:
+ https://twitter.com/ebijun/status/969733417423093761/photo/1
+
+mikutter3.6.4 on ruby2.4 on NetBSD/earmv6hf on RaspberryPI0 on mikutter badge
+ https://twitter.com/ebijun/status/969734000980852736/photo/1
+
+NetBSD/hpcarm on WZERO3 ades:
+ https://twitter.com/ebijun/status/969734360025874432/photo/1
+
+RaSCSI: Raspberry Pi SCSI target device emulator
+ https://twitter.com/ebijun/status/969734154760761344/photo/1
+
+NetBSD Tourist Guide:
+ https://www.re.soum.co.jp/~jun/BIGRPI2018.pdf
+
+Demo Images:
+ http://mail-index.netbsd.org/port-arm/2018/02/22/msg004646.html
+
+More pictures are available on Togetter page:
+ https://togetter.com/li/1204795
+
+NEXT:
+
+AsiaBSDCon2018 : Mar.8-11 Tokyo,JAPAN
+  https://2018.asiabsdcon.org/access.html.en
+  https://2018.asiabsdcon.org/
+- developer meeting : Mar. 9 14:00-17:00
+  http://wiki.netbsd.org/summits/AsiaBSDCon_2018_NetBSD_Summit/
+- NetBSD BOF 2018 :  Mar. 9 19:00-21:30
+  https://wiki.netbsd.org/summits/AsiaBSDCon_2018_BSD_BoF/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+
+Cancer Fund for Matt -AKA Karamoon
+ https://www.gofundme.com/matthewdons
+
+Matt makes great efforts to RaspberryPI activities.
+---
+Jun Ebihara
