@@ -13,7 +13,7 @@ Booth:
 
 The booth exhibited the following machines:
 
-@s_mitu: @freebsdtank RaspberryPI Zero on FreeBSD:
+@s_mitu: @freebsdtank RaspberryPI Zero on FreeBSD with Explorer HAT Pro
  https://twitter.com/ebijun/status/969770301486542848/photo/1 
  https://github.com/s-mitu/RaspberryPi/blob/master/FreeBSD/Documents/FreeBSD_OSC.md
 
@@ -50,12 +50,14 @@ AsiaBSDCon2018 : Mar.8-11 Tokyo,JAPAN
   http://wiki.netbsd.org/summits/AsiaBSDCon_2018_NetBSD_Summit/
 - NetBSD BOF 2018 :  Mar. 9 19:00-21:30
   https://wiki.netbsd.org/summits/AsiaBSDCon_2018_BSD_BoF/
+- AsiaBSDCon2018 NetBSD booth poster by @nullnilaki ,thanx!
+  https://twitter.com/ebijun/status/970160510023774209
 
 TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
 
 Cancer Fund for Matt -AKA Karamoon
  https://www.gofundme.com/matthewdons
 
-Matt makes great efforts to RaspberryPI activities.
+ Matt makes great efforts to RaspberryPI activities,show the respects.
 ---
 Jun Ebihara
