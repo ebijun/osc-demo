@@ -33,7 +33,7 @@ RaSCSI: Raspberry Pi SCSI target device emulator
  https://twitter.com/ebijun/status/969734154760761344/photo/1
 
 NetBSD Tourist Guide:
- https://www.re.soum.co.jp/~jun/BIGRPI2018.pdf
+ http://www.re.soum.co.jp/~jun/BIGRPI2018.pdf
 
 Demo Images:
  http://mail-index.netbsd.org/port-arm/2018/02/22/msg004646.html
