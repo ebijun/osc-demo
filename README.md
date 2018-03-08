@@ -22,6 +22,7 @@ Demonstaration setting for NetBSD Booth
  表紙はイラストレータ、裏表紙はscribus、本文はSphinxを使っています。
  それぞれについて、pdf出力したものをpdfshufflerで組み合わせています。
 
+ 123.  AsiaBSDCon2018 http://www.re.soum.co.jp/~jun/AsiaBSDCon2018.pdf
  122.  Raspberry Jam Big Birthday Weekend 2018 in TOKYO http://www.re.soum.co.jp/~jun/RaspberryJam2018.pdf
  121.  OSC2018東京春 http://www.re.soum.co.jp/~jun/OSC2018tokyospring.pdf
  120.  OSC2018浜名湖 http://www.re.soum.co.jp/~jun/OSC2018hamanako.pdf
