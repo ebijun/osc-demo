@@ -22,6 +22,9 @@ Design,Implimentation and Operatin of NetBSD Base System Packaging
 
 See http://www.netbsd.org/gallery/presentations/ for paper and slides.
 
+wip session: NetBSD status by mef@
+ http://www.netbsd.org/gallery/presentations/mef/PDF/NetBSD-2018-AsiaBSDCon.pdf
+
 Booth:
 Japan NetBSD Users' Group + FreeBSD Workshop
 
