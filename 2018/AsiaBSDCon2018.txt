@@ -1,0 +1,98 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at AsiaBSDCon 2018
+
+BSD Research and Japan NetBSD Users' Group members held booth
+at the AsiaBSDCon 2018  on Mar. 9-11 2017:
+
+ http://2018.asiabsdcon.org/
+ https://www.bsdresearch.org/index.html.en
+ http://www.jp.NetBSD.org/
+ https://www.facebook.com/NetBSD.jp/
+
+Keynote: Linux rumpkernel: yet another virtualization 
+         with a librarified kernel
+	 Hajime Tazaki
+
+NetBSD Related Talk&Event in AsiaBSDCon2018
+- NetBSD BoF
+  http://wiki.netbsd.org/summits/AsiaBSDCon_2018_BSD_BoF/
+
+Design,Implimentation and Operatin of NetBSD Base System Packaging
+  Yuuki Enomoto
+
+See http://www.netbsd.org/gallery/presentations/ for paper and slides.
+
+Booth:
+Japan NetBSD Users' Group + FreeBSD Workshop
+
+FreeBSD+Raspberry PI+GPIO/I2C demonstration by @s_mitu
+ RPI3+GameController+English/Japanese speaking
+ FreeBSD tank and clock :RPI0
+  https://github.com/s-mitu/RaspberryPi
+  https://twitter.com/s_mitu/status/972635039144935426
+  https://twitter.com/s_mitu/status/972328089756647424
+  https://twitter.com/ebijun/status/972630183365591040
+
+NetBSD/aarch64 RaspberryPI3 by ryo@
+ https://twitter.com/ebijun/status/972320550839177216
+
+SHARP X68030 by msaitoh@
+ https://twitter.com/ebijun/status/972674144964812808
+
+@s_mitu: @freebsdtank RaspberryPI Zero on FreeBSD with Explorer HAT Pro
+ https://github.com/s-mitu/RaspberryPi/blob/master/FreeBSD/Documents/FreeBSD_OSC.md
+
+NetBSD/x68k on XM6i on NetBSD/earmv6hf on RaspberryPI3
+  https://twitter.com/ebijun/status/972273433865146368
+
+mikutter3.6.4 on ruby2.4 on NetBSD/earmv7hf on RaspberryPI2:
+  https://twitter.com/ebijun/status/972667120730320898
+
+mikutter3.6.4 on ruby2.4 on NetBSD/earmv6hf on RaspberryPI0 on mikutter badge
+ https://twitter.com/ebijun/status/972668476954370049
+
+mikutter3.6.4 on ruby2.4 on NetBSD/earmv7hf on OrangePiOne
+ https://twitter.com/ebijun/status/972666896980983808
+
+NetBSD/hpcarm on WZERO3 ades:
+ https://twitter.com/ebijun/status/972666472123138048
+
+RaSCSI: Raspberry Pi SCSI target device emulator by rin@
+- RaSCSI+NetBSD/earmv7hf=SlimSCSI PCMCIA=NetBSD/hpcmips+NEC MCR-700 
+ https://twitter.com/ebijun/status/972339697216249856
+  .. Failed
+- RaSCSI+NetBSD/earmv7hf=AMIGA1200
+  https://twitter.com/ebijun/status/972328668956540929 
+  https://twitter.com/ebijun/status/972329107261341696
+
+Buffelo LinkStation + NetBSD/sandpoint by @tisihara
+  https://twitter.com/ebijun/status/972288171546312704
+
+OpenBlocks+ NetBSD/evbarm by @@yamajun_ofug
+  https://twitter.com/ebijun/status/972306570376695808 
+
+- AsiaBSDCon2018 Sticker by @nullnilaki 
+  https://twitter.com/nullnilaki/status/970347950806192129
+
+- tribute to itojun
+ https://twitter.com/ebijun/status/972274263611793408 
+ KAME children senbei selected by itojun's mother
+  https://twitter.com/ebijun/status/972635104429293568
+
+NetBSD Tourist Guide:
+ https://www.re.soum.co.jp/~jun/asiabsdcon2018.pdf
+
+Demo Images:
+ RPI:
+ http://mail-index.netbsd.org/port-arm/2018/02/22/msg004646.html
+
+More pictures are available on Togetter page:
+ https://togetter.com/li/1206515
+
+NEXT:
+ Open Source UN-Conference 2018 Kawagoe: Apr.14 Saitama,JAPAN
+   https://koedolug.connpass.com/event/77065/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
