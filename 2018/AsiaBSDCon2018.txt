@@ -64,11 +64,13 @@ RaSCSI: Raspberry Pi SCSI target device emulator by rin@
 - RaSCSI+NetBSD/earmv7hf=AMIGA1200
   https://twitter.com/ebijun/status/972328668956540929 
   https://twitter.com/ebijun/status/972329107261341696
+-  RaSCSI on NetBSD8.99.12/earmv7hf via REXCB31 cardbus mount sd0 on NetBSD/i386
+  https://twitter.com/ebijun/status/972709761773797376
 
 Buffelo LinkStation + NetBSD/sandpoint by @tisihara
   https://twitter.com/ebijun/status/972288171546312704
 
-OpenBlocks+ NetBSD/evbarm by @@yamajun_ofug
+OpenBlocks+ NetBSD/evbarm by @yamajun_ofug
   https://twitter.com/ebijun/status/972306570376695808 
 
 - AsiaBSDCon2018 Sticker by @nullnilaki 
