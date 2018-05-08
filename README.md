@@ -7,9 +7,9 @@ Demonstaration setting for NetBSD Booth
 ~~~~~~~~~~~~~~~~~~
 
 総集編：
-  AsiaBSDCon2017 http://www.re.soum.co.jp/~jun/asiabsdcon2017.pdf
+  AsiaBSDCon2018 http://www.re.soum.co.jp/~jun/asiabsdcon2018.pdf
   JNUG2017       http://www.re.soum.co.jp/~jun/JNUG2017.pdf
-  WIDE2016       http://www.re.soum.co.jp/~jun/OSC201512.pdf
+
   参加マップ　
     http://www.re.soum.co.jp/~jun/2016maps.pdf
     http://www.re.soum.co.jp/~jun/2015maps.pdf
@@ -22,6 +22,7 @@ Demonstaration setting for NetBSD Booth
  表紙はイラストレータ、裏表紙はscribus、本文はSphinxを使っています。
  それぞれについて、pdf出力したものをpdfshufflerで組み合わせています。
 
+ 124.  OSC2018名古屋 http://www.re.soum.co.jp/~jun/OSC2018nagoya.pdf
  123.  AsiaBSDCon2018 http://www.re.soum.co.jp/~jun/AsiaBSDCon2018.pdf
  122.  Raspberry Jam Big Birthday Weekend 2018 in TOKYO http://www.re.soum.co.jp/~jun/RaspberryJam2018.pdf
  121.  OSC2018東京春 http://www.re.soum.co.jp/~jun/OSC2018tokyospring.pdf
