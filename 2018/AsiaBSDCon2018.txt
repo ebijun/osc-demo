@@ -22,13 +22,17 @@ Design,Implimentation and Operatin of NetBSD Base System Packaging
 
 See http://www.netbsd.org/gallery/presentations/ for paper and slides.
 
+wip session: NetBSD status by mef@
+ http://www.netbsd.org/gallery/presentations/mef/PDF/NetBSD-2018-AsiaBSDCon.pdf
+
 Booth:
 Japan NetBSD Users' Group + FreeBSD Workshop
 
-FreeBSD+Raspberry PI+GPIO/I2C demonstration by @s_mitu
+s_mitu: @freebsdtank RaspberryPI Zero on FreeBSD with Explorer HAT Pro
  RPI3+GameController+English/Japanese speaking
  FreeBSD tank and clock :RPI0
   https://github.com/s-mitu/RaspberryPi
+  https://github.com/s-mitu/RaspberryPi/blob/master/FreeBSD/Documents/FreeBSD_OSC.md
   https://twitter.com/s_mitu/status/972635039144935426
   https://twitter.com/s_mitu/status/972328089756647424
   https://twitter.com/ebijun/status/972630183365591040
@@ -38,9 +42,6 @@ NetBSD/aarch64 RaspberryPI3 by ryo@
 
 SHARP X68030 by msaitoh@
  https://twitter.com/ebijun/status/972674144964812808
-
-@s_mitu: @freebsdtank RaspberryPI Zero on FreeBSD with Explorer HAT Pro
- https://github.com/s-mitu/RaspberryPi/blob/master/FreeBSD/Documents/FreeBSD_OSC.md
 
 NetBSD/x68k on XM6i on NetBSD/earmv6hf on RaspberryPI3
   https://twitter.com/ebijun/status/972273433865146368
@@ -82,7 +83,7 @@ OpenBlocks+ NetBSD/evbarm by @yamajun_ofug
   https://twitter.com/ebijun/status/972635104429293568
 
 NetBSD Tourist Guide:
- https://www.re.soum.co.jp/~jun/asiabsdcon2018.pdf
+ http://www.re.soum.co.jp/~jun/asiabsdcon2018.pdf
 
 Demo Images:
  RPI:
