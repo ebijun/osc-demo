@@ -1,0 +1,58 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: OpenBSD and NetBSD machines at Open Source Conference 2018 Nagoya
+
+The Japan NetBSD Users' Group and 
+Nagoya *BSD Users' Group members held booth
+at the Open Source Conference 2018 Nagoya on May 19 2018:
+
+ http://www.ospn.jp/osc2018-nagoya/
+ http://www.nagoya.bug.gr.jp/
+ http://www.jp.NetBSD.org/
+ https://www.facebook.com/NetBSD.jp/
+
+Booth:
+  https://twitter.com/ebijun/status/997689468042657792
+
+OMRON LUNA88K2 on OpenBSD 6.3 by Kenji Aoyama.
+XX:  http://www.nk-home.net/~aoyama/OSC/OSC2018Nagoya-leaflet.pdf
+XX:   https://www.slideshare.net/ao_kenji/osc2018-nagoya-76418169
+  https://twitter.com/luna88k/status/997640898451193856
+  https://twitter.com/ebijun/status/997658847895478273
+
+  LUNA-88K2 Memory 112MB+SCSI 2GB HDD
+  - HD641780, Z80 compatible I/O processor (man 4 xp)
+  - Wireless lang via PCMCIA PC98 C-BUS extention
+  - twitter tweets sayaka+mlterm
+
+RaSCSI+NetBSD/evbarm 8.0_RC1 on Raspberry Pi by tsutsui@
+  https://twitter.com/ebijun/status/997664620440514560
+
+GameConsole like demonstration with Go lang by Yasushi Oshima
+    https://twitter.com/ebijun/status/997652142948106242
+    https://twitter.com/ebijun/status/997669718747049984 
+  - NetBSD Graphical Console on Raspberry PI,NetBSD/earmv7hf
+  - Dot-Character can controll with Joypad
+  - all written in Go lang.
+ 
+NetBSD/x68k on XM6i on NetBSD/earmv6hf on RaspberryPI3
+  https://twitter.com/ebijun/status/997640196131733504
+
+NetBSD Tourist Guide:
+ https://www.re.soum.co.jp/~jun/OSC2018nagoya.pdf
+
+Demo Images:
+ Luna88K :
+  OpenBSD 6.3
+ RPI:
+  http://mail-index.netbsd.org/port-arm/2018/05/18/msg004789.html
+
+More pictures are available on Togetter page:
+  https://togetter.com/li/1228817
+
+NEXT:
+ Open Source Conference 2018 Okinawa:  Jun.16 Okinawa,JAPAN
+    http://www.ospn.jp/osc2018-okinawa/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
