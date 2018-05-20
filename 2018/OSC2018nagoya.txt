@@ -26,6 +26,7 @@ XX:   https://www.slideshare.net/ao_kenji/osc2018-nagoya-76418169
 
 RaSCSI+NetBSD/evbarm 8.0_RC1 on Raspberry Pi by tsutsui@
   https://twitter.com/ebijun/status/997664620440514560
+  http://ch.nicovideo.jp/tsutsui/blomaga/ar1405946
 
 GameConsole like demonstration with Go lang by Yasushi Oshima
     https://twitter.com/ebijun/status/997652142948106242
