@@ -14,8 +14,8 @@ Booth:
   https://twitter.com/ebijun/status/997689468042657792
 
 OMRON LUNA88K2 on OpenBSD 6.3 by Kenji Aoyama.
-XX:  http://www.nk-home.net/~aoyama/OSC/OSC2018Nagoya-leaflet.pdf
-XX:   https://www.slideshare.net/ao_kenji/osc2018-nagoya-76418169
+  https://www.slideshare.net/ao_kenji/osc2018-nagoya
+  https://github.com/ao-kenji/flyers/blob/master/OSC2018Nagoya-flyer.pdf 
   https://twitter.com/luna88k/status/997640898451193856
   https://twitter.com/ebijun/status/997658847895478273
 
@@ -29,9 +29,9 @@ RaSCSI+NetBSD/evbarm 8.0_RC1 on Raspberry Pi by tsutsui@
   http://ch.nicovideo.jp/tsutsui/blomaga/ar1405946
 
 GameConsole like demonstration with Go lang by Yasushi Oshima
-    https://twitter.com/ebijun/status/997652142948106242
-    https://twitter.com/ebijun/status/997669718747049984 
-  - NetBSD Graphical Console on Raspberry PI,NetBSD/earmv7hf
+  http://www.yagoto-urayama.jp/~oshimaya/netbsd/gowsd.pdf
+  https://github.com/oshimaya/gowsdisplay
+- NetBSD Graphical Console on Raspberry PI,NetBSD/earmv7hf
   - Dot-Character can controll with Joypad
   - all written in Go lang.
  
