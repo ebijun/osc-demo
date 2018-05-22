@@ -19,7 +19,7 @@ OMRON LUNA88K2 on OpenBSD 6.3 by Kenji Aoyama.
   https://twitter.com/luna88k/status/997640898451193856
   https://twitter.com/ebijun/status/997658847895478273
 
-  LUNA-88K2 Memory 112MB+SCSI 2GB HDD
+  LUNA-88K2 MC88100 33MHz Memory 112MB+SCSI 2GB HDD
   - HD641780, Z80 compatible I/O processor (man 4 xp)
   - Wireless lang via PCMCIA PC98 C-BUS extention
   - twitter tweets sayaka+mlterm
@@ -53,6 +53,10 @@ More pictures are available on Togetter page:
 NEXT:
  Open Source Conference 2018 Okinawa:  Jun.16 Okinawa,JAPAN
     http://www.ospn.jp/osc2018-okinawa/
+  NetBSD Booth:10:00-16:00
+   https://www.ospn.jp/osc2018-okinawa/modules/article/article.php?articleid=1
+  NetBSD BOF:13:00-13:45
+   https://www.ospn.jp/osc2018-okinawa/modules/eventrsv/?id=1&noform=1
 
 TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
 ---
