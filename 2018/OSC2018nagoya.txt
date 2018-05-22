@@ -39,7 +39,7 @@ NetBSD/x68k on XM6i on NetBSD/earmv6hf on RaspberryPI3
   https://twitter.com/ebijun/status/997640196131733504
 
 NetBSD Tourist Guide:
- https://www.re.soum.co.jp/~jun/OSC2018nagoya.pdf
+ http://www.re.soum.co.jp/~jun/OSC2018nagoya.pdf
 
 Demo Images:
  Luna88K :
