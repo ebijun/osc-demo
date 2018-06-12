@@ -21,6 +21,19 @@ Demonstaration setting for NetBSD Booth
  毎回セブンイレブンで両面カラーコピー1部＋両面白黒コピー15部印刷してます。
  表紙はイラストレータ、裏表紙はscribus、本文はSphinxを使っています。
  それぞれについて、pdf出力したものをpdfshufflerで組み合わせています。
+ 
+印刷する手順
+1. evince で印刷→ポストスクリプトで出力するとポストスクリプトファイルができる。
+  → 1ページずつまとまったポストスクリプトファイルができる。
+2. 配布する形式にポストスクリプトを変換する：
+　psbook output.ps |psnup -2
+　→ 2ページ/1枚にまとまったポストスクリプトファイルができる。
+3. 両面印刷： ポストスクリプトファイルの先頭にコマンドを書く。
+   << /Duplex true /Tumble true >> setpagedevice
+ → 4ページ/1枚にまとまったポストスクリプトファイルができる。ポストスクリプトプリンタに送るとカラー冊子が印刷できる。
+4. PDFファイルを白黒に変換する
+ gs -sDEVICE=pdfwrite -dProcessColorModel=/DeviceGray -dColorConversionStrategy=/Gray -dPDFUseOldCMS=false -o out.pdf -f in.pdf
+ 白黒に変換したPDFファイルをもとに白黒冊子が印刷できる。
 
  125.  OSC2018沖縄  http://www.re.soum.co.jp/~jun/OSC2018okinawa.pdf
  124.  OSC2018名古屋 http://www.re.soum.co.jp/~jun/OSC2018nagoya.pdf
