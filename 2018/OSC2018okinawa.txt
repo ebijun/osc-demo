@@ -14,7 +14,7 @@ Booth:
 
 NetBSD/x68k on XM6i on NetBSD/earmv6hf on RaspberryPI3B+
  https://twitter.com/ebijun/status/1007802425795678208
- http://xm6i.org/
+ http://www.pastel-flower.jp/~isaki/XM6i
 
 NetBSD/earmv7hf on OrangePi One
  https://twitter.com/ebijun/status/1007802771242827777
@@ -44,7 +44,7 @@ More pictures are available on Togetter page:
   https://togetter.com/li/1237675
 
 NEXT:
- Open Source Confrece: 2018 Hokkaido
+ Open Source Conference 2018 Hokkaido
  Jul 6-7 2018,Sapporo Japan
   https://www.ospn.jp/osc2018-do/
 
