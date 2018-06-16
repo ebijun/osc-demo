@@ -1,0 +1,53 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2018 Okinawa
+
+The Japan NetBSD Users' Group members held booth 
+at the Open Source Conference 2018 Okinawa 
+  on Jun 16 2018:
+
+ http://www.ospn.jp/osc2018-okinawa/
+ https://www.facebook.com/NetBSD.jp/
+ http://www.jp.NetBSD.org/
+
+Booth:
+ https://twitter.com/ebijun/status/1007801802836754432 
+
+NetBSD/x68k on XM6i on NetBSD/earmv6hf on RaspberryPI3B+
+ https://twitter.com/ebijun/status/1007802425795678208
+ http://xm6i.org/
+
+NetBSD/earmv7hf on OrangePi One
+ https://twitter.com/ebijun/status/1007802771242827777
+
+NetBSD/earmv7hf on RaspberryPi2 ver1.2
+ https://twitter.com/ebijun/status/1007803097228324865
+
+WZERO3 as NetBSD/hpcarm 
+ https://twitter.com/ebijun/status/1007803424648253440 (SH011)
+ https://twitter.com/ebijun/status/1007803690307031040 (SH007)
+
+Openblocks A6
+ https://twitter.com/ebijun/status/1007822217294442502
+
+Stickers
+ https://twitter.com/ebijun/status/1007804496414588928
+
+NetBSD Tourist Guide:
+ http://www.re.soum.co.jp/~jun/OSC2018okinawa.pdf
+ 
+
+Demo Images:
+ RPI:
+  http://mail-index.netbsd.org/port-arm/2018/06/11/msg004851.html
+
+More pictures are available on Togetter page:
+  https://togetter.com/li/1237675
+
+NEXT:
+ Open Source Confrece: 2018 Hokkaido
+ Jul 6-7 2018,Sapporo Japan
+  https://www.ospn.jp/osc2018-do/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
