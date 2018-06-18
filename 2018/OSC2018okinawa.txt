@@ -22,11 +22,11 @@ NetBSD/earmv7hf on OrangePi One
 NetBSD/earmv7hf on RaspberryPi2 ver1.2
  https://twitter.com/ebijun/status/1007803097228324865
 
-WZERO3 as NetBSD/hpcarm 
+WZERO3 running NetBSD/hpcarm 
  https://twitter.com/ebijun/status/1007803424648253440 (SH011)
- https://twitter.com/ebijun/status/1007803690307031040 (SH007)
+ https://twitter.com/ebijun/status/1007803690307031040 (SH007) by @ai4432
 
-Openblocks A6
+Openblocks A6 NetBSD/evbarm by @yamajun_ofug
  https://twitter.com/ebijun/status/1007822217294442502
 
 Stickers
