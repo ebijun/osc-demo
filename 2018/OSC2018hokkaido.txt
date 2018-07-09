@@ -1,0 +1,67 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2018 Hokkaido
+
+The Japan NetBSD Users' Group and Northern land BSD Users Group
+ members held booth at the Open Source Conference 2018 Hokkaido 
+  on Jul. 7 2018:
+
+ http://www.ospn.jp/osc2018-do/
+ https://www.facebook.com/NetBSD.jp/
+ http://www.jp.NetBSD.org/
+ http://www.no.bug.gr.jp/
+
+Booth:
+ 
+VT384 and NetBSD2.0.2 on SPARC station IPX
+ https://twitter.com/ebijun/status/1015414643538341888/photo/1
+
+GameConsole like demonstration with Go lang by Yasushi Oshima
+ https://twitter.com/oshimyja/status/1015411920311017472/photo/1
+ http://www.yagoto-urayama.jp/~oshimaya/netbsd/gowsd.pdf
+ https://github.com/oshimaya/gowsdisplay
+ NetBSD Graphical Console on Raspberry PI,NetBSD/earmv7hf
+  - Dot-Character can controll with Joypad
+  - all written in Go lang.
+
+NetBSD/i386 8.0RC2 on EeePC N280 and NetBSD/earmv6hf on RPI2
+ https://twitter.com/ebijun/status/1015399440222306304/photo/1
+
+FreeBSD11.2R on RaspberryPI2
+ https://twitter.com/ebijun/status/1015422844631519232/photo/1
+
+NetBSD/x68k on XM6i on NetBSD/earmv6hf on Raspberry PI3:
+ https://twitter.com/ebijun/status/1015398001232175105/photo/1
+
+NetBSD/earmv7hf on RaspberryPi2 & OrangePi One
+ https://twitter.com/ebijun/status/1015397482270871552/photo/1
+
+NetBSD/hpcarm on WZero3 ades
+ https://twitter.com/ebijun/status/1015433430216028160
+
+NetBSD Tourist Guide:
+ https://www.re.soum.co.jp/~jun/OSC2018hokkaido.pdf
+
+Presentation: Making enbeded NetBSD 
+ by Yuuki Enomoto 
+ basepkg: http://e-yuuki.org/slide/netbsd_bof.pdf
+ http://e-yuuki.org/?blog%2F20180715
+ http://e-yuuki.org/ 
+ https://twitter.com/ebijun/status/886095510515326976/photo/1
+
+Demo Images:
+ NetBSD Raspberry PI image 2018-07-15-netbsd-raspi-earmv6hf.img
+ http://mail-index.netbsd.org/port-arm/2018/07/01/msg004913.html
+
+ mikutter on NetBSD/earmv6hf on Raspberry Pi 2 Ver1.2
+ https://twitter.com/ebijun/status/886031708201467906/photo/1
+ 
+More pictures are available on Togetter page:
+ https://togetter.com/li/1244344
+
+NEXT:
+ OpenSourceConference 2018 Kyoto:  Aug.3-4 Kyoto,JAPAN
+   http://www.ospn.jp/osc2018-kyoto/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
