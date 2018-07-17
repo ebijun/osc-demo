@@ -28,6 +28,10 @@ Keiki Ito:
 - NetBSD on VMWare,VirtualBox,Parallels,qemu..
 - Japanese language environment and input methods 
 
+Takahiro Kambe:
+- nsd:     default MKNSD=no
+- unbound: default MKUNBOUND=yes
+
 Ken-ichi Fukamachi: 
 - apt/yum like basepkg update
 - Adoptable Junk hardware collections
