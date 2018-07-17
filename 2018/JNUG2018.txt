@@ -1,0 +1,91 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: Japan NetBSD Users Group 20th annual Meeting and BoF 2018
+
+The Japan NetBSD Users' Group members held 20th annual Meeting 
+  on Jul. 14 2018:
+
+ http://www.jp.NetBSD.org/ja/JP/JNUG/announce/meeting20.html.en
+ https://www.facebook.com/NetBSD.jp/
+ http://www.jp.NetBSD.org/
+
+Place:
+ VDEC: VLSI Desion and Education Center,University of Tokyo.
+ http://www.vdec.u-tokyo.ac.jp/English/index.html
+
+NetBSD BOF: 14:00-18:00
+  http://www.jp.NetBSD.org/ja/JP/JNUG/event/20180714BOF/
+
+Jun Ebihara: 
+- NetBSD RaspberryPi Image updates
+   https://github.com/ebijun/NetBSD/blob/master/Guide/RPI/RPIupdate2018.rst
+
+Ryo Onodera:
+- NetBSD/amd64-current on HP Spectre x360,UEFI boot from NVMe SSD 
+- Build BitVisor on NetBSD and running NetBSD on BitVisor
+
+Questions and Answers:
+Keiki Ito:
+- NetBSD on VMWare,VirtualBox,Parallels,qemu..
+- Japanese language environment and input methods 
+
+Ken-ichi Fukamachi: 
+- apt/yum like basepkg update
+- Adoptable Junk hardware collections
+
+Yuuki Enomoto: 
+- basepkg
+  https://e-yuuki.org/?bsd/netbsd/basepkg
+  move wip to pkgsrc
+
+Makoto Fujiwara: 
+- My way of updating pkgsrc
+  https://github.com/makoto-fujiwara/local-mef
+
+Hiroki Sato: 
+- AsiaBSDCon2019 and Beyond
+  2019 Mar.21-24 
+  https://www.bsdresearch.org/index.html.en
+  heavy costs: flight/hotel fees for presentors.
+  need more sponsor/donation: 
+   Japan NetBSD Users' group donates to AsiaBSDCon and make booth.
+   http://mail-index.netbsd.org/netbsd-advocacy/2018/02/19/msg000766.html
+  2020? affected by the TOKYO Olympic 2020.
+
+SODA Noriyuki:
+- NetBSD8.0 and Beyond
+
+Yoshiro Mita:
+ introducing VDEC: VLSI Desion and Education Center,University of Tokyo.
+ https://www.amazon.co.jp//dp/4526078719/
+
+post meeting party: 18:30-21:30
+     12 ban souko
+     https://www.facebook.com/12souko/
+
+NetBSD Tourist Guide:
+ http://www.re.soum.co.jp/~jun/JNUG2018.pdf
+
+More pictures are available on Togetter page:
+ https://togetter.com/li/1246626
+
+Video Streaming:
+ http://www.ustream.tv/channel/japan-netbsd-users-group-meeting
+
+Thanx for special meeting space:
+ Yoshiro Mita
+ http://nanotechnet.t.u-tokyo.ac.jp/staff/staff.html
+
+ and VDEC: VLSI Desion and Education Center,University of Tokyo.
+ http://www.vdec.u-tokyo.ac.jp/English/index.html
+
+NEXT:
+ Open Source Conference 2018 Kyoto:  Aug.3-4 Kyoto,JAPAN
+   http://www.ospn.jp/osc2018-kyoto/
+ NetBSD BoF 2018 Aug.4 11:00-11:45
+  https://www.ospn.jp/osc2018-kyoto/modules/eventrsv/?id=2&noform=1
+ NetBSD Booth
+  https://www.ospn.jp/osc2018-kyoto/modules/article/article.php?articleid=1
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
