@@ -1,0 +1,87 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2018 Kyoto
+
+Kansai *BSD Users Group and
+The Japan NetBSD Users' Group members held booth
+at the Open Source Conference 2018 Kyoto on Aug. 3-4 2018:
+
+ http://www.ospn.jp/osc2018-kyoto/
+ https://www.facebook.com/NetBSD.jp/
+ http://www.jp.NetBSD.org/
+ http://www.kbug.gr.jp/
+
+Booth:
+ https://twitter.com/ebijun/status/1025240271804493825
+
+OMRON LUNA  68030/20MHz RAM:16MB Video:1280x1024
+- PSG means Programable Sound Generator
+- LUNA has HD647180/6.144MHz Z80 sub-processor 
+  and YM2149 sound chip
+  LUNA PSG support code http://twitter.com/tsutsuii/status/759793635898515456 
+- has PSG 3 channel.
+  https://twitter.com/ebijun/status/893636996773552128
+
+1. LUNA NetBSD PCM audio device with PSG by @moveccr 
+- NetBSD/luna68k 
+- audio(4) at psgpam on NetBSD/luna68k by @moveccr
+  /dev/audio can play audio with PSG as sounddevice
+  https://twitter.com/tsutsuii/status/1025233397604466689
+- AUDIO2 sound stack by isaki@
+  https://github.com/isaki68k/netbsd-src/tree/audio2
+- audioplay(1) on NetBSD/luna68k
+  https://twitter.com/tsutsuii/status/1025235654383300608
+
+2. LUNA PSG and twitter client Demo by tsutsui@
+- porting PSG Z80 sound driver for PC6001 to NetBSD/luna68k
+- NetBSD/luna68k
+- PSG play
+- twitter client: sayaka+mlterm-fb
+  https://twitter.com/tsutsuii/status/1025206058879410181
+
+PC6001VX on NetBSD/i386
+ https://twitter.com/ebijun/status/1025226769102589952
+
+Raspberry PI demonstration:
+- Demo Image:
+  http://mail-index.netbsd.org/port-arm/2018/08/02/msg004344.html
+
+- NetBSD/x68k on XM6i on NetBSD/earmv6hf on RaspberryPI3
+ http://mail-index.netbsd.org/port-arm/2018/07/29/msg004969.html
+
+- omxplayer on NetBSD8.0/earmv6hf on RaspberryPI2
+ http://mail-index.netbsd.org/port-arm/2018/07/22/msg004963.html
+ https://twitter.com/ebijun/status/1025242574796120066
+
+K*BUG booth Takeshi Mutoh http://qml.610t.org/
+  https://twitter.com/ebijun/status/1025259641377239040
+- distcc head 
+  NetBSD at Raspberry PI2B + LED loadavg
+- FreeBSD at Raspberry PiB + LED loadavg
+- NetBSD at NanoPi NEO     + LED loadavg
+- NetBSD at OrangePi Zero  + LED loadavg
+- NetBSD at Raspberry Pi ZeroW + LED loadavg+Blinkt!(slow)
+- RaspBSD at BananaPi + LED loadavg
+- OpenBSD at BeagleBone Black + 4xLED loadavg
+- RetroBSD at PIC32MX,2.11BSD
+- LiteBSD at chipKIT Wi-FIRE 4.4BSD PIC32MZ
+- NetBSD/aarch64 at RaspberryPi 3B +LED loadavg+Blinkt!
+- NetBSD/aarch64 at NanoPi NEO2 +LED loadavg
+
+NetBSD Tourist Guide:
+ https://www.re.soum.co.jp/~jun/OSC2018kyoto.pdf
+
+More pictures are available on Togetter page:
+ https://togetter.com/li/1252935
+
+Booth Donation:
+- Lemon & Peach Willow and stickers by @shimadah
+- Carp Umai-Bow and Momiji-Manjyu by @moveccr and isaki@ 
+ https://twitter.com/ebijun/status/1025234670345117696
+
+NEXT:
+ Open Developers Conference 2018 : Aug.25-26 Tokyo Kamata,JAPAN
+  https://www.ospn.jp/odc2018/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
