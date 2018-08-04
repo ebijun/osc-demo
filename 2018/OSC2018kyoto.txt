@@ -13,6 +13,17 @@ at the Open Source Conference 2018 Kyoto on Aug. 3-4 2018:
 Booth:
  https://twitter.com/ebijun/status/1025240271804493825
 
+BoF: 45minx2
+1. Kansai *BSD Users Group 
+- Kansai *BSD Users Group by Takeshi Mutoh
+- pkgsrc on MacOS by Takahiro Kambe
+- Blinkt! on NetBSD by Takeshi Mutoh
+- AsiaBSDCon2019 by Jun Ebihara
+
+2.  The Japan NetBSD Users' Group 
+- Hello WorkStation 
+  - LUNA NetBSD PCM audio device with PSG by @moveccr 
+
 OMRON LUNA  68030/20MHz RAM:16MB Video:1280x1024
 - PSG means Programable Sound Generator
 - LUNA has HD647180/6.144MHz Z80 sub-processor 
@@ -52,7 +63,9 @@ Raspberry PI demonstration:
  http://mail-index.netbsd.org/port-arm/2018/07/22/msg004963.html
  https://twitter.com/ebijun/status/1025242574796120066
 
-K*BUG booth Takeshi Mutoh http://qml.610t.org/
+K*BUG booth 
+
+Takeshi Mutoh http://qml.610t.org/
   https://twitter.com/ebijun/status/1025259641377239040
 - distcc head 
   NetBSD at Raspberry PI2B + LED loadavg
@@ -66,6 +79,10 @@ K*BUG booth Takeshi Mutoh http://qml.610t.org/
 - LiteBSD at chipKIT Wi-FIRE 4.4BSD PIC32MZ
 - NetBSD/aarch64 at RaspberryPi 3B +LED loadavg+Blinkt!
 - NetBSD/aarch64 at NanoPi NEO2 +LED loadavg
+
+NAKAMURA Kazushi http://kobe1995.jp/
+ https://twitter.com/ebijun/status/1025578352575303680
+- JetsonTK1 + Ubuntu + CUDA demonstration
 
 NetBSD Tourist Guide:
  https://www.re.soum.co.jp/~jun/OSC2018kyoto.pdf
