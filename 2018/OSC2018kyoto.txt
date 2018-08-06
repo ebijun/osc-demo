@@ -16,7 +16,9 @@ Booth:
 BoF: 45minx2
 1. Kansai *BSD Users Group 
 - Kansai *BSD Users Group by Takeshi Mutoh
+  http://www.kbug.gr.jp/
 - pkgsrc on MacOS by Takahiro Kambe
+  https://www.contaocms.jp
 - Blinkt! on NetBSD by Takeshi Mutoh
 - AsiaBSDCon2019 by Jun Ebihara
 
@@ -27,10 +29,8 @@ BoF: 45minx2
 OMRON LUNA  68030/20MHz RAM:16MB Video:1280x1024
 - PSG means Programable Sound Generator
 - LUNA has HD647180/6.144MHz Z80 sub-processor 
-  and YM2149 sound chip
+  and YM2149 sound chip with PSG 3 channel.
   LUNA PSG support code http://twitter.com/tsutsuii/status/759793635898515456 
-- has PSG 3 channel.
-  https://twitter.com/ebijun/status/893636996773552128
 
 1. LUNA NetBSD PCM audio device with PSG by @moveccr 
 - NetBSD/luna68k 
@@ -49,15 +49,17 @@ OMRON LUNA  68030/20MHz RAM:16MB Video:1280x1024
 - twitter client: sayaka+mlterm-fb
   https://twitter.com/tsutsuii/status/1025206058879410181
 
-PC6001VX on NetBSD/i386
+PC6001VX on NetBSD/i386 by tsutsui@
  https://twitter.com/ebijun/status/1025226769102589952
 
 Raspberry PI demonstration:
 - Demo Image:
-  http://mail-index.netbsd.org/port-arm/2018/08/02/msg004344.html
+8.99.22  http://mail-index.netbsd.org/port-arm/2018/07/29/msg004969.html
+8.0      http://mail-index.netbsd.org/port-arm/2018/07/22/msg004963.html
 
 - NetBSD/x68k on XM6i on NetBSD/earmv6hf on RaspberryPI3
  http://mail-index.netbsd.org/port-arm/2018/07/29/msg004969.html
+ https://twitter.com/ebijun/status/1025204140123643905
 
 - omxplayer on NetBSD8.0/earmv6hf on RaspberryPI2
  http://mail-index.netbsd.org/port-arm/2018/07/22/msg004963.html
@@ -85,7 +87,8 @@ NAKAMURA Kazushi http://kobe1995.jp/
 - JetsonTK1 + Ubuntu + CUDA demonstration
 
 NetBSD Tourist Guide:
- https://www.re.soum.co.jp/~jun/OSC2018kyoto.pdf
+ http://www.re.soum.co.jp/~jun/OSC2018kyoto.pdf
+ http://www.re.soum.co.jp/~jun/LUNA.pdf
 
 More pictures are available on Togetter page:
  https://togetter.com/li/1252935
