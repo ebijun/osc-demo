@@ -17,14 +17,17 @@ BoF: 45minx2
 1. Kansai *BSD Users Group 
 - Kansai *BSD Users Group by Takeshi Mutoh
   http://www.kbug.gr.jp/
+  https://scrapbox.io/BSD/%E9%96%A2%E8%A5%BF*BSD%E3%83%A6%E3%83%BC%E3%82%B6%E4%BC%9A(K*BUG)%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B
 - pkgsrc on MacOS by Takahiro Kambe
   https://www.contaocms.jp
 - Blinkt! on NetBSD by Takeshi Mutoh
+  https://scrapbox.io/BSD/NetBSD_de_Blinkt
 - AsiaBSDCon2019 by Jun Ebihara
 
 2.  The Japan NetBSD Users' Group 
-- Hello WorkStation 
+- Kon-nichiwa WorkStation 
   - LUNA NetBSD PCM audio device with PSG by @moveccr 
+  https://github.com/moveccr/luna-audio/blob/master/docs/osc18kyoto.pdf
 
 OMRON LUNA  68030/20MHz RAM:16MB Video:1280x1024
 - PSG means Programable Sound Generator
@@ -68,6 +71,7 @@ Raspberry PI demonstration:
 K*BUG booth 
 
 Takeshi Mutoh http://qml.610t.org/
+  https://scrapbox.io/BSD/OSC_2018_Kyoto_K*BUG%E3%83%96%E3%83%BC%E3%82%B9%E3%81%AE%E3%82%A6%E3%83%A9%E8%A9%B1
   https://twitter.com/ebijun/status/1025259641377239040
 - distcc head 
   NetBSD at Raspberry PI2B + LED loadavg
