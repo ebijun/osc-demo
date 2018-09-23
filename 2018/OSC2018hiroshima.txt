@@ -1,0 +1,65 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2018 Hiroshima
+
+The Japan NetBSD Users' Group and XM6i Team members held booth
+at the Open Source Conference 2018 Hiroshima on Sep.23 2018:
+
+ http://www.ospn.jp/osc2018-hiroshima/
+ http://www.jp.NetBSD.org/
+ https://www.facebook.com/NetBSD.jp/
+
+Presentation:
+ Sound! NetBSD by isaki@
+   http://www.pastel-flower.jp/~isaki/NetBSD/
+  
+Booth:
+ https://twitter.com/ebijun/status/1043715257187819520
+
+OMRON LUNA NetBSD PCM audio device with PSG by @moveccr 
+- NetBSD/luna68k 
+- audio(4) at psgpam on NetBSD/luna68k by @moveccr
+  /dev/audio can play audio with PSG as sounddevice
+- AUDIO2 sound stack by isaki@
+- audioplay(1) on NetBSD/luna68k
+- IBM PS/2 keyboard adapter for LUNA
+ ATTINY2313+ROAM BP5277+MAX232N
+
+ https://twitter.com/ebijun/status/1043722863981649921
+ https://twitter.com/ebijun/status/1043724751158403072
+
+
+NetBSD/x68k + Audio Framework kernel by XM6i.org
+ https://twitter.com/ebijun/status/1043667189281091584
+
+Donation request for XM6i: MC68060 RC75 Rev5 CPU for support 68060
+
+XM6i X68030 emulator 
+  http://www.pastel-flower.jp/~isaki/XM6i/
+
+1. NetBSD/x68k on XM6i on Windows8 on MSI U135DX
+  https://twitter.com/ebijun/status/1043718768906498048
+
+2. NetBSD/x68k on XM6i on NetBSD7.1/amd64 on VMware Player on Windows7
+  https://twitter.com/ebijun/status/1043719635000938497
+  
+3. NetBSD/x68k on XM6i on NetBSD/earmv6hf on RaspberryPI3B+ 
+   with Xfce4 and omxplayer
+   https://twitter.com/ebijun/status/1043666502723878912
+ 
+NetBSD Tourist Guide:
+ http://www.re.soum.co.jp/~jun/OSC2018hiroshima.pdf
+
+Demo Images:
+ RPI:
+  http://mail-index.netbsd.org/port-arm/2018/09/17/msg005023.html
+
+More pictures are available on Togetter page:
+  https://togetter.com/li/1269545
+
+NEXT:
+ Open Source Conference 2018 Kagawa:  Oct.7 Kagawa,JAPAN
+   https://www.ospn.jp/osc2018-kagawa/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
