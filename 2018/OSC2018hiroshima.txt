@@ -49,6 +49,12 @@ XM6i X68030 emulator
 NetBSD Tourist Guide:
  http://www.re.soum.co.jp/~jun/OSC2018hiroshima.pdf
 
+Yuuji Hirose,  @hiroseyuuji
+ https://www.ospn.jp/osc2018-hiroshima/modules/eguide/event.php?eid=17
+ introduce Learning Ruby with NetBSD clients & FreeBSD ZFS FileServer
+ in Tohoku University of Community Service and Science
+ http://www.koeki-u.ac.jp/
+
 Demo Images:
  RPI:
   http://mail-index.netbsd.org/port-arm/2018/09/17/msg005023.html
