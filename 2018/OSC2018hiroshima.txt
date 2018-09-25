@@ -9,8 +9,8 @@ at the Open Source Conference 2018 Hiroshima on Sep.23 2018:
  https://www.facebook.com/NetBSD.jp/
 
 Presentation:
- Sound! NetBSD by isaki@
-   http://www.pastel-flower.jp/~isaki/NetBSD/
+ Sound! NetBSD - chikaku nai finale - by isaki@
+   http://www.pastel-flower.jp/~isaki/NetBSD/osc18hi/
   
 Booth:
  https://twitter.com/ebijun/status/1043715257187819520
