@@ -55,6 +55,10 @@ Yuuji Hirose,  @hiroseyuuji
  in Tohoku University of Community Service and Science
  http://www.koeki-u.ac.jp/
 
+Lightning Talk by @kapper1224
+ NetBSD8.0 on UEFI Bootloader and Windows Tablet 
+  https://www.slideshare.net/kapper1224/netbsd80-on-uefi-bootloader-and-windows-tabletosc18hi
+
 Demo Images:
  RPI:
   http://mail-index.netbsd.org/port-arm/2018/09/17/msg005023.html
