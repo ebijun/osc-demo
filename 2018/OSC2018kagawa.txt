@@ -1,0 +1,56 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2018 Kagawa
+
+The Japan NetBSD Users' Group held booth
+at the Open Source Conference 2018 Kagawa on Oct.6 2018:
+
+ http://www.ospn.jp/osc2018-kagawa/
+ http://www.jp.NetBSD.org/
+ https://www.facebook.com/NetBSD.jp/
+
+Booth:
+ https://twitter.com/tsutsuii/status/1048435745998823424
+
+OMRON LUNA  68030/20MHz RAM:16MB Video:1280x1024 by tsutsui@
+- PSG means Programable Sound Generator
+- LUNA has HD647180/6.144MHz Z80 sub-processor 
+  and YM2149 sound chip with PSG 3 channel.
+LUNA PSG support code http://twitter.com/tsutsuii/status/759793635898515456
+
+https://twitter.com/tsutsuii/status/1048332920589410304
+https://twitter.com/tsutsuii/status/1048388646187851781
+
+NetBSD/x68k on XM6i on NetBSD/earmv6hf on RaspberryPI3B+ 
+   with Xfce4 and omxplayer
+ https://twitter.com/ebijun/status/1048380536136163329
+
+ XM6i X68030 emulator by isaki@
+  http://www.pastel-flower.jp/~isaki/XM6i/
+
+NetBSD/earmv6hf on RaspberryPI2 with omxplayer 
+  and HD301D1 HD pico Laser Projector
+ https://twitter.com/ebijun/status/1048390794841735168
+ https://twitter.com/KSY_RasPi_Shop/status/1016906622457733120
+
+NetBSD 8.0/i386 on EeePC N280 by @n12i
+ https://twitter.com/n12i/status/1048378163212902400
+ 
+NetBSD Tourist Guide:
+ http://www.re.soum.co.jp/~jun/OSC2018kagawa.pdf
+
+Demo Images:
+ RPI:
+  http://mail-index.netbsd.org/port-arm/2018/10/01/msg005059.html
+
+More pictures are available on Togetter page:
+  https://togetter.com/li/1273756
+
+NEXT:
+ Open Source Conference 2018 Tokyo/Fall:  Oct.27-28 Tokyo,JAPAN
+   https://www.ospn.jp/osc2018-fall/
+  BSD BOF: 2018 Oct.28 11:00-11:45
+   https://www.ospn.jp/osc2018-fall/modules/eguide/event.php?eid=4
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
