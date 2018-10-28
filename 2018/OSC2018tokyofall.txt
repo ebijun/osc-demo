@@ -1,0 +1,99 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2018 Tokyo/Fall
+
+The Japan NetBSD Users' Group members held booth
+at the Open Source Conference 2018 Tokyo/Fall on Feb. 23-24 2018:
+
+ https://www.ospn.jp/osc2018-fall/
+ https://www.facebook.com/events/806993292795496/
+ https://www.facebook.com/NetBSD.jp/
+
+Booth:
+
+NetBSD Tourist Guide:
+ https://www.re.soum.co.jp/~jun/OSC2018tokyofall.pdf
+
+BSD BOF
+@s_mitu 
+@freebsdtank camera RaspberryPI Zero on FreeBSD 
+with Explorer HAT Pro
+  https://github.com/s-mitu/RaspberryPi/blob/master/FreeBSD/Documents/OSC2018.odp
+
+@murachue
+ Linux4.1.3 on Nintendo64
+  https://speakerdeck.com/murachue/nintendou64
+
+The NetBSD booth exhibited the following machines:
+
+@murachue
+Linux4.1.3 on Nintendo64
+ https://twitter.com/ebijun/status/1056079290255601664
+
+@yamori813
+FreeBSD13.0/mips on atheros SOC Onion Omega 
+ https://twitter.com/ebijun/status/1056378787347095552
+
+@yamori813
+Kismet Wi-Fi monitor on
+FreeBSD12.0/mips on RT3050 CFI Corega WLR300N 
+ https://twitter.com/ebijun/status/1056406973430681601
+
+@yamori813
+mRuby on au HOME SPOT CUBE includes realtech samips soc
+ with bareSSL
+ https://twitter.com/ebijun/status/1056406973430681601
+
+@tsutsuii
+NetBSD8.0/hpcsh /HP HP690 
+ https://twitter.com/ebijun/status/1056023693485174784
+
+NetBSD/x68k on XM6i on NetBSD/earmv6hf on Raspberry Pi3
+ http://mail-index.netbsd.org/port-arm/2018/10/25/msg005097.html 
+
+mikutter 3.6.3 on NetBSD/earmv7hf on RaspberryPI2 
+
+BSD daemon cookies:
+ https://twitter.com/ebijun/status/1056345583676416000
+
+@Kapper1224 recommends NEC TW708T1S for BSD tablet
+ https://www.slideshare.net/kapper1224/netbsd80-on-uefi-bootloader-and-windows-tabletosc18hi
+ https://twitter.com/ebijun/status/1056028065870925825
+ https://twitter.com/ebijun/status/1056047048414261248
+
+>> @srchack board collection::
+Lichee Tang
+ https://twitter.com/ebijun/status/1056065338138214400
+
+LicheePi Nano
+ https://twitter.com/ebijun/status/1056064833416658944
+
+Allwinner Lichee Zero
+ https://twitter.com/ebijun/status/1056062444513124352
+
+>> CBUG meeting http://www.cbug.bug.gr.jp/
+
+Meltdown and Spectre by Masashi Uchiya
+ https://twitter.com/ebijun/status/1056040248709238784
+
+Mediatech MT7621 ZODIAC GX
+ https://twitter.com/ebijun/status/1056034073750077440
+
+Demo Images:
+ RaspberryPi 0-3 NetBSD/earmv6hf
+ http://mail-index.netbsd.org/port-arm/2018/10/25/msg005097.html
+
+Booth donation:
+
+Uiro and stickers by @shimadah
+ https://twitter.com/ebijun/status/1055981322911473664
+
+More pictures are available on Togetter page:
+ https://togetter.com/li/1281694
+
+NEXT:
+
+ https://www.facebook.com/NetBSD.jp/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
