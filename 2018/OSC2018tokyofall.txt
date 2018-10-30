@@ -5,10 +5,12 @@ The Japan NetBSD Users' Group members held booth
 at the Open Source Conference 2018 Tokyo/Fall on Feb. 23-24 2018:
 
  https://www.ospn.jp/osc2018-fall/
- https://www.facebook.com/events/806993292795496/
+ https://www.jp.NetBSD.org/
  https://www.facebook.com/NetBSD.jp/
 
 Booth:
+
+ https://twitter.com/ebijun/status/1056001356845072384
 
 NetBSD Tourist Guide:
  https://www.re.soum.co.jp/~jun/OSC2018tokyofall.pdf
@@ -41,26 +43,31 @@ FreeBSD12.0/mips on RT3050 CFI Corega WLR300N
 @yamori813
 mRuby on au HOME SPOT CUBE includes realtech samips soc
  with bareSSL
- https://twitter.com/ebijun/status/1056406973430681601
+ https://twitter.com/ebijun/status/1056408352471711745
 
 @tsutsuii
 NetBSD8.0/hpcsh /HP HP690 
  https://twitter.com/ebijun/status/1056023693485174784
 
 NetBSD/x68k on XM6i on NetBSD/earmv6hf on Raspberry Pi3
- http://mail-index.netbsd.org/port-arm/2018/10/25/msg005097.html 
+ https://twitter.com/ebijun/status/1055995683038101504
 
-mikutter 3.6.3 on NetBSD/earmv7hf on RaspberryPI2 
+omxplayer on NetBSD/earmv7hf on RaspberryPI2
+  and HD301D1 HD pico Laser Projector
+ https://twitter.com/ebijun/status/1055995937842057216
+ https://twitter.com/KSY_RasPi_Shop/status/1016906622457733120
 
 BSD daemon cookies:
  https://twitter.com/ebijun/status/1056345583676416000
 
 @Kapper1224 recommends NEC TW708T1S for BSD tablet
+ https://www.slideshare.net/kapper1224/winlinuxbsd-in-osc2018-osc18tk
  https://www.slideshare.net/kapper1224/netbsd80-on-uefi-bootloader-and-windows-tabletosc18hi
  https://twitter.com/ebijun/status/1056028065870925825
  https://twitter.com/ebijun/status/1056047048414261248
 
->> @srchack board collection::
+>> @srchack aka openwrt.jp something new recommendation
+
 Lichee Tang
  https://twitter.com/ebijun/status/1056065338138214400
 
@@ -70,12 +77,13 @@ LicheePi Nano
 Allwinner Lichee Zero
  https://twitter.com/ebijun/status/1056062444513124352
 
->> CBUG meeting http://www.cbug.bug.gr.jp/
+>> CBUG 42th meeting http://www.cbug.bug.gr.jp/
 
 Meltdown and Spectre by Masashi Uchiya
  https://twitter.com/ebijun/status/1056040248709238784
 
 Mediatech MT7621 ZODIAC GX
+ https://www.slideshare.net/takashinaito146/zodiacgx
  https://twitter.com/ebijun/status/1056034073750077440
 
 Demo Images:
@@ -84,13 +92,35 @@ Demo Images:
 
 Booth donation:
 
-Uiro and stickers by @shimadah
+Uiro and stickers by @shimadah aka https://opencocon.org/
  https://twitter.com/ebijun/status/1055981322911473664
 
 More pictures are available on Togetter page:
  https://togetter.com/li/1281694
 
 NEXT:
+
+ Nov.9-10 2018:Fri-Sat
+ Kansai Open Forum 2018 (KOF2018)
+ https://www.k-of.jp/2018/
+
+  Book recommendation: Nov.9 14:05-14:20
+   https://k-of.jp/backend/session/1196
+  BSD BOF: Nov.9 15:00-15:50 
+   https://k-of.jp/backend/session/1126
+  Kansai *BSD Users Group: http://www.kbug.gr.jp/
+   BOF: Nov.9 13:00-13:50
+    https://k-of.jp/backend/session/1128
+   Stage: Nov.10 14:35-14:50 
+    https://k-of.jp/backend/session/1217
+ 
+ Nov.10 2018 Sat:
+ Open Source Conference 2018 niigata ,Niigata,Japan
+ https://www.ospn.jp/osc2018-niigata/
+  Presentation: 15:30-15:45
+   https://www.ospn.jp/osc2018-niigata/modules/eguide/event.php?eid=5
+  Booth: 
+   Echigo BSD Users Group: http://www.ebug.jp/ 
 
  https://www.facebook.com/NetBSD.jp/
 
