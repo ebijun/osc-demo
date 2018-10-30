@@ -13,7 +13,7 @@ Booth:
  https://twitter.com/ebijun/status/1056001356845072384
 
 NetBSD Tourist Guide:
- https://www.re.soum.co.jp/~jun/OSC2018tokyofall.pdf
+ http://www.re.soum.co.jp/~jun/OSC2018tokyofall.pdf
 
 BSD BOF
 @s_mitu 
