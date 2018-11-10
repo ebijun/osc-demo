@@ -1,0 +1,71 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2018 Niigata
+
+The Japan NetBSD Users' Group and 
+Echigo BSD Users Group members held booth
+at the Open Source Conference 2017 Niigata on Nov.10 2018:
+
+ http://www.ospn.jp/osc2018-niigata/
+ http://www.ebug.jp/
+ http://www.jp.NetBSD.org/
+ https://www.facebook.com/NetBSD.jp/
+
+Fuguita: OpenBSD LiveCD by Yoshihiro Kawamata
+   http://fuguita.org/?FuguIta
+   http://fuguita.org/index.php?%B2%CF%C6%DA%C8%C4
+
+ Fuguita-6.4: based on OpenBSD 6.4
+   FuguIta-6.4-{i386,amd64}-201811071
+   FuguIta-6.3-arm64-201805301
+    FuguIta for arm64 runs on Raspberry Pi 3. 
+
+Echigo BSD Users Group, since Nov.2001
+   http://www.ebug.jp/
+
+Echigo BSD Users Group activities:
+
+ OpenBSD wiki:
+  http://fuguita.org/
+
+ Scale httpd on OpenBSD:
+   http://fuguita.org/index.php?EBUG%CA%D9%B6%AF%B2%F1%2F20141115_httpd%A4%F2%A5%B9%A5%B1%A1%BC%A5%EB%A4%B5%A4%BB%A4%EB
+
+ CARP and OpenBSD Web/MailingList Server:
+ http://fuguita.org/index.php?EBUG%CA%D9%B6%AF%B2%F1%2F20110903_%A5%ED%A1%BC%A5%C9%A5%D0%A5%E9%A5%F3%A5%B5%A4%CA%A4%B7%A4%C7%C9%E9%B2%D9%CA%AC%BB%B6%A4%B7%A4%C6%A4%DF%A4%BF
+
+NetBSD Booth:
+ https://twitter.com/ebijun/status/1061079380678459393
+
+NetBSD/x68k on XM6i on NetBSD/earmv6hf on Raspberry Pi3
+ https://twitter.com/ebijun/status/1061079748305010688 
+
+XM6i: NetBSD/x68k on X68030 emulators
+   http://xm6i.org/ 
+
+Raspberry PI2 plays omxplayer (NetBSD/earmv6hf)
+  and HD301D1 HD pico Laser Projector
+ https://twitter.com/ebijun/status/1061080044263493633
+ https://twitter.com/KSY_RasPi_Shop/status/1016906622457733120
+
+NetBSD Tourist Guide:
+ https://www.re.soum.co.jp/~jun/OSC2018niigata.pdf
+
+Demo Images:
+ Fuguita: OpenBSD LiveCD
+   http://fuguita.org/?FuguIta
+ RPI:
+  http://mail-index.netbsd.org/port-arm/2018/11/06/msg005153.html
+
+More pictures are available on Togetter page:
+ https://togetter.com/li/1286767
+
+NEXT:
+
+ OSC2018 Shimane: Nov.23 Shimane,JAPAN
+  http://www.ospn.jp/osc2018-shimane/ 
+  https://www.facebook.com/NetBSD.jp/events
+
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
