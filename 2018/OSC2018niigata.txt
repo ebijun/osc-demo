@@ -40,7 +40,7 @@ NetBSD/x68k on XM6i on NetBSD/earmv6hf on Raspberry Pi3
  https://twitter.com/ebijun/status/1061079748305010688 
 
 XM6i: NetBSD/x68k on X68030 emulators
-   http://xm6i.org/ 
+ http://www.pastel-flower.jp/~isaki/XM6i/
 
 Raspberry PI2 plays omxplayer (NetBSD/earmv6hf)
   and HD301D1 HD pico Laser Projector
