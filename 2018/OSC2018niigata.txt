@@ -63,6 +63,7 @@ NEXT:
 
  OSC2018 Shimane: Nov.23 Shimane,JAPAN
   http://www.ospn.jp/osc2018-shimane/ 
+  10:40-10:55  https://www.ospn.jp/osc2018-shimane/modules/article/article.php?articleid=2
   https://www.facebook.com/NetBSD.jp/events
 
 
