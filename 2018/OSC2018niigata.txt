@@ -26,13 +26,13 @@ Echigo BSD Users Group activities:
 
  OpenBSD wiki:
   http://fuguita.org/
-
- Scale httpd on OpenBSD:
-   http://fuguita.org/index.php?EBUG%CA%D9%B6%AF%B2%F1%2F20141115_httpd%A4%F2%A5%B9%A5%B1%A1%BC%A5%EB%A4%B5%A4%BB%A4%EB
-
- CARP and OpenBSD Web/MailingList Server:
- http://fuguita.org/index.php?EBUG%CA%D9%B6%AF%B2%F1%2F20110903_%A5%ED%A1%BC%A5%C9%A5%D0%A5%E9%A5%F3%A5%B5%A4%CA%A4%B7%A4%C7%C9%E9%B2%D9%CA%AC%BB%B6%A4%B7%A4%C6%A4%DF%A4%BF
-
+ sndio framework
+　http://fuguita.org/index.php?cmd=read&page=EBUG%CA%D9%B6%AF%B2%F1%2F20180825_sndio
+ Learning OpenBSD for !OpenBSD users
+  http://fuguita.org/index.php?cmd=read&page=EBUG%CA%D9%B6%AF%B2%F1%2F20171118_OpenBSD%B4%C9%CD%FD%C6%FE%CC%E7
+ OpenBSD meets RaspberryPi3
+  http://fuguita.org/index.php?cmd=read&page=EBUG%CA%D9%B6%AF%B2%F1%2F20170819_OpenBSD_rpi3
+  
 NetBSD Booth:
  https://twitter.com/ebijun/status/1061079380678459393
 
