@@ -48,7 +48,7 @@ Raspberry PI2 plays omxplayer (NetBSD/earmv6hf)
  https://twitter.com/KSY_RasPi_Shop/status/1016906622457733120
 
 NetBSD Tourist Guide:
- https://www.re.soum.co.jp/~jun/OSC2018niigata.pdf
+ http://www.re.soum.co.jp/~jun/OSC2018niigata.pdf
 
 Demo Images:
  Fuguita: OpenBSD LiveCD
