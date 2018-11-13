@@ -27,7 +27,7 @@ Echigo BSD Users Group activities:
  OpenBSD wiki:
   http://fuguita.org/
  sndio framework
-　http://fuguita.org/index.php?cmd=read&page=EBUG%CA%D9%B6%AF%B2%F1%2F20180825_sndio
+  http://fuguita.org/index.php?cmd=read&page=EBUG%CA%D9%B6%AF%B2%F1%2F20180825_sndio
  Learning OpenBSD for !OpenBSD users
   http://fuguita.org/index.php?cmd=read&page=EBUG%CA%D9%B6%AF%B2%F1%2F20171118_OpenBSD%B4%C9%CD%FD%C6%FE%CC%E7
  OpenBSD meets RaspberryPi3
