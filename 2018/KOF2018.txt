@@ -1,0 +1,84 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at KANSAI OPEN FORUM 2018
+
+The Japan NetBSD Users' Group and 
+Kansai *BSD Users Group members held booth
+at the KANSAI OPEN FORUM 2018 on Nov. 9-10 2018:
+
+ https://k-of.jp/2018/
+ http://www.jp.NetBSD.org/
+ https://www.facebook.com/NetBSD.jp/
+
+Kansai *BSD Users Group at KOF2018 report
+ https://twitter.com/610t/status/1061777190860152833
+
+BSD BOF:
+- NetBSD8.0 and keep posting dmesg by tsutsui@
+ https://speakerdeck.com/tsutsui/kof2018-netbsd
+
+Tokai-do LUG:
+- emacs-18.59 group by tsutsui@
+ https://speakerdeck.com/tsutsui/kof2018-tokaidolug-lt
+
+Booth:
+
+The Kansai *BSD Users Group booth exhibited the following machines:
+- Project Trident(FreeBSD) on Thinkpad X61
+- NetBSD on PocketCHIP
+
+The Gift BOX
+- NetBSD/aarch64 
+- NetBSD/evbarm 
+
+RetroBSD/LiteBSD
+
+Scratch and Squeak
+- Scratch x (microbit ESPB266 Android)
+- Squeak x Gainer wooden BSD Daemon shaped Joystick
+
+The Japan NetBSD Users' Group booth exhibited the following machines:
+
+- OMRON LUNA NetBSD/luna68k NetBSD 8.0
+ MC68030 20MHz 1280x1024x16colors 
+ YM2194 3 sounds SSG
+ PCM audio device with PSG by @moveccr 
+ https://twitter.com/tsutsuii/status/1060751684622704641
+
+- Running NetBSD/x68k on XM6i with Raspberry PI3 NetBSD/earmv6hf
+ https://twitter.com/ebijun/status/1060765910284230656
+
+- Raspberry Pi2 NetBSD/earmv7hf Xfce4+mikutter
+ https://twitter.com/ebijun/status/1060766460572659712
+
+- stickers (NetBSD,mikutter,and various characters)
+ https://twitter.com/tsutsuii/status/1060757697925066752
+  
+- Junk-Do book store NetBSD booth recomendation:
+Book Recommendations:
+ https://k-of.jp/2018/session/1067
+ https://twitter.com/ebijun/status/1060768323539886081
+ https://honto.jp/netstore/pd-book_28911384.html
+ https://honto.jp/netstore/pd-book_29173638.html
+ https://honto.jp/netstore/pd-book_29211395.html
+ https://honto.jp/netstore/pd-book_29063130.html
+ https://honto.jp/netstore/pd-book_27179532.html
+ https://honto.jp/netstore/pd-book_28365066.htm
+
+Raspberry Pi running updated 2018-11-12-netbsd-raspi.img image:
+ http://mail-index.netbsd.org/port-arm/2018/11/06/msg004432.html
+
+More pictures are available on Togetter page:
+ https://togetter.com/li/1170068
+ 
+NEXT:
+ 
+ Open Source Conference 2018 Niigata: Nov.26 HIROSHIMA,JAPAN
+  http://www.ospn.jp/osc2018-hiroshima/ 
+  https://www.facebook.com/NetBSD.jp/events
+  https://www.facebook.com/events/1294007417314704/
+
+ KANSAI OPEN FORUM 2019 on Nov. 8-9 2019
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
