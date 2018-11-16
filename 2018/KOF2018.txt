@@ -11,12 +11,16 @@ at the KANSAI OPEN FORUM 2018 on Nov. 9-10 2018:
 
 Kansai *BSD Users Group at KOF2018 report
  https://twitter.com/610t/status/1061777190860152833
+ https://k-of.jp/backend/session/1128
+ https://k-of.jp/backend/session/1217
 
 BSD BOF:
+ https://k-of.jp/backend/session/1126
 - NetBSD8.0 and keep posting dmesg by tsutsui@
  https://speakerdeck.com/tsutsui/kof2018-netbsd
 
 Tokai-do LUG:
+ https://k-of.jp/backend/session/1148
 - emacs-18.59 group by tsutsui@
  https://speakerdeck.com/tsutsui/kof2018-tokaidolug-lt
 
@@ -55,7 +59,7 @@ The Japan NetBSD Users' Group booth exhibited the following machines:
   
 - Junk-Do book store NetBSD booth recomendation:
 Book Recommendations:
- https://k-of.jp/2018/session/1067
+ https://k-of.jp/backend/session/1196
  https://twitter.com/ebijun/status/1060768323539886081
  https://honto.jp/netstore/pd-book_28911384.html
  https://honto.jp/netstore/pd-book_29173638.html
@@ -68,14 +72,13 @@ Raspberry Pi running updated 2018-11-12-netbsd-raspi.img image:
  http://mail-index.netbsd.org/port-arm/2018/11/06/msg004432.html
 
 More pictures are available on Togetter page:
- https://togetter.com/li/1170068
+ https://togetter.com/li/1286691
  
 NEXT:
  
- Open Source Conference 2018 Niigata: Nov.26 HIROSHIMA,JAPAN
-  http://www.ospn.jp/osc2018-hiroshima/ 
+ Open Source Conference 2018 Niigata: Nov.10 Niigata,JAPAN
+  http://www.ospn.jp/osc2018-niigata/ 
   https://www.facebook.com/NetBSD.jp/events
-  https://www.facebook.com/events/1294007417314704/
 
  KANSAI OPEN FORUM 2019 on Nov. 8-9 2019
 
