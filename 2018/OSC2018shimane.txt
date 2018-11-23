@@ -1,0 +1,58 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2018 Shimane
+
+The Japan NetBSD Users' Group held booth
+at the Open Source Conference 2018 Shimane on Nov.23 2018:
+
+ http://www.ospn.jp/osc2018-shimane/
+ https://www.facebook.com/NetBSD.jp/
+
+NetBSD Tourist Guide:
+ http://www.re.soum.co.jp/~jun/OSC2018shimane.pdf
+
+Booth:
+ https://twitter.com/ebijun/status/1048390794841735168
+
+The NetBSD booth exhibited the following machines:
+
+SONY NEWS NWS-5000SB NetBSD/newsmips by @n12i
+ https://github.com/ebijun/NetBSD/blob/master/dmesg/newsmips/NEWS5000
+ https://twitter.com/n12i/status/1065780397844430848
+
+OMRON LUNA NetBSD PCM audio device with PSG by @moveccr 
+- NetBSD/luna68k 
+- audio(4) at psgpam on NetBSD/luna68k by @moveccr
+  /dev/audio can play audio with PSG as sounddevice
+- AUDIO2 sound stack by isaki@
+- audioplay(1) on NetBSD/luna68k
+- IBM PS/2 keyboard adapter for LUNA
+ ATTINY2313+ROAM BP5277+MAX232N
+
+ https://twitter.com/ebijun/status/1065789858403115008
+
+OMRON LUNA emulator on NetBSD/amd64 by isaki@
+ https://twitter.com/ebijun/status/1065802598400184320
+
+Raspberry PI3 running NetBSD/x68k with XM6i emulator.
+ https://twitter.com/ebijun/status/1065771754398732288
+
+NetBSD/earmv6hf on RaspberryPI3B+ with omxplayer 
+  and HD301D1 HD pico Laser Projector
+ https://twitter.com/KSY_RasPi_Shop/status/1016906622457733120
+
+many thanx to 
+ Hiroyuki Nakaji,Shuji Mochida,XM6i Team
+
+Demo Images:
+
+More pictures are available on Togetter page:
+ https://togetter.com/li/1291113
+
+NEXT:
+ Open Source Conference 2018 Fukuoka:  Oct.28 Nagaoka,JAPAN
+    http://www.ospn.jp/osc2018-nagaoka/
+    https://www.facebook.com/events/304865093311472/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
