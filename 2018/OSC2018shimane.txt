@@ -11,13 +11,14 @@ NetBSD Tourist Guide:
  http://www.re.soum.co.jp/~jun/OSC2018shimane.pdf
 
 Booth:
- https://twitter.com/ebijun/status/1048390794841735168
+ https://twitter.com/ebijun/status/1065817311221702656
 
 The NetBSD booth exhibited the following machines:
 
 SONY NEWS NWS-5000SB NetBSD/newsmips by @n12i
  https://github.com/ebijun/NetBSD/blob/master/dmesg/newsmips/NEWS5000
  https://twitter.com/n12i/status/1065780397844430848
+ https://twitter.com/ebijun/status/1065836723005906944
 
 OMRON LUNA NetBSD PCM audio device with PSG by @moveccr 
 - NetBSD/luna68k 
@@ -39,19 +40,28 @@ Raspberry PI3 running NetBSD/x68k with XM6i emulator.
 NetBSD/earmv6hf on RaspberryPI3B+ with omxplayer 
   and HD301D1 HD pico Laser Projector
  https://twitter.com/KSY_RasPi_Shop/status/1016906622457733120
+ https://twitter.com/ebijun/status/1065830120978493440
+
+Ancient Unix on GEMINI PDA Shuji Mochida
+ Android7.1+UserLAnd,Debian9.5+simh/tme/qemu/pkgsrc
+ PDP11 to SPARC,2.11BSD to SunView on your hand.
+ https://twitter.com/ebijun/status/1065835619408998401
 
 many thanx to 
  Hiroyuki Nakaji,Shuji Mochida,XM6i Team
 
 Demo Images:
+ http://mail-index.netbsd.org/port-arm/2018/11/06/msg005153.html
+
+ http://mail-index.netbsd.org/port-arm/2018/11/21/msg005237.html
+  boot failed on RPI0/0W/1 with nyftp:201711172150Z.
 
 More pictures are available on Togetter page:
  https://togetter.com/li/1291113
 
 NEXT:
- Open Source Conference 2018 Fukuoka:  Oct.28 Nagaoka,JAPAN
-    http://www.ospn.jp/osc2018-nagaoka/
-    https://www.facebook.com/events/304865093311472/
+ Open Source Conference 2018 Fukuoka:  Dec.8 Fukuoka,JAPAN
+    http://www.ospn.jp/osc2018-fukuoka/
 
 TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
 ---
