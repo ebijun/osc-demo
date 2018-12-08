@@ -1,0 +1,53 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2018 Fukuoka
+
+The Japan NetBSD Users' Group held booth
+at the Open Source Conference 2018 Fukuoka on Dec.8 2018:
+
+ http://www.ospn.jp/osc2018-fukuoka/
+ https://www.facebook.com/NetBSD.jp/
+
+NetBSD Tourist Guide:
+ http://www.re.soum.co.jp/~jun/OSC2018fukuoka.pdf
+
+Booth:
+ https://twitter.com/ebijun/status/1071206587946065920
+
+The NetBSD booth exhibited the following machines:
+
+Raspberry PI3 running NetBSD/x68k with XM6i emulator.
+ https://twitter.com/ebijun/status/1071214095431434240
+
+NetBSD/earmv7hf on RaspberryPI2-1.2 with omxplayer 
+  and HD301D1 HD pico Laser Projector
+ https://twitter.com/KSY_RasPi_Shop/status/1016906622457733120
+ https://twitter.com/ebijun/status/1071280779647307776
+
+NetBSD & FreeBSD stickers and more
+ thanx tsutsui@ for NetBSD stickers
+  https://twitter.com/ebijun/status/1070599783788638211
+ thanx meta@FreeBSD for FreeBSD stickers
+  https://twitter.com/ebijun/status/1071239437407805440
+ and more.
+  https://twitter.com/ebijun/status/1071282927265173504
+
+Demo Images:
+ RPI
+  http://mail-index.netbsd.org/port-arm/2018/12/03/msg005294.html
+ RPI3: aarch64
+ http://mail-index.netbsd.org/port-arm/2018/12/03/msg005297.html
+
+More pictures are available on Togetter page:
+ https://togetter.com/li/1296258
+
+2018 summary:
+ https://github.com/ebijun/NetBSD/blob/master/Guide/OSC/OSC2018.rst
+ https://github.com/ebijun/NetBSD/blob/master/Guide/RPI/RPIupdate2018.rst 
+
+NEXT:
+ Open Source Conference 2019 Osaka:  Jan.25-26 Osaka,JAPAN
+    http://www.ospn.jp/osc2019-osaka/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
