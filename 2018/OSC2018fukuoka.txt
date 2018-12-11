@@ -5,6 +5,7 @@ The Japan NetBSD Users' Group held booth
 at the Open Source Conference 2018 Fukuoka on Dec.8 2018:
 
  http://www.ospn.jp/osc2018-fukuoka/
+ http://www.jp.NetBSD.org/
  https://www.facebook.com/NetBSD.jp/
 
 NetBSD Tourist Guide:
