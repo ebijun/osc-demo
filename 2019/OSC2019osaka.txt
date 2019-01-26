@@ -1,0 +1,74 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2019 Osaka
+
+The Japan NetBSD Users' Group and Kansai held booth
+at the Open Source Conference 2019 Osaka on Jan.27 2019:
+
+ http://www.ospn.jp/osc2019-osaka/
+ http://www.jp.NetBSD.org/
+ https://www.facebook.com/NetBSD.jp/
+
+Presentation:
+ daemon.kbug.gr.jp status update by taka@
+ https://twitter.com/ebijun/status/1088973721367244800
+
+ dosbox tutorial by kapper
+ https://twitter.com/ebijun/status/1088971201467244545
+ https://twitter.com/ebijun/status/1088970625673179136
+
+ NetBSD/pinebook
+ https://github.com/ebijun/NetBSD/blob/master/pinebook/README
+
+Booth:
+ https://twitter.com/ebijun/status/1089002391976857600
+
+SHARP X68030 NetBSD/x68k 8.0 with nanotodon by tsutsui@
+  https://twitter.com/ebijun/status/1088993283160780801
+
+ mastdon client 
+  https://github.com/taka-tuos/nanotodon
+ neptune-X
+  https://twitter.com/ebijun/status/1089005410810380288
+
+NetBSD/x68k on NetBSD/earmv6hf on RaspberryPI 3
+ https://twitter.com/ebijun/status/1089000069448134656
+
+ XM6i X68030 emulator 
+  http://www.pastel-flower.jp/~isaki/XM6i/
+
+ omxplayer on NetBSD/earmv7hf on RaspberryPi2
+  https://twitter.com/ebijun/status/1089003014742978561
+
+Nu:Tekt Nutube headphone amplifier by @ai4432
+ https://twitter.com/ebijun/status/1089028873977655296
+
+Kansai:
+
+Jetson TK1+CUDA by nakamura
+ https://twitter.com/ebijun/status/1089029986432864256
+
+ 
+NetBSD Tourist Guide:
+ https://www.soum.co.jp/~jun/OSC2019osaka.pdf
+
+Demo Images:
+
+
+RPI0/1/2/3: earmv6hf
+
+Thanx booth donation:
+ Uiro: by shimadah
+  https://twitter.com/ebijun/status/1088961190355582976
+
+More pictures are available on Togetter page:
+ https://togetter.com/li/1193730
+
+NEXT:
+ Open Source Conference 2019 Hamanako:  Jan.27 Osaka,JAPAN
+    http://www.ospn.jp/osc2019-hamanako/
+    https://www.facebook.com/events/1909317742619593/
+    https://www.facebook.com/NetBSD.jp/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
