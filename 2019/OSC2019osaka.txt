@@ -19,7 +19,8 @@ Presentation:
 
  NetBSD/pinebook
  https://github.com/ebijun/NetBSD/blob/master/pinebook/README
-
+ https://twitter.com/ebijun/status/1089044603662098432
+ 
 Booth:
  https://twitter.com/ebijun/status/1089002391976857600
 
