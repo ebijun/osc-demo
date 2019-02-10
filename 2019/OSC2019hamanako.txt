@@ -1,0 +1,49 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2019 Hamanako
+
+The Japan NetBSD Users' Group members held booth
+at the Open Source Conference 2019 Hamanako on Feb. 10 2019:
+
+ http://www.ospn.jp/osc2019-hamanako/
+ https://www.facebook.com/NetBSD.jp/
+
+Booth:
+ https://twitter.com/ebijun/status/1094481136141529088
+
+The NetBSD booth exhibited the following machines:
+- RaspberryPI 3 NetBSD/earmv6hf
+  NetBSD/x68k on XM6i X68030 emulator 
+     http://www.pastel-flower.jp/~isaki/XM6i
+     https://twitter.com/ebijun/status/1094396466267709440
+
+- omxplayer on RaspberryPI 2 NetBSD/earmv7hf
+  https://twitter.com/ebijun/status/1094404862744248320
+
+- NetBSD/aarch64 on pinebook
+  https://twitter.com/ebijun/status/1094396998772387840 
+  http://mail-index.netbsd.org/port-arm/2019/02/09/msg005459.html
+
+NetBSD Tourist Guide:
+ http://www.re.soum.co.jp/~jun/OSC2019hamanako.pdf
+
+Demo Images:
+RPI:
+ http://mail-index.netbsd.org/port-arm/2019/02/07/msg005450.html
+
+
+More pictures are available on Togetter page:
+ https://togetter.com/li/1317717
+
+Thanx booth donation:
+ Uiro and stickers: by @shimadah https://tokaidolug.colorfultime.net/
+ https://twitter.com/ebijun/status/1094404381133266944
+
+NEXT:
+
+OSC2019 Tokyo/Spring:  Feb.22-23 Tokyo,JAPAN
+   http://www.meisei-u.ac.jp/english/meisei/access.html
+   http://www.ospn.jp/osc2019-spring/ 
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
