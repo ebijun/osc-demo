@@ -35,6 +35,7 @@ Demonstaration setting for NetBSD Booth
  gs -sDEVICE=pdfwrite -dProcessColorModel=/DeviceGray -dColorConversionStrategy=/Gray -dPDFUseOldCMS=false -o out.pdf -f in.pdf
  白黒に変換したPDFファイルをもとに白黒冊子が印刷できる。
 
+ 139.  OSC2019東京春 http://www.re.soum.co.jp/~jun/OSC2019tokyospring.pdf
  138.  OSC2019浜名湖 http://www.re.soum.co.jp/~jun/OSC2019hamanako.pdf
  137.	OSC2019大阪 http://www.re.soum.co.jp/~jun/OSC2019osaka.pdf
  136.  OSC2018福岡 http://www.re.soum.co.jp/~jun/OSC2018fukuoka.pdf
@@ -42,7 +43,7 @@ Demonstaration setting for NetBSD Booth
  134.  OSC2018新潟 http://www.re.soum.co.jp/~jun/OSC2018niigata.pdf
  133.  KOF2018    http://www.re.soum.co.jp/~jun/KOF2018.pdf
  132.	OSC2018東京秋 http://www.re.soum.co.jp/~jun/OSC2018tokyofall.pdf
- 131. 	OSC2018香川 http://www.re.soum.co.jp/~jun/OSC2018kagawa.pdf
+ 131.  OSC2018香川 http://www.re.soum.co.jp/~jun/OSC2018kagawa.pdf
  130.  OSC2018広島 http://www.re.soum.co.jp/~jun/OSC2018hiroshima.pdf
  129.  ODC2018 http://www.re.soum.co.jp/~jun/ODC2018.pdf
  128.	OSC2018京都 http://www.re.soum.co.jp/~jun/OSC2018kyoto.pdf
