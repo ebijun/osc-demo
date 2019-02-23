@@ -1,0 +1,86 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2019 Tokyo/Spring
+
+The Japan NetBSD Users' Group members held booth
+at the Open Source Conference 2019 Tokyo/Spring on Feb. 22-23 2019:
+
+ https://www.ospn.jp/osc2019-spring/
+ https://www.jp.NetBSD.org/
+ https://www.facebook.com/NetBSD.jp/
+
+NetBSD BOF:
+zrouter by @yamori813
+ https://qiita.com/yamori813/items/2fc5b14648029bb4730f
+ https://twitter.com/ebijun/status/1098851351583326208
+
+Booth:
+
+NetBSD Tourist Guide:
+ http://www.re.soum.co.jp/~jun/OSC2019tokyospring.pdf
+
+The NetBSD booth exhibited the following machines:
+
+NetBSD/x68k on XM6i on NetBSD/earmv6hf on Raspberry Pi3
+ https://twitter.com/ebijun/status/1098760376697610240
+
+omxplayer on NetBSD/earmv7hf on RaspberryPI2 
+  and HD301D1 HD pico Laser Projector
+   https://twitter.com/KSY_RasPi_Shop/status/1016906622457733120
+   https://twitter.com/ebijun/status/1098759690383613952
+
+NetBSD/aarch64 on pinebook
+ https://twitter.com/ebijun/status/1098761855470833664
+ http://mail-index.netbsd.org/port-arm/2019/02/20/msg005507.html
+
+FreeBSD/mips onion omega zrouter and mruby by @yamori813
+ https://twitter.com/ebijun/status/1098856833983234048
+
+NetBSD/nintendo64 dmesg: by @murachue
+ https://gist.github.com/murachue/531ed3ca201ab4155d22442272d92ed2#file-201902140007-txt
+
+FreeNAS startup book: by @kameneko1004 
+ https://www.lab-dev.net/works/techbookfest05
+
+GPDWIN by @steleto
+ https://twitter.com/ebijun/status/1099186152114802689
+ eMMC problem on GPDWIN
+ https://steleto.hatenablog.jp/entry/20180804/1533360441
+ http://www.nerv.org/netbsd/changeset.cgi?id=20170411T232633Z.22a4ed8c2c1299214fb4731a025b115e12c28036#src/sys/dev/sdmmc/sdmmc_mem.c
+ if (!ISSET(sc->sc_flags, SMF_UHS_MODE))
+
+OpenBSD on WN802 by Shimon Ito
+ https://www.mouse-jp.co.jp/luvpad/wn802/
+
+Demo Images:
+ RaspberryPi 0-3 NetBSD/earmv6hf
+  http://mail-index.netbsd.org/port-arm/2019/02/20/msg005506.html
+
+Booth donations,Thanx:
+
+Uiro and stickers by @shimadah https://tokaidolug.colorfultime.net/
+ https://twitter.com/ebijun/status/1098762425459822592
+ https://twitter.com/ebijun/status/1098769803475443712
+
+FreeBSD Stickers by meta@FreeBSD
+ https://twitter.com/ebijun/status/1098780435818020864
+
+FreeBSD developer and xrdp and me by meta@FreeBSD
+ https://twitter.com/ebijun/status/1099171083243012097
+
+More pictures are available on Togetter page:
+ https://togetter.com/li/1321833
+
+6th OSC award:
+ https://www.ospn.jp/press/20190201osc-award-6.html
+
+NEXT:
+
+AsiaBSDCon2019 : Mar.21-24 Tokyo,JAPAN
+  https://2019.asiabsdcon.org/access.html.en
+  https://2019.asiabsdcon.org/
+- NetBSD BOF 2019 :  Mar. 21 11:00-18:00
+  https://wiki.netbsd.org/summits/AsiaBSDCon_2019_NetBSD_BoF/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
