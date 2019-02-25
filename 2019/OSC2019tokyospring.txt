@@ -5,7 +5,7 @@ The Japan NetBSD Users' Group members held booth
 at the Open Source Conference 2019 Tokyo/Spring on Feb. 22-23 2019:
 
  https://www.ospn.jp/osc2019-spring/
- https://www.jp.NetBSD.org/
+ http://www.jp.NetBSD.org/
  https://www.facebook.com/NetBSD.jp/
 
 NetBSD BOF:
