@@ -1,0 +1,90 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: FreeBSD,Zrouter and NetBSD machines at AsiaBSDCon 2019
+
+BSD Research and Japan NetBSD Users' Group members held booth
+at the AsiaBSDCon 2019  on Mar. 9-11 2017:
+
+ http://2019.asiabsdcon.org/
+ https://www.bsdresearch.org/index.html.en
+ http://www.jp.NetBSD.org/
+ https://www.facebook.com/NetBSD.jp/
+
+Keynote:
+ Security Fantasies and Realities for the BSDs
+  George V. Neville-Neil (gnn@neville-neil.com)
+
+NetBSD Related Talk&Event in AsiaBSDCon2019
+See http://www.netbsd.org/gallery/presentations/ for paper and slides.
+
+- NetBSD BoF
+  http://wiki.netbsd.org/summits/AsiaBSDCon_2019_BSD_BoF/
+
+Booth:
+Japan NetBSD Users' Group + FreeBSD Workshop
+ https://twitter.com/ebijun/status/1109644472013348865
+
+@s_mitu: @freebsdtank RaspberryPI Zero on FreeBSD with Explorer HAT Pro
+ RPI3+GameController+English/Japanese speaking
+ FreeBSD tank and clock :RPI0
+  https://github.com/s-mitu/RaspberryPi
+  https://github.com/s-mitu/RaspberryPi/blob/master/FreeBSD/Documents/FreeBSD_OSC.md
+ twitter timeline printer by RPI3
+ https://twitter.com/ebijun/status/1109313570813038592
+
+- @yamori813
+ fon: FreeBSD-current 13 Atheros MIPS 
+  Atheros MIPS FreeBSD+mruby I2C PSG
+  Atheros +mruby USB FTDI+LCD display
+  Onion Omega + FreeBSD+ mruby
+ https://twitter.com/ebijun/status/1109312905613238277
+
+NetBSD/aarch64 
+ https://twitter.com/ebijun/status/972320550839177216
+
+SHARP X68030 by msaitoh@
+ https://twitter.com/ebijun/status/1109644702490324993
+
+NetBSD/x68k on XM6i on NetBSD/earmv6hf on RaspberryPI3
+ https://twitter.com/ebijun/status/1109605606665523200
+
+omxplayer on NetBSD/earmv7hf on RaspberryPI2:
+ https://twitter.com/ebijun/status/1109607915915116544 
+
+NetBSD/aarch64 on pinebook
+ https://twitter.com/ebijun/status/1109270006867456000
+
+Stickers
+ https://twitter.com/ebijun/status/1109269531745120256
+
+AsiaBSDCon2019 Sticker by @nullnilaki 
+ https://twitter.com/ebijun/status/1109315962849775616
+
+RUN BSD Sticker
+ https://twitter.com/ebijun/status/1109276807646183424
+
+bsd.network Sticker
+ https://twitter.com/ebijun/status/1109274197157539841
+
+NetBSD Tourist Guide:
+ http://www.re.soum.co.jp/~jun/asiabsdcon2019.pdf
+
+Demo Images:
+ RPI:
+ http://mail-index.netbsd.org/port-arm/2019/03/20/msg005584.html
+ pinebook:
+ http://mail-index.netbsd.org/port-arm/2019/03/20/msg005585.html
+
+More pictures are available on Togetter page:
+ https://togetter.com/li/1206515
+
+RIP. schnoebe@
+ http://www.dfwuug.org/wiki/Main/Welcome 
+ https://twitter.com/ebijun/status/1109632439301763072
+
+NEXT:
+ Open Source Conference 2019 Okinawa: Apr.20 Okinawa,JAPAN
+  https://www.ospn.jp/osc2019-okinawa/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
