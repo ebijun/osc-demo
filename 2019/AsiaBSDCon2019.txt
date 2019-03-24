@@ -25,7 +25,7 @@ NetBSD Related Talk&Event in AsiaBSDCon2019
 See http://www.netbsd.org/gallery/presentations/ for paper and slides.
 
 - NetBSD BoF
-  http://wiki.netbsd.org/summits/AsiaBSDCon_2019_BSD_BoF/
+  http://wiki.netbsd.org/summits/AsiaBSDCon_2019_NetBSD_BoF/
 
 - WireGuard for NetBSD by ozaki-r@
   https://docs.google.com/presentation/d/1BbveYtY9IhuPCOLsEafwXMefkiY3REJBYl-opMAKQC0/edit#slide=id.p
@@ -49,9 +49,6 @@ Japan NetBSD Users' Group + FreeBSD Workshop
   Onion Omega + FreeBSD+ mruby
  https://twitter.com/ebijun/status/1109312905613238277
  https://qiita.com/yamori813/items/2fc5b14648029bb4730f
-
-NetBSD/aarch64 
- https://twitter.com/ebijun/status/972320550839177216
 
 SHARP X68030 by msaitoh@
  https://twitter.com/ebijun/status/1109644702490324993
@@ -89,7 +86,7 @@ Demo Images:
  http://mail-index.netbsd.org/port-arm/2019/03/20/msg005585.html
 
 More pictures are available on Togetter page:
- https://togetter.com/li/1206515
+ https://togetter.com/li/1330031
 
 RIP. schnoebe@
  http://www.dfwuug.org/wiki/Main/Welcome 
