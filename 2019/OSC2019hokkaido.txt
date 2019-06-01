@@ -1,0 +1,50 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2019 Hokkaido
+
+The Japan NetBSD Users' Group and Northern land BSD Users Group
+ members held booth at the Open Source Conference 2019 Hokkaido 
+  on Jun. 1 2019:
+
+ http://www.ospn.jp/osc2019-do/
+ https://www.facebook.com/NetBSD.jp/
+ http://www.jp.NetBSD.org/
+ http://www.no.bug.gr.jp/
+
+Booth:
+ https://twitter.com/ebijun/status/1134679360496029696
+
+SunView on Solaris1.1.1(for Japan) on SPARC station IPX by n_sasaki@
+ https://twitter.com/ebijun/status/1134627176467185665
+
+mpv -vo drm on NetBSD/aarch64 on pinebook
+ https://twitter.com/ebijun/status/1134626476504969217
+
+NetBSD/x68k on XM6i on NetBSD/earmv6hf on Raspberry PI3B+
+ https://twitter.com/ebijun/status/1134628589830193152
+
+omxplayer on NetBSD/earmv7hf on RaspberryPi2 
+   and HD301D1 HD pico Laser Projector
+ https://twitter.com/KSY_RasPi_Shop/status/1016906622457733120
+ https://twitter.com/ebijun/status/1134628215882805248 
+
+NetBSD Tourist Guide:
+ http://www.re.soum.co.jp/~jun/OSC2019hokkaido.pdf
+
+Demo Images:
+ NetBSD Raspberry PI image 2019-05-31-netbsd-raspi-earmv6hf.img
+  http://mail-index.netbsd.org/port-arm/2019/05/23/msg005736.html
+ pinebook status
+ http://mail-index.netbsd.org/port-arm/2019/05/18/msg005697.html
+ 
+More pictures are available on Togetter page:
+ https://togetter.com/li/1361738
+
+NEXT:
+ Open Source Confernce 2019 Nagoya
+  Jul.13 2019 Sat
+  https://www.ospn.jp/osc2019-nagoya/
+  https://www.ospn.jp/osc2019-nagoya/modules/article/article.php?articleid=1
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
