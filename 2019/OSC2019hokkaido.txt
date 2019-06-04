@@ -10,10 +10,16 @@ The Japan NetBSD Users' Group and Northern land BSD Users Group
  http://www.jp.NetBSD.org/
  http://www.no.bug.gr.jp/
 
+BoF
+ Design and Implimentation of basepkg 
+   by Ken'ichi Fukamachi (http://www.fml.org/)
+ https://twitter.com/ebijun/status/1134729108418465792
+
 Booth:
  https://twitter.com/ebijun/status/1134679360496029696
 
-SunView on Solaris1.1.1(for Japan) on SPARC station IPX by n_sasaki@
+SunView/Openwindows on Solaris1.1.1(Japanese Edition) 
+ on SPARC station IPX by n_sasaki@
  https://twitter.com/ebijun/status/1134627176467185665
 
 mpv -vo drm on NetBSD/aarch64 on pinebook
