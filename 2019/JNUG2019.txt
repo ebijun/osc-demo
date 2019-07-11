@@ -19,41 +19,35 @@ Jun Ebihara:
 - NetBSD RaspberryPi Image updates
    https://github.com/ebijun/NetBSD/blob/master/Guide/RPI/RPIupdate2019.rst
 
-Ryo Onodera:
-- NetBSD/amd64-current on HP Spectre x360,UEFI boot from NVMe SSD 
-- Build BitVisor on NetBSD and running NetBSD on BitVisor
-
-Questions and Answers:
-Keiki Ito:
-- NetBSD on VMWare,VirtualBox,Parallels,qemu..
-- Japanese language environment and input methods 
-
 Takahiro Kambe:
-- nsd:     default MKNSD=no
-- unbound: default MKUNBOUND=yes
-
-Ken-ichi Fukamachi: 
-- apt/yum like basepkg update
-- Adoptable Junk hardware collections
+- Replace macOS Server service with pkgsrc
 
 Yuuki Enomoto: 
-- basepkg
-  https://e-yuuki.org/?bsd/netbsd/basepkg
-  move wip to pkgsrc
+- How to be NetBSD developer
+  https://e-yuuki.org/netbsd/how_to_be_developer.html
 
 Makoto Fujiwara: 
-- My way of updating pkgsrc
+- true pbulk 
   https://github.com/makoto-fujiwara/local-mef
 
-Hiroki Sato: 
-- AsiaBSDCon2019 and Beyond
+Atsushi Toyokura:
+- NetBSD on GPC Win and ARROWS Tab Q506/ME
+
+Ken-ichi Fukamachi: 
+- Using mtree for NetBSD base package distribution and tasks.
+- NetBSD instration course analysis
+  https://technotes.fml.org/items/jnug2019-bof
+
+Hiroki Sato: https://www.bsdresearch.org/index.html.en
+- AsiaBSDCon2020 and Beyond
   2019 Mar.21-24 
-  https://www.bsdresearch.org/index.html.en
-  heavy costs: flight/hotel fees for presentors.
-  need more sponsor/donation: 
-   Japan NetBSD Users' group donates to AsiaBSDCon and make booth.
-   http://mail-index.netbsd.org/netbsd-advocacy/2019/02/19/msg000766.html
-  2020? affected by the TOKYO Olympic 2020.
+  2020 Mar.19-22 https://2020.asiabsdcon.org/
+   Japan NetBSD Users' group donates 82000yen (=$759)
+     to AsiaBSDCon and make booth.
+   http://mail-index.netbsd.org/netbsd-advocacy/2019/05/09/msg000804.html
+
+Ryo Onodera:
+- NetBSD as Bluetooth Personal Area Network (PAN) Access Point
 
 SODA Noriyuki:
 - NetBSD9.0 and Beyond
@@ -70,10 +64,10 @@ NetBSD Tourist Guide:
  http://www.re.soum.co.jp/~jun/JNUG2019.pdf
 
 More pictures are available on Togetter page:
- https://togetter.com/li/1246626
+ https://togetter.com/li/1373526
 
 Video Streaming:
- http://www.ustream.tv/channel/japan-netbsd-users-group-meeting
+ https://www.facebook.com/NetBSD.jp/videos/2343370132603570/
 
 Thanx for special meeting space:
  Yoshiro Mita
@@ -83,12 +77,12 @@ Thanx for special meeting space:
  http://www.vdec.u-tokyo.ac.jp/English/index.html
 
 NEXT:
- Open Source Conference 2019 Kyoto:  Aug.3-4 Kyoto,JAPAN
-   http://www.ospn.jp/osc2019-kyoto/
- NetBSD BoF 2019 Aug.4 11:00-11:45
-  https://www.ospn.jp/osc2019-kyoto/modules/eventrsv/?id=2&noform=1
- NetBSD Booth
-  https://www.ospn.jp/osc2019-kyoto/modules/article/article.php?articleid=1
+ Open Source Conference 2019 Nagoya:  Jul.13 Nagoya,JAPAN
+   http://www.ospn.jp/osc2019-nagoya/
+ Nagoya *BSD Users' Group (NBUG) BoF Jul.13 16:15-17:00
+  https://www.ospn.jp/osc2019-nagoya/modules/eventrsv/?id=1&noform=1
+ NBUG and NetBSD Booth
+  https://www.ospn.jp/osc2019-nagoya/modules/article/article.php?articleid=1
 
 TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
 ---
