@@ -57,7 +57,9 @@ Demo Images:
  Luna88K :
   OpenBSD 6.5
  RPI:
-  http://mail-index.netbsd.org/port-arm/2019/05/18/msg004789.html
+  http://mail-index.netbsd.org/port-arm/2019/07/07/msg005875.html
+ RPI4 status: need to write the necessary support code. 
+  http://mail-index.netbsd.org/port-arm/2019/07/18/msg005943.html
 
 More pictures are available on Togetter page:
  https://togetter.com/li/1375440
