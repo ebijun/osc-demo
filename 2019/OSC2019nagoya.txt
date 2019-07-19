@@ -1,0 +1,63 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: OpenBSD and NetBSD machines at Open Source Conference 2019 Nagoya
+
+The Japan NetBSD Users' Group and 
+Nagoya *BSD Users' Group members held booth
+at the Open Source Conference 2019 Nagoya on Jul.13 2019:
+
+ http://www.ospn.jp/osc2019-nagoya/
+ http://www.nagoya.bug.gr.jp/
+ http://www.jp.NetBSD.org/
+ https://www.facebook.com/NetBSD.jp/
+
+Booth:
+  https://twitter.com/ebijun/status/997689468042657792
+
+OMRON LUNA88K2 on OpenBSD 6.3 by Kenji Aoyama.
+  https://www.slideshare.net/ao_kenji/osc2019-nagoya
+  https://github.com/ao-kenji/flyers/blob/master/OSC2019Nagoya-flyer.pdf 
+  https://twitter.com/luna88k/status/997640898451193856
+  https://twitter.com/ebijun/status/997658847895478273
+
+  LUNA-88K2 MC88100 33MHz Memory 112MB+SCSI 2GB HDD
+  - HD641780, Z80 compatible I/O processor (man 4 xp)
+  - Wireless lang via PCMCIA PC98 C-BUS extention
+  - twitter tweets sayaka+mlterm
+
+RaSCSI+NetBSD/evbarm 8.0_RC1 on Raspberry Pi by tsutsui@
+  https://twitter.com/ebijun/status/997664620440514560
+  http://ch.nicovideo.jp/tsutsui/blomaga/ar1405946
+
+GameConsole like demonstration with Go lang by Yasushi Oshima
+  http://www.yagoto-urayama.jp/~oshimaya/netbsd/gowsd.pdf
+  https://github.com/oshimaya/gowsdisplay
+- NetBSD Graphical Console on Raspberry PI,NetBSD/earmv7hf
+  - Dot-Character can controll with Joypad
+  - all written in Go lang.
+ 
+NetBSD/x68k on XM6i on NetBSD/earmv6hf on RaspberryPI3
+  https://twitter.com/ebijun/status/997640196131733504
+
+NetBSD Tourist Guide:
+ http://www.re.soum.co.jp/~jun/OSC2019nagoya.pdf
+
+Demo Images:
+ Luna88K :
+  OpenBSD 6.3
+ RPI:
+  http://mail-index.netbsd.org/port-arm/2019/05/18/msg004789.html
+
+More pictures are available on Togetter page:
+  https://togetter.com/li/1228817
+
+NEXT:
+ Open Source Conference 2019 Okinawa:  Jun.16 Okinawa,JAPAN
+    http://www.ospn.jp/osc2019-okinawa/
+  NetBSD Booth:10:00-16:00
+   https://www.ospn.jp/osc2019-okinawa/modules/article/article.php?articleid=1
+  NetBSD BOF:13:00-13:45
+   https://www.ospn.jp/osc2019-okinawa/modules/eventrsv/?id=1&noform=1
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
