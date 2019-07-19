@@ -22,6 +22,7 @@ OMRON LUNA88K2 on OpenBSD 6.5 by Kenji Aoyama.
   - PC9801 Network card support via PC98 C-BUS extention slot
   - nanotodon: Mastodon client ,thanx for many support for us!
     https://github.com/taka-tuos/nanotodon
+    https://gist.github.com/ao-kenji/c734809b784fd451a56147601adb200b
   - tar: tape archive
     https://twitter.com/ao_kenji/status/1147418620600840192
 
