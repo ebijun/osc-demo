@@ -11,53 +11,65 @@ at the Open Source Conference 2019 Nagoya on Jul.13 2019:
  https://www.facebook.com/NetBSD.jp/
 
 Booth:
-  https://twitter.com/ebijun/status/997689468042657792
+ https://twitter.com/ebijun/status/1149868173161664512
 
-OMRON LUNA88K2 on OpenBSD 6.3 by Kenji Aoyama.
-  https://www.slideshare.net/ao_kenji/osc2019-nagoya
-  https://github.com/ao-kenji/flyers/blob/master/OSC2019Nagoya-flyer.pdf 
-  https://twitter.com/luna88k/status/997640898451193856
-  https://twitter.com/ebijun/status/997658847895478273
+OMRON LUNA88K2 on OpenBSD 6.5 by Kenji Aoyama.
+  https://www.slideshare.net/ao_kenji/
+  https://github.com/ao-kenji/flyers/
 
   LUNA-88K2 MC88100 33MHz Memory 112MB+SCSI 2GB HDD
   - HD641780, Z80 compatible I/O processor (man 4 xp)
-  - Wireless lang via PCMCIA PC98 C-BUS extention
-  - twitter tweets sayaka+mlterm
+  - PC9801 Network card support via PC98 C-BUS extention slot
+  - nanotodon: Mastodon client ,thanx for many support for us!
+    https://github.com/taka-tuos/nanotodon
+  - tar: tape archive
+    https://twitter.com/ao_kenji/status/1147418620600840192
 
-RaSCSI+NetBSD/evbarm 8.0_RC1 on Raspberry Pi by tsutsui@
-  https://twitter.com/ebijun/status/997664620440514560
-  http://ch.nicovideo.jp/tsutsui/blomaga/ar1405946
+FreeBSD/RaspberryPi3 CW keyer by Akihiko Hayashi
+  https://twitter.com/ebijun/status/1149919033984028673
 
-GameConsole like demonstration with Go lang by Yasushi Oshima
-  http://www.yagoto-urayama.jp/~oshimaya/netbsd/gowsd.pdf
-  https://github.com/oshimaya/gowsdisplay
-- NetBSD Graphical Console on Raspberry PI,NetBSD/earmv7hf
-  - Dot-Character can controll with Joypad
-  - all written in Go lang.
- 
-NetBSD/x68k on XM6i on NetBSD/earmv6hf on RaspberryPI3
-  https://twitter.com/ebijun/status/997640196131733504
+RYZEN with NetBSD again by Yasushi Oshima
+
+NetBSD/WZERO3 and tablets by @kapper1224
+  https://twitter.com/ebijun/status/1149914323424182273
+  https://twitter.com/kapper1224/status/1149941536332738560
+
+OpenBSD/AMD Photon2 @kapper1224
+  https://twitter.com/ebijun/status/1149862729307455488
+
+NetBSD/pinebook
+  mikutter3.9 with twitter and mastodon
+  https://twitter.com/ebijun/status/1149925744040001536
+ pinebook status update (20190709)
+  http://mail-index.netbsd.org/port-arm/2019/07/09/msg005884.html
+
+NetBSD/x68k on XM6i on NetBSD/earmv6hf on RaspberryPI3B+
+ https://twitter.com/ebijun/status/1149869110123065344
+
+omxplayer on NetBSD/earmv7hf on RaspberryPI3
+ https://twitter.com/ebijun/status/1149873023941410817
 
 NetBSD Tourist Guide:
  http://www.re.soum.co.jp/~jun/OSC2019nagoya.pdf
 
 Demo Images:
  Luna88K :
-  OpenBSD 6.3
+  OpenBSD 6.5
  RPI:
   http://mail-index.netbsd.org/port-arm/2019/05/18/msg004789.html
 
 More pictures are available on Togetter page:
-  https://togetter.com/li/1228817
+ https://togetter.com/li/1375440
 
 NEXT:
- Open Source Conference 2019 Okinawa:  Jun.16 Okinawa,JAPAN
-    http://www.ospn.jp/osc2019-okinawa/
-  NetBSD Booth:10:00-16:00
-   https://www.ospn.jp/osc2019-okinawa/modules/article/article.php?articleid=1
-  NetBSD BOF:13:00-13:45
-   https://www.ospn.jp/osc2019-okinawa/modules/eventrsv/?id=1&noform=1
+ Open Source Conference 2019 Kyoto: Aug.2-3 Kyoto,JAPAN
+   http://www.ospn.jp/osc2019-kyoto/
+  NetBSD Booth: Aug.2 11:00-17:00 Aug.3 10:00-16:00
+   https://www.ospn.jp/osc2019-kyoto/modules/article/article.php?articleid=1
+  NetBSD BOF: Aug.3 15:15-16:00
+   https://www.ospn.jp/osc2019-kyoto/modules/eguide/event.php?eid=6
 
 TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
 ---
-Jun Ebihara
+Jun Ebihara 
+with my condolences, to Kyoto Animation
