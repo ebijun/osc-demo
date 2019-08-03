@@ -1,0 +1,58 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2019 Kyoto
+
+The Japan NetBSD Users' Group members held booth
+at the Open Source Conference 2019 Kyoto on Aug. 2-3 2019:
+
+ http://www.ospn.jp/osc2019-kyoto/
+ https://www.facebook.com/NetBSD.jp/
+ http://www.jp.NetBSD.org/
+
+Booth:
+ https://twitter.com/ebijun/status/1157178252508532737
+
+BoF: 45min
+LUNA II mastodon client Demo by tsutsui@:
+ https://twitter.com/tsutsuii/status/1157061647426396160
+ OMRON LUNAII  68040/25MHz RAM:64MB Video:1280x1024x256
+ NetBSD 8.1/luna68k 
+ twitter client: Nanotodon+mlterm-fb
+
+PC6001VX on NetBSD/i386 by tsutsui@
+ https://twitter.com/ebijun/status/1157182025398272000
+
+Raspberry PI demonstration:
+- Demo Image:
+ NetBSD 9.0 BETA 
+ http://mail-index.netbsd.org/port-arm/2019/07/31/msg005994.html
+
+- NetBSD/x68k on XM6i on NetBSD/earmv6hf on RaspberryPI3
+  https://twitter.com/ebijun/status/1157102074775031808
+
+- omxplayer on NetBSD8.99.51/earmv6hf on RaspberryPI
+  https://twitter.com/ebijun/status/1157107291893555200  
+
+- NetBSD/aarch64 on pinebook
+ http://mail-index.netbsd.org/port-arm/2019/07/09/msg005884.html
+ https://twitter.com/ebijun/status/1157158149029163009
+ https://twitter.com/ebijun/status/1157103439173677056
+
+NetBSD Tourist Guide:
+ http://www.re.soum.co.jp/~jun/OSC2019kyoto.pdf
+
+More pictures are available on Togetter page:
+ https://togetter.com/li/1382880
+
+Booth Donation:
+- Willow and stickers by @shimadah
+ https://twitter.com/ebijun/status/1157085297659617280
+
+NEXT:
+ Open Developers Conference 2019 : Aug.24 Tokyo Kamata,JAPAN
+  https://www.ospn.jp/odc2019/
+  NetBSD BoF Aug.24 10:15-11:00
+  https://www.ospn.jp/odc2019/modules/eventrsv/?id=1&noform=1
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
