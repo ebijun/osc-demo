@@ -12,6 +12,11 @@ Booth:
  https://twitter.com/ebijun/status/1157178252508532737
 
 BoF: 45min
+
+9 years,LUNA with Open Source Conference Kyoto by tsutsui@
+ https://speakerdeck.com/tsutsui/osc2019kyoto
+
+Booth:
 LUNA II mastodon client Demo by tsutsui@:
  https://twitter.com/tsutsuii/status/1157061647426396160
  OMRON LUNAII  68040/25MHz RAM:64MB Video:1280x1024x256
