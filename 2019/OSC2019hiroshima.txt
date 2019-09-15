@@ -1,0 +1,70 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2019 Hiroshima
+
+The Japan NetBSD Users' Group and XM6i Team members held booth
+at the Open Source Conference 2019 Hiroshima on Sep.15 2019:
+
+ http://www.ospn.jp/osc2019-hiroshima/
+ http://www.jp.NetBSD.org/
+ https://www.facebook.com/NetBSD.jp/
+
+Presentation:
+ Sound! NetBSD - chikaku nai finale - by isaki@
+   http://www.pastel-flower.jp/~isaki/
+  
+Booth:
+ https://twitter.com/ebijun/status/1173044873064108033
+
+OMRON LUNA NetBSD PCM audio device with PSG by @moveccr 
+- NetBSD/luna68k 
+- audio(4) at psgpam on NetBSD/luna68k by @moveccr
+  /dev/audio can play audio with PSG as sounddevice
+- AUDIO2 sound stack by isaki@
+- audioplay(1) on NetBSD/luna68k
+- IBM PS/2 keyboard adapter for LUNA
+ ATTINY2313+ROAM BP5277+MAX232N
+
+Twitter Filter Stream on SHARP X68030
+running NetBSD/x68k 9.0_BETA 
+ sayaka on NetBSD/x68k by isaki@
+ https://twitter.com/ebijun/status/1043667189281091584
+
+Donation request for XM6i: MC68060 RC75 Rev5 CPU for support 68060
+
+XM6i X68030 emulator 
+  http://www.pastel-flower.jp/~isaki/XM6i/
+
+1. NetBSD/x68k on XM6i on NetBSD/amd64
+   NetBSD/luna68k on Emulator on NetBSD/amd64 by isaki@
+ https://twitter.com/ebijun/status/1173084742545108992
+
+2. NetBSD/x68k on XM6i on NetBSD/earmv6hf on RaspberryPI3B+ 
+ https://twitter.com/ebijun/status/1173034954457923584
+
+
+XM8 NEC PC8801 emulator on NetBSD8.1/amd64
+PC6001VX PC6001 emulator on WZERO3 on NetBSD8.1/hpcarm 
+   by tsutsuii@
+ https://twitter.com/ebijun/status/1173091215773822977
+
+ZZ
+ 
+NetBSD Tourist Guide:
+ http://www.re.soum.co.jp/~jun/OSC2019hiroshima.pdf
+
+Demo Images:
+ RPI:
+  http://mail-index.netbsd.org/port-arm/2019/09/10/msg006129.html
+ pinebook:
+  http://mail-index.netbsd.org/port-arm/2019/08/24/msg006080.html
+
+More pictures are available on Togetter page:
+  https://togetter.com/li/1404262
+
+NEXT:
+ Open Source Conference 2019 Shimane:  Sep.29 Shimane,JAPAN
+   https://www.ospn.jp/osc2019-shimane/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
