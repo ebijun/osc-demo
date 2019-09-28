@@ -1,0 +1,69 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2019 Shimane
+
+The Japan NetBSD Users' Group held booth
+at the Open Source Conference 2019 Shimane on Nov.23 2019:
+
+ http://www.ospn.jp/osc2019-shimane/
+ https://www.facebook.com/NetBSD.jp/
+
+NetBSD Tourist Guide:
+ http://www.re.soum.co.jp/~jun/OSC2019shimane.pdf
+
+Booth:
+ https://twitter.com/ebijun/status/1177786070433353729
+
+The NetBSD booth exhibited the following machines:
+
+SONY NEWS NWS-5000X NetBSD/newsmips by @n12i
+ https://github.com/ebijun/NetBSD/blob/master/dmesg/newsmips/NEWS5000
+ https://twitter.com/ebijun/status/1177748296066113537
+
+SONY NEWS NWS-3240 NEWS-OS
+ https://twitter.com/ebijun/status/1177742873954926594
+ https://twitter.com/ebijun/status/1177753127518269441
+
+PC-9821Nr13 FreeBSD/pc98 8.4-RELEASE PANIX
+ https://twitter.com/ebijun/status/1177746661587554304
+
+X200MA FreeBSD/amd64 13-CURRENT
+ https://twitter.com/ebijun/status/1177748889551552513
+
+FreeBSD/i386 2.2.9 on qemu on X200MA
+ https://twitter.com/ebijun/status/1177767376252596224
+
+NetBSD/i386 on qemu on X200MA
+ https://twitter.com/ebijun/status/1177781312444190720
+
+Raspberry PI3B+ running NetBSD/x68k with XM6i emulator.
+ https://twitter.com/ebijun/status/1177750101860597760
+
+pinebook NetBSD/aarch64 with mikutter
+ https://twitter.com/ebijun/status/1177744466574098432
+
+4.4BSD on tme by  Shuji Mochida
+ Android7.1+UserLAnd,Debian9.5+simh/tme/qemu/pkgsrc
+
+many thanx to 
+ Hiroyuki Nakaji,Shuji Mochida
+
+Demo Images:
+ 2019-09-28-netbsd9-raspi-earmv6hf.img
+  http://mail-index.netbsd.org/port-arm/2019/09/23/msg006154.html
+
+ 2019-09-28-netbsd9-raspi-aarch64.img
+  http://mail-index.netbsd.org/port-arm/2019/09/27/msg006186.html
+
+ pinebook status update (20190921)
+  http://mail-index.netbsd.org/port-arm/2019/09/21/msg006153.html
+
+More pictures are available on Togetter page:
+ https://togetter.com/li/1409871
+
+NEXT:
+ Open Source Conference 2019 Niigata:  Oct.5 Niigata,JAPAN
+    https://ospn.connpass.com/event/145108/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
