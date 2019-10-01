@@ -48,7 +48,7 @@ pinebook NetBSD/aarch64 with mikutter
  https://twitter.com/ebijun/status/1177810421400555520
 
 many thanx to 
- Hiroyuki Nakaji,Shuji Mochida
+ Hiroyuki Nakaji,Akinori Saitoh,Shuji Mochida,Yoshimitsu Iwase
 
 Demo Images:
  2019-09-28-netbsd9-raspi-earmv6hf.img
