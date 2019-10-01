@@ -42,8 +42,10 @@ Raspberry PI3B+ running NetBSD/x68k with XM6i emulator.
 pinebook NetBSD/aarch64 with mikutter
  https://twitter.com/ebijun/status/1177744466574098432
 
-4.4BSD on tme by  Shuji Mochida
+4.4BSD/sparc on tme by  Shuji Mochida
  Android7.1+UserLAnd,Debian9.5+simh/tme/qemu/pkgsrc
+ https://twitter.com/ebijun/status/1177807616732356611
+ https://twitter.com/ebijun/status/1177810421400555520
 
 many thanx to 
  Hiroyuki Nakaji,Shuji Mochida
