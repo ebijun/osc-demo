@@ -16,6 +16,7 @@ Booth:
 The NetBSD booth exhibited the following machines:
 
 SONY NEWS NWS-5000X NetBSD/newsmips by @n12i
+ https://twitter.com/n12i/status/1177776827382693889
  https://github.com/ebijun/NetBSD/blob/master/dmesg/newsmips/NEWS5000
  https://twitter.com/ebijun/status/1177748296066113537
 
