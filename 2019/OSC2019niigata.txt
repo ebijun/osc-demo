@@ -1,0 +1,87 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2019 Niigata
+
+The Japan NetBSD Users' Group and 
+Echigo BSD Users Group members held booth
+at the Open Source Conference 2019 Niigata on Oct.5 2019:
+
+ https://ospn.connpass.com/event/145108/
+ http://www.ebug.jp/
+ http://www.jp.NetBSD.org/
+ https://www.facebook.com/NetBSD.jp/
+
+Fuguita: OpenBSD LiveCD by Yoshihiro Kawamata
+   http://fuguita.org/?FuguIta
+
+ Fuguita-6.5: based on OpenBSD 6.5
+   FuguIta-6.5-{i386,amd64}-201909171
+   FuguIta-6.5-arm64-201909181
+    FuguIta for arm64 runs on Raspberry Pi 3. 
+   http://fuguita.org/index.php?EBUG%CA%D9%B6%AF%B2%F1%2F20190525_FuguIta65
+
+Echigo BSD Users Group, since Nov.2001
+   http://www.ebug.jp/
+
+Echigo BSD Users Group activities:
+
+ Fuguita-6.5 OpenBSD6.5 and Software Defined Radio 
+  https://twitter.com/ebijun/status/1180317012150501379
+  https://twitter.com/ebijun/status/1180327596627595264
+ ESP8266 Wifi themometer
+  https://twitter.com/ebijun/status/1180314708110278656
+
+ OpenBSD wiki:
+  http://fuguita.org/
+ FuguIta with SerialConsole
+  http://fuguita.org/index.php?EBUG%CA%D9%B6%AF%B2%F1%2F20190223_SerialConsole
+ FuguIta UEFI GPT
+  http://fuguita.org/index.php?EBUG%CA%D9%B6%AF%B2%F1%2F20190223_UEFI_GPT
+ FuguIta Guide
+  http://fuguita.org/index.php?FuguItaGuide
+  
+NetBSD Booth:
+ https://twitter.com/ebijun/status/1180302888343613440
+
+NetBSD/x68k on XM6i on NetBSD/earmv6hf on Raspberry Pi3B+
+ https://twitter.com/ebijun/status/1180315405652381696
+ 
+XM6i: NetBSD/x68k on X68030 emulators
+ http://www.pastel-flower.jp/~isaki/XM6i/
+
+Raspberry PI2 plays omxplayer (NetBSD/earmv6hf)
+  and HD301D1 HD pico Laser Projector
+ https://twitter.com/ebijun/status/1180304713247387650
+ https://twitter.com/KSY_RasPi_Shop/status/1016906622457733120
+
+mikutter on NetBSD/aarch64 on pinebook
+ https://twitter.com/ebijun/status/1180305202957582337
+
+NetBSD Tourist Guide:
+ http://www.re.soum.co.jp/~jun/OSC2019niigata.pdf
+ https://twitter.com/ebijun/status/1180305733658611713
+
+Demo Images:
+ Fuguita: OpenBSD LiveCD
+   http://fuguita.org/?FuguIta
+ RPI:
+  http://mail-index.netbsd.org/port-arm/2019/10/03/msg006209.html
+ RPI3/4:(testing)
+  http://mail-index.netbsd.org/port-arm/2019/10/03/msg006208.html
+ Pinebook:
+  http://mail-index.netbsd.org/port-arm/2019/09/21/msg006153.html
+
+More pictures are available on Togetter page:
+ https://togetter.com/li/1413105
+
+NEXT:
+
+ OSC2019 Tokushima: Oct.19 Tokushima,JAPAN
+  http://www.ospn.jp/osc2019-tokushima/ 
+  11:00-11:45  NetBSD BoF
+   https://www.ospn.jp/osc2019-tokushima/modules/eventrsv/?id=1&noform=1
+  https://www.facebook.com/NetBSD.jp/events
+
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
