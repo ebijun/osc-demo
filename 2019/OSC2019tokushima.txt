@@ -1,0 +1,65 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2019 Tokushima
+
+The Japan NetBSD Users' Group held booth
+at the Open Source Conference 2019 Tokushima on Oct.19 2019:
+
+ http://www.ospn.jp/osc2019-tokushima/
+ http://www.jp.NetBSD.org/
+ https://www.facebook.com/NetBSD.jp/
+
+Booth:
+ https://twitter.com/ebijun/status/1185420134317379584
+
+FreeBSD8.4R/pc98 on PC-9821Nr13 by Hiroyuki Nakaji
+- Buildworld for FreeBSD9.3R
+- pkgsrc setup
+ https://twitter.com/ebijun/status/1185359613966766080
+ https://twitter.com/n12i/status/1185366052214956032
+
+PANIX on PC-9821Nr13 by Hiroyuki Nakaji
+ https://twitter.com/ebijun/status/1185428595130241026
+
+FreeBSD13-current on ASUS X200m 
+ https://twitter.com/ebijun/status/1185423986143854594
+
+NetBSD/x68k on XM6i on NetBSD/earmv6hf on RaspberryPI3B+ 
+ https://twitter.com/ebijun/status/1185409371192229888
+
+ XM6i X68030 emulator by isaki@
+  http://www.pastel-flower.jp/~isaki/XM6i/
+
+NetBSD/earmv6hf on RaspberryPI2 with omxplayer 
+  and HD301D1 HD pico Laser Projector
+ https://twitter.com/ebijun/status/1185364790463516672
+ https://twitter.com/KSY_RasPi_Shop/status/1016906622457733120
+
+mikutter on NetBSD/pinebook
+ https://twitter.com/ebijun/status/1185360207938850816
+ 
+NetBSD Tourist Guide:
+ http://www.re.soum.co.jp/~jun/OSC2019tokushima.pdf
+
+Demo Images:
+ RPI:
+  http://mail-index.netbsd.org/port-arm/2019/10/03/msg006209.html
+ RPI3/4(testing):
+  http://mail-index.netbsd.org/port-arm/2019/10/17/msg006231.html
+
+More pictures are available on Togetter page:
+ https://togetter.com/li/1418848
+
+NEXT:
+ KANSAI OPEN FORUM 2019
+  https://www.k-of.jp/2019/
+  BSD BOF:2019 Nov.8 13:00-13:50
+   https://k-of.jp/backend/time_schedule_1
+
+ Open Source Conference 2019 Fukuoka Nov.9 Tokyo,JAPAN
+   https://www.ospn.jp/osc2019-fukuoka/
+  BSD BOF: 2019 Nov.9 16:15-17:00
+   https://www.ospn.jp/osc2019-fukuoka/modules/eventrsv/?id=1&noform=1
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
