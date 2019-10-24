@@ -8,6 +8,10 @@ at the Open Source Conference 2019 Tokushima on Oct.19 2019:
  http://www.jp.NetBSD.org/
  https://www.facebook.com/NetBSD.jp/
 
+Using IMUNES in our classroom by Keiichi Shiraishi
+ imunes.net , FreeBSD based IP network emulator / simulator
+ https://twitter.com/ebijun/status/1185390434605920256
+
 Booth:
  https://twitter.com/ebijun/status/1185420134317379584
 
