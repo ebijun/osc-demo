@@ -1,0 +1,69 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at KANSAI OPEN FORUM 2019
+
+The Japan NetBSD Users' Group held booth
+at the KANSAI OPEN FORUM 2019 on Nov. 8-9 2019:
+
+ https://k-of.jp/2019/
+ http://www.jp.NetBSD.org/
+ https://www.facebook.com/NetBSD.jp/
+
+
+BSD BOF:
+- Fixing the holes that ran through NetBSD/zaurus 8.1 till dawn
+ https://speakerdeck.com/tsutsui/kof2019-netbsd
+
+Booth:
+
+- mplayer on NetBSD/zaurus SHARP ZAURUS by tsutsui@
+ SLC-1000:480x270, Rotate CW 352x192
+ SLC-760:480x270
+ SL-C860:480x270 nico.ms/sm32524381
+ SL-C700:352x198 nico.ms/sm21611713
+
+- NetBSD/hpcarm SHARP WZERO3 by tsutsui@
+
+- NetBSD/x68k on X68030 with Neptune-X
+
+- Running NetBSD/x68k on XM6i with Raspberry PI3 NetBSD/earmv6hf+Xfce4
+
+- Raspberry Pi2 NetBSD/earmv7hf Xfce4+mikutter
+
+- mikutter on pinebook on NetBSD/aarch64+mate
+
+- stickers (NetBSD,mikutter,and various characters)
+  
+- Junk-Do book store NetBSD booth recomendation:
+Book Recommendations: Thanx Naruaki Etomi
+ https://www.k-of.jp/2019/junkudo/
+ https://honto.jp/netstore/pd-book_29826181.html
+ https://honto.jp/netstore/pd-book_29258622.html
+ https://honto.jp/netstore/pd-book_25470720.html
+ https://honto.jp/netstore/pd-book_28325969.html
+ https://honto.jp/netstore/pd-book_29618266.html
+ https://honto.jp/netstore/pd-book_29618267.html
+ https://honto.jp/netstore/pd-book_26461477.html
+ https://honto.jp/netstore/pd-book_29513470.html
+
+Demo Image:
+- NetBSD/Zaurus teokure image by tsutsui@
+- RaspberryPi
+ http://mail-index.netbsd.org/port-arm/2019/11/02/msg006291.html
+- armv7
+ http://mail-index.netbsd.org/port-arm/2019/11/07/msg006297.html 
+- pinebook status
+ http://mail-index.netbsd.org/port-arm/2019/10/26/msg006275.html
+
+More pictures are available on Togetter page:
+ https://togetter.com/li/1427775
+ 
+NEXT:
+ 
+ Open Source Conference 2019 Fukuoka: Nov.9 Fukuoka,JAPAN
+  http://www.ospn.jp/osc2019-fukuoka/ 
+  https://www.facebook.com/NetBSD.jp/events
+
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
