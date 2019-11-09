@@ -1,0 +1,49 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2019 Fukuoka
+
+The Japan NetBSD Users' Group held booth
+at the Open Source Conference 2019 Fukuoka on Nov.9 2019:
+
+ http://www.ospn.jp/osc2019-fukuoka/
+ http://www.jp.NetBSD.org/
+ https://www.facebook.com/NetBSD.jp/
+
+NetBSD Tourist Guide:
+ http://www.re.soum.co.jp/~jun/OSC2019fukuoka.pdf
+
+Booth:
+ https://twitter.com/ebijun/status/1192978367546421248 
+
+Raspberry PI3 running NetBSD/x68k with XM6i emulator.
+ https://twitter.com/ebijun/status/1192977763554095105 
+
+NetBSD/earmv7hf on RaspberryPI2-1.2 with omxplayer 
+  and HD301D1 HD pico Laser Projector
+ https://twitter.com/KSY_RasPi_Shop/status/1016906622457733120
+
+mikutter on NetBSD/aarch64 on pinebook
+ https://twitter.com/ebijun/status/1192978074888896512
+
+NetBSD & FreeBSD stickers and more
+ thanx tsutsui@ for NetBSD stickers
+ thanx meta@FreeBSD for FreeBSD stickers
+  https://twitter.com/ebijun/status/1193012412976267264
+
+Demo Images:
+- RaspberryPi
+ http://mail-index.netbsd.org/port-arm/2019/11/02/msg006291.html
+- armv7
+ http://mail-index.netbsd.org/port-arm/2019/11/07/msg006297.html
+- pinebook status
+ http://mail-index.netbsd.org/port-arm/2019/10/26/msg006275.html
+
+More pictures are available on Togetter page:
+ https://togetter.com/li/1428096
+
+NEXT:
+ Open Source Conference 2019 Tokyo/Fall:  Nov.23-24 Tokyo,JAPAN
+    http://www.ospn.jp/osc2019-fall/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
