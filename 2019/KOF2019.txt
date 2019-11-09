@@ -14,24 +14,38 @@ BSD BOF:
  https://speakerdeck.com/tsutsui/kof2019-netbsd
 
 Booth:
+ https://twitter.com/tsutsuii/status/1192677243702497280
 
 - mplayer on NetBSD/zaurus SHARP ZAURUS by tsutsui@
  SLC-1000:480x270, Rotate CW 352x192
- SLC-760:480x270
+ SLC-760:480x270 Air/Higurashi no naku koroni
  SL-C860:480x270 nico.ms/sm32524381
  SL-C700:352x198 nico.ms/sm21611713
 
-- NetBSD/hpcarm SHARP WZERO3 by tsutsui@
+ https://twitter.com/tsutsuii/status/1192683713542311936
+ https://twitter.com/tsutsuii/status/1192685985668067328
+ https://twitter.com/tsutsuii/status/1192991585476042752
 
-- NetBSD/x68k on X68030 with Neptune-X
+- PC6001VX on NetBSD/hpcarm SHARP WZERO3 by tsutsui@
+ https://twitter.com/tsutsuii/status/1193014236839940096
+
+- PC6001VX on NetBSD/amd64 by tsutsui@
+ https://twitter.com/tsutsuii/status/1192731382323113984
+
+- NetBSD/x68k on X68030 with Neptune-X by tsutsui@
+ https://twitter.com/tsutsuii/status/1192669129968218112
 
 - Running NetBSD/x68k on XM6i with Raspberry PI3 NetBSD/earmv6hf+Xfce4
+ https://twitter.com/ebijun/status/1192646661710811139
 
-- Raspberry Pi2 NetBSD/earmv7hf Xfce4+mikutter
+- omxplayer on Raspberry Pi2 NetBSD/earmv7hf
+ https://twitter.com/ebijun/status/1192647294862053377
 
 - mikutter on pinebook on NetBSD/aarch64+mate
+ https://twitter.com/ebijun/status/1192646970172567553
 
 - stickers (NetBSD,mikutter,and various characters)
+ https://twitter.com/tsutsuii/status/1192686649034956800 
   
 - Junk-Do book store NetBSD booth recomendation:
 Book Recommendations: Thanx Naruaki Etomi
@@ -47,6 +61,7 @@ Book Recommendations: Thanx Naruaki Etomi
 
 Demo Image:
 - NetBSD/Zaurus teokure image by tsutsui@
+ http://teokurebsd.org/netbsd/liveimage/
 - RaspberryPi
  http://mail-index.netbsd.org/port-arm/2019/11/02/msg006291.html
 - armv7
