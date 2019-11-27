@@ -1,88 +1,111 @@
 To: netbsd-advocacy%NetBSD.org@localhost
-Subject: NetBSD machines at Open Source Conference 2019 Tokyo/Spring
+Subject: NetBSD machines at Open Source Conference 2019 Tokyo/Fall
 
 The Japan NetBSD Users' Group members held booth
-at the Open Source Conference 2019 Tokyo/Spring on Feb. 22-23 2019:
+at the Open Source Conference 2019 Tokyo/Fall on Nov.23-24 2019:
 
- https://www.ospn.jp/osc2019-spring/
+ https://www.ospn.jp/osc2019-fall/
  http://www.jp.NetBSD.org/
  https://www.facebook.com/NetBSD.jp/
 
-NetBSD BOF:
-zrouter by @yamori813
- https://qiita.com/yamori813/items/2fc5b14648029bb4730f
- https://twitter.com/ebijun/status/1098851351583326208
+BSDBOF:
+ 
+Fixing NetBSD/zaurus 8.1,and making plans for OSC booth demonstrations
+ by tsutsui@
+ https://speakerdeck.com/tsutsui/osc2019tokyo-fall
+ https://mail-index.netbsd.org/port-zaurus/2019/11/11/msg000086.html
 
 Booth:
-
-NetBSD Tourist Guide:
- http://www.re.soum.co.jp/~jun/OSC2019tokyospring.pdf
+ https://twitter.com/tsutsuii/status/1198066912376131584/photo/1
 
 The NetBSD booth exhibited the following machines:
 
-NetBSD/x68k on XM6i on NetBSD/earmv6hf on Raspberry Pi3
- https://twitter.com/ebijun/status/1098760376697610240
+NetBSD/zaurus 9.0_BETA by tsutsui@
+- Zaurus SL-C700
+  onscripter 20191116
+  https://twitter.com/tsutsuii/status/1198065587127107584
+- Zaurus SL-C760
+  mplayer 1.4
+  https://twitter.com/ebijun/status/1198069471790784512
+  https://www.nicovideo.jp/watch/sm35862615
+  https://www.nicovideo.jp/watch/sm35952140
+  https://www.nicovideo.jp/watch/sm34456103
+  https://www.nicovideo.jp/watch/sm32716634
+  https://www.nicovideo.jp/watch/sm35937598
+- Zaurus SL-C860
+  PC6001VX 3.3.1
+  https://twitter.com/ebijun/status/1198070625832538113
+- Zaurus SL-C1000
+  mplayer 1.4
+  https://twitter.com/ebijun/status/1198071812938010624
+  https://www.nicovideo.jp/watch/sm25426873
+  https://www.nicovideo.jp/watch/sm32524381
+  https://www.nicovideo.jp/watch/sm22662927
+- NetBSD/hpcarm on SHARP WZERO3
+  https://twitter.com/tsutsuii/status/1198065152785911808
 
-omxplayer on NetBSD/earmv7hf on RaspberryPI2 
+NetBSD/x68k on XM6i on NetBSD/earmv6hf on Raspberry Pi3B+
+ https://twitter.com/ebijun/status/1198056279849107457
+
+omxplayer on NetBSD/earmv7hf on RaspberryPI2-1.2
   and HD301D1 HD pico Laser Projector
    https://twitter.com/KSY_RasPi_Shop/status/1016906622457733120
-   https://twitter.com/ebijun/status/1098759690383613952
+   https://twitter.com/ebijun/status/1198082962115284992
 
-NetBSD/aarch64 on pinebook
- https://twitter.com/ebijun/status/1098761855470833664
- http://mail-index.netbsd.org/port-arm/2019/02/20/msg005507.html
+mikutter on NetBSD/aarch64 on pinebook
+ https://twitter.com/ebijun/status/1198056279849107457
+ HDMI output port enabled.thanx jmcneil@!
+ http://mail-index.netbsd.org/port-arm/2019/11/24/msg006328.html
+ https://twitter.com/ebijun/status/1198487030075777024
 
-FreeBSD/mips onion omega zrouter and mruby by @yamori813
- https://twitter.com/ebijun/status/1098856833983234048
+Hacking the third Smartphone OS and Some Mobile device in 2019
+ by @kapper1224
+ https://www.slideshare.net/kapper1224/3os-in-2019-fall-hacking-the-third-smartphone-os-and-some-mobile-device-in-2019-osc19tk
+ https://twitter.com/ebijun/status/1198111508837748737
 
-NetBSD/nintendo64 dmesg: by @murachue
- https://gist.github.com/murachue/531ed3ca201ab4155d22442272d92ed2#file-201902140007-txt
-
-FreeNAS startup book: by @kameneko1004 
- https://www.lab-dev.net/works/techbookfest05
-
-GPDWIN by @steleto
- https://twitter.com/ebijun/status/1099186152114802689
- eMMC problem on GPDWIN
- https://steleto.hatenablog.jp/entry/20180804/1533360441
- http://www.nerv.org/netbsd/changeset.cgi?id=20170411T232633Z.22a4ed8c2c1299214fb4731a025b115e12c28036#src/sys/dev/sdmmc/sdmmc_mem.c
- if (!ISSET(sc->sc_flags, SMF_UHS_MODE))
-
-OpenBSD on WN802 by Shimon Ito
- https://www.mouse-jp.co.jp/luvpad/wn802/
+NetBSD Tourist Guide:
+ http://www.re.soum.co.jp/~jun/OSC2019tokyofall.pdf
 
 Demo Images:
- RaspberryPi 0-3 NetBSD/earmv6hf
-  http://mail-index.netbsd.org/port-arm/2019/02/20/msg005506.html
+ RaspberryPi NetBSD/earmv6hf
+  http://mail-index.netbsd.org/port-arm/2019/11/21/msg006322.html
 
 Booth donations,Thanx:
 
+Linux Professional Institute
+ BSD SPECIALIST
+ https://www.lpi.org/ja/our-certifications/bsd-overview
+ https://twitter.com/ebijun/status/1198076404245520384
+
 Uiro and stickers by @shimadah https://tokaidolug.colorfultime.net/
- https://twitter.com/ebijun/status/1098762425459822592
- https://twitter.com/ebijun/status/1098769803475443712
+ https://twitter.com/ebijun/status/1198035185784127488
 
-FreeBSD Stickers by meta@FreeBSD
- https://twitter.com/ebijun/status/1098780435818020864
+https://haruk.in/ and Hubzilla and .Tokyo
+ https://twitter.com/ebijun/status/1198041558668333056
 
-FreeBSD developer and xrdp and me by meta@FreeBSD
- https://twitter.com/ebijun/status/1099171083243012097
+Japanese persimmons (Kaki no mi) by @yamori813
 
 More pictures are available on Togetter page:
- https://togetter.com/li/1321833
+ https://togetter.com/li/1433822
 
-6th OSC award:
- https://www.ospn.jp/press/20190201osc-award-6.html
-
-Thanx Takanori Isihara,for supporting BSD usergroups in Japan
+Thanx Takanori Isihara,long long time supporting BSD usergroups in Japan
+ may rest in peace.without any fear.
  http://www.rururu.org/fswiki/wiki.cgi?page=FrontPage
+ https://twitter.com/n_soda/status/1182091851538432002
+
+2019 year review:
+ Thanx for supporting NetBSD and NetBSD booth.
+ https://github.com/ebijun/NetBSD/blob/master/Guide/RPI/RPIupdate2019.rst
+ https://github.com/ebijun/NetBSD/blob/master/Guide/OSC/OSC2019.rst
 
 NEXT:
 
-AsiaBSDCon2019 : Mar.21-24 Tokyo,JAPAN
-  https://2019.asiabsdcon.org/access.html.en
-  https://2019.asiabsdcon.org/
-- NetBSD BOF 2019 :  Mar. 21 11:00-18:00
-  https://wiki.netbsd.org/summits/AsiaBSDCon_2019_NetBSD_BoF/
+NetBSD Advent Calendar 2019
+    https://qiita.com/advent-calendar/2019/netbsd
+
+Open Source Conference 2020 Osaka:  Jan.24-25 Osaka,JAPAN
+    http://www.ospn.jp/osc2019-osaka/
+    https://www.facebook.com/pg/NetBSD.jp/events/
 
 TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
 ---
