@@ -34,6 +34,7 @@ NetBSD/zaurus 9.0_BETA by tsutsui@
   https://www.nicovideo.jp/watch/sm35937598
 - Zaurus SL-C860
   PC6001VX 3.3.1
+  https://twitter.com/tsutsuii/status/1198026669958651904
   https://twitter.com/ebijun/status/1198070625832538113
 - Zaurus SL-C1000
   mplayer 1.4
@@ -53,7 +54,7 @@ omxplayer on NetBSD/earmv7hf on RaspberryPI2-1.2
    https://twitter.com/ebijun/status/1198082962115284992
 
 mikutter on NetBSD/aarch64 on pinebook
- https://twitter.com/ebijun/status/1198056279849107457
+ https://twitter.com/ebijun/status/1198056804392947712
  HDMI output port enabled.thanx jmcneil@!
  http://mail-index.netbsd.org/port-arm/2019/11/24/msg006328.html
  https://twitter.com/ebijun/status/1198487030075777024
