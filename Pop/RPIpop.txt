@@ -1,0 +1,32 @@
+OSC2020大阪　Raspberry Pi 展示
+Raspberry Pi 3B
+NetBSD/earmv6hf 9.99.37
+2018年3月14日発売
+CPU BCM2837B0 1.4GHz 1GB RAM
+HDMI出力
+展示中デモ:
+X68030用NetBSD/x68kを
+XM6i X68000 エミュレータ上で動かしています。
+mate デスクトップ
+omxplayerによる動画再生
+
+OSC2020大阪 Raspberry Pi 展示
+Raspberry Pi 2-1.2
+NetBSD/earmv7hf 9.99.17
+2016年7月26日発売
+CPU BCM2837 900MHz 1GB RAM
+展示中デモ;
+omxplayerによる動画再生
+プロジェクタ
+
+OSC2020大阪 pinebook展示
+pinebook 11
+NetBSD/aarch64 9.99.30
+2016年発売
+CPU AllwinnerA64 1152MHz 2GB RAM
+1920x1080 &外部HDMI出力
+展示中デモ:
+mikutter
+mateデスクトップ
+ハードウェアアクセラレーションによる動画再生
+
