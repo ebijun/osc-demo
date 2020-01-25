@@ -1,0 +1,56 @@
+To: netbsd-advocacy%NetBSD.org@localhost
+Subject: NetBSD machines at Open Source Conference 2020 Osaka
+
+The Japan NetBSD Users' Group held booth
+at the Open Source Conference 2020 Osaka on Jan.25 2020:
+
+ http://www.ospn.jp/osc2020-osaka/
+ http://www.jp.NetBSD.org/
+ https://www.facebook.com/NetBSD.jp/
+
+Presentation:
+ NetBSD/sun3 60 by tsutsui@
+ 
+Booth:
+
+NetBSD/sun3 NetBSD9.0_RC1 by tsutsui@
+ MC68020 20MHz 24MB 1152x900 display
+ sayaka twitter client
+ nanododon,mastdon client 
+  https://github.com/taka-tuos/nanotodon
+ monochrome display converter
+
+NetBSD/x68k on NetBSD/earmv6hf on RaspberryPI 3
+ https://twitter.com/ebijun/status/1089000069448134656
+
+XM6i X68030 emulator 
+  http://www.pastel-flower.jp/~isaki/XM6i/
+
+NetBSD/pinebook
+ https://github.com/ebijun/NetBSD/blob/master/pinebook/README
+omxplayer on NetBSD/earmv7hf on RaspberryPi2
+ https://twitter.com/ebijun/status/1089003014742978561
+
+Testing:
+ RaspberryPi4
+ Pinebook Pro
+
+NetBSD Tourist Guide:
+ http://www.re.soum.co.jp/~jun/OSC2020osaka.pdf
+
+Demo Images:
+ 2020-01-26-netbsd-raspi-earmv6hf.img
+
+Thanx booth donation:
+ Uiro: by @shimadah https://tokaidolug.colorfultime.net/
+
+More pictures are available on Togetter page:
+
+NEXT:
+ Open Source Conference 2020 Tokyo/Spring:  Feb.21-22 Tokyo,JAPAN
+    http://www.ospn.jp/osc2020-spring/
+    https://www.facebook.com/pg/NetBSD.jp/events/
+
+TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
+---
+Jun Ebihara
