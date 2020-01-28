@@ -1,55 +1,78 @@
 To: netbsd-advocacy%NetBSD.org@localhost
 Subject: NetBSD machines at Open Source Conference 2020 Osaka
 
-The Japan NetBSD Users' Group held booth
-at the Open Source Conference 2020 Osaka on Jan.25 2020:
+The Japan NetBSD Users' Group and Kansai *BSD Users Group 
+held booth at the 
+Open Source Conference 2020 Osaka on Jan.25 2020:
 
  http://www.ospn.jp/osc2020-osaka/
  http://www.jp.NetBSD.org/
  https://www.facebook.com/NetBSD.jp/
 
 Presentation:
- NetBSD/sun3 60 by tsutsui@
+ NetBSD/sun3 demonstration on Sun3/60 by tsutsui@
+ https://speakerdeck.com/tsutsui/osc2020osaka
  
 Booth:
+ https://twitter.com/ebijun/status/1220909794136969217
 
 NetBSD/sun3 NetBSD9.0_RC1 by tsutsui@
  MC68020 20MHz 24MB 1152x900 display
- sayaka twitter client
- nanododon,mastdon client 
-  https://github.com/taka-tuos/nanotodon
- monochrome display converter
+ donated from naru@
+ https://twitter.com/tsutsuii/status/1220875212339548163
+ https://twitter.com/tsutsuii/status/1220885411578269702
 
-NetBSD/x68k on NetBSD/earmv6hf on RaspberryPI 3
- https://twitter.com/ebijun/status/1089000069448134656
+- sayaka twitter client by isaki@
+  pkgsrc/net/sayaka
+- nanododon,mastdon client 
+  https://github.com/taka-tuos/nanotodon
+- monochrome display converter
+  https://speakerdeck.com/tsutsui/osc2020osaka?slide=37
+- Type3 - Type4 keyboard converter
+  https://speakerdeck.com/tsutsui/osc2020osaka?slide=30
+
+NetBSD/x68k on XM6i on NetBSD/earmv6hf on RaspberryPI 3
+ https://twitter.com/ebijun/status/1220882970203971584
 
 XM6i X68030 emulator 
   http://www.pastel-flower.jp/~isaki/XM6i/
 
 NetBSD/pinebook
+ http://mail-index.netbsd.org/port-arm/2020/01/18/msg006447.html
  https://github.com/ebijun/NetBSD/blob/master/pinebook/README
-omxplayer on NetBSD/earmv7hf on RaspberryPi2
- https://twitter.com/ebijun/status/1089003014742978561
+ https://twitter.com/ebijun/status/1220952778886938626
 
-Testing:
- RaspberryPi4
- Pinebook Pro
+omxplayer on NetBSD/earmv7hf on RaspberryPi2
+ https://twitter.com/ebijun/status/1220883287230402561
+
+Kansai *BSD Users Group: by @daemon1995
+http://www.kbug.gr.jp/
+- Ubuntu Linux on Fujitsu TX1310M3
+- Jetson TK1 CUDA demonstration
+- Jetson-nano Motion detection demonstration
+- AstroBerry2+RaspberryPi4B+ArmorCase
 
 NetBSD Tourist Guide:
  http://www.re.soum.co.jp/~jun/OSC2020osaka.pdf
 
 Demo Images:
  2020-01-26-netbsd-raspi-earmv6hf.img
+ http://mail-index.netbsd.org/port-arm/2020/01/21/msg006451.html
 
 Thanx booth donation:
  Uiro: by @shimadah https://tokaidolug.colorfultime.net/
+ https://twitter.com/ebijun/status/1220867203601293312
 
 More pictures are available on Togetter page:
+ https://togetter.com/li/1459510
 
 NEXT:
  Open Source Conference 2020 Tokyo/Spring:  Feb.21-22 Tokyo,JAPAN
     http://www.ospn.jp/osc2020-spring/
     https://www.facebook.com/pg/NetBSD.jp/events/
+
+ NetBSD BOF 2020 Feb.21 Fri 11:00-11:45
+ https://www.ospn.jp/osc2020-spring/modules/eventrsv/?id=1&noform=1
 
 TUNE IN NEXT NetBSD,Same NetBSD-time,Same NetBSD-channel.
 ---
