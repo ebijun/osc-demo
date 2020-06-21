@@ -35,6 +35,8 @@ Demonstaration setting for NetBSD Booth
  gs -sDEVICE=pdfwrite -dProcessColorModel=/DeviceGray -dColorConversionStrategy=/Gray -dPDFUseOldCMS=false -o out.pdf -f in.pdf
  白黒に変換したPDFファイルをもとに白黒冊子が印刷できる。
 
+ 155.	OSC2020北海道 http://www.re.soum.co.jp/~jun/OSC2020hokkaido.pdf
+ 154.  OSC2020名古屋 http://www.re.soum.co.jp/~jun/OSC2020nagoya.pdf
  153.  OSC2020大阪 http://www.re.soum.co.jp/~jun/OSC2020osaka.pdf
  152.  OSC2019東京秋 http://www.re.soum.co.jp/~jun/OSC2019tokyofall.pdf
  151.  OSC2019福岡 http://www.re.soum.co.jp/~jun/OSC2019fukuoka.pdf
