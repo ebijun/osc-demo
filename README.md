@@ -35,6 +35,7 @@ Demonstaration setting for NetBSD Booth
  gs -sDEVICE=pdfwrite -dProcessColorModel=/DeviceGray -dColorConversionStrategy=/Gray -dPDFUseOldCMS=false -o out.pdf -f in.pdf
  白黒に変換したPDFファイルをもとに白黒冊子が印刷できる。
 
+ 191. OSC2023島根 http://www.re.soum.co.jp/~jun/OSC2023shimane.pdf
  190. OSC2023東京秋 http://www.re.soum.co.jp/~jun/OSC2023tokyofall.pdf
  189.  ODC2023 http://www.re.soum.co.jp/~jun/ODC2023.pdf
  188. OSC2023京都 http://www.re.soum.co.jp/~jun/OSC2023kyoto.pdf
@@ -67,13 +68,13 @@ Demonstaration setting for NetBSD Booth
  161.  OSC2020福岡 http://www.re.soum.co.jp/~jun/OSC2020fukuoka.pdf
  160.  KOF2020    http://www.re.soum.co.jp/~jun/KOF2020.pdf
  159.  OSC2020東京秋 http://www.re.soum.co.jp/~jun/OSC2020tokyofall.pdf
- 158.  OSC2020広島 http://www.re.soum.co.jp/~jun/OSC2020hiroshima.pdf
- 157.	OSC2020京都 http://www.re.soum.co.jp/~jun/OSC2020kyoto.pdf
- 156.	OSC2020新潟 http://www.re.soum.co.jp/~jun/OSC2020niigata.pdf
- 155.	OSC2020北海道 http://www.re.soum.co.jp/~jun/OSC2020hokkaido.pdf
+ 158. OSC2020広島 http://www.re.soum.co.jp/~jun/OSC2020hiroshima.pdf
+ 157. OSC2020京都 http://www.re.soum.co.jp/~jun/OSC2020kyoto.pdf
+ 156. OSC2020新潟 http://www.re.soum.co.jp/~jun/OSC2020niigata.pdf
+ 155. OSC2020北海道 http://www.re.soum.co.jp/~jun/OSC2020hokkaido.pdf
  154.  OSC2020名古屋 http://www.re.soum.co.jp/~jun/OSC2020nagoya.pdf
- 153.  OSC2020大阪 http://www.re.soum.co.jp/~jun/OSC2020osaka.pdf
- 152.  OSC2019東京秋 http://www.re.soum.co.jp/~jun/OSC2019tokyofall.pdf
+ 153. OSC2020大阪 http://www.re.soum.co.jp/~jun/OSC2020osaka.pdf
+ 152. OSC2019東京秋 http://www.re.soum.co.jp/~jun/OSC2019tokyofall.pdf
  151.  OSC2019福岡 http://www.re.soum.co.jp/~jun/OSC2019fukuoka.pdf
  150.  KOF2019    http://www.re.soum.co.jp/~jun/KOF2019.pdf
  149.  OSC2019徳島 http://www.re.soum.co.jp/~jun/OSC2019tokushima.pdf
