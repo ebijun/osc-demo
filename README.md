@@ -43,7 +43,7 @@ Demonstaration setting for NetBSD Booth
  189.  ODC2023 http://www.re.soum.co.jp/~jun/ODC2023.pdf
  188. OSC2023京都 http://www.re.soum.co.jp/~jun/OSC2023kyoto.pdf
  187. OSC2023北海道 http://www.re.soum.co.jp/~jun/OSC2023hokkaido.pdf
- 186. OSC2022名古屋 http://www.re.soum.co.jp/~jun/OSC2023nagoya.pdf
+ 186. OSC2023名古屋 http://www.re.soum.co.jp/~jun/OSC2023nagoya.pdf
  185. OSC2023東京春 http://www.re.soum.co.jp/~jun/OSC2023tokyospring.pdf
  184. OSC2023大阪 http://www.re.soum.co.jp/~jun/OSC2023osaka.pdf 
  183. OSC2022福岡 http://www.re.soum.co.jp/~jun/OSC2022fukuoka.pdf
