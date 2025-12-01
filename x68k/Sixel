@@ -1,0 +1,1 @@
+pngtopnm $1 |pnmquant 16 |ppmtosixel > `basename $1 .png`.sixel
